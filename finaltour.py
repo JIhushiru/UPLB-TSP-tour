@@ -70,3 +70,37 @@ locations = {
     '5': 'Mariang Banga', '6': 'DL Umali Hall', '7': 'Freedom Park', '8': 'Baker Hall', '9': 'Carillon Tower',
     '10': 'Copeland', '11': 'Searca', '12': 'Botanical Garden', '13': 'IRRI'
 }
+
+while True:
+    try:
+        start_point = int(input("Enter the starting point (from 0 to 13): "))
+        if 0 <= start_point <= 13:
+            break
+        else:
+            print("Invalid starting point. Please enter a number between 0 and 13.")
+    except ValueError:
+        print("Invalid input. Please enter a valid integer.")
+
+start_time = datetime.now()
+res, path = travelling_salesman_function(graph, start_point)
+
+# Adding 1 to each vertex in the final path
+
+print(f"Minimum cost: {res}")
+print(f"Path taken: {path}")
+
+path_locations = [locations[str(node)] for node in path]
+print(f"Optimal Path taken: {' -> '.join(path_locations)}")
+
+
+def compute_distance(path, graph):
+    distance = 0
+    for i in range(len(path) - 1):
+        from_node = path[i]
+        to_node = path[i + 1]
+        distance += graph[from_node][to_node]
+    return distance
+
+distance = compute_distance(path, graph)
+print(f"Total distance of the path: {distance} meters")
+print(f"Total time taken: {datetime.now()-start_time}")
