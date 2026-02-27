@@ -1,0 +1,90 @@
+import { graph, locations } from "./data";
+import type { TSPResult } from "./types";
+
+export function solveTSP(selectedIndices: number[], startNode: number): TSPResult {
+  const startTime = performance.now();
+
+  const n = selectedIndices.length;
+  const subGraph: number[][] = [];
+  for (let i = 0; i < n; i++) {
+    const row: number[] = [];
+    for (let j = 0; j < n; j++) {
+      row.push(graph[selectedIndices[i]][selectedIndices[j]]);
+    }
+    subGraph.push(row);
+  }
+
+  const subStart = selectedIndices.indexOf(startNode);
+  const fullMask = (1 << n) - 1;
+
+  const dp = Array.from({ length: n }, () => new Float64Array(1 << n).fill(-1));
+  const parent = Array.from({ length: n }, () => new Int8Array(1 << n).fill(-1));
+
+  function tsp(curr: number, mask: number): number {
+    if (mask === 0) {
+      return subGraph[curr][subStart];
+    }
+
+    if (dp[curr][mask] !== -1) {
+      return dp[curr][mask];
+    }
+
+    let minCost = Number.MAX_SAFE_INTEGER;
+    let nextNode = -1;
+
+    for (let i = 0; i < n; i++) {
+      if (mask & (1 << i)) {
+        const cost = subGraph[curr][i] + tsp(i, mask ^ (1 << i));
+        if (cost < minCost) {
+          minCost = cost;
+          nextNode = i;
+        }
+      }
+    }
+
+    dp[curr][mask] = minCost;
+    parent[curr][mask] = nextNode;
+    return minCost;
+  }
+
+  const minCost = tsp(subStart, fullMask ^ (1 << subStart));
+
+  const subPath = [subStart];
+  let curr = subStart;
+  let mask = fullMask ^ (1 << subStart);
+
+  while (mask !== 0) {
+    const next = parent[curr][mask];
+    subPath.push(next);
+    mask = mask ^ (1 << next);
+    curr = next;
+  }
+  subPath.push(subStart);
+
+  const path = subPath.map((i) => selectedIndices[i]);
+
+  let totalDistance = 0;
+  for (let i = 0; i < path.length - 1; i++) {
+    totalDistance += graph[path[i]][path[i + 1]];
+  }
+
+  const elapsedMs = performance.now() - startTime;
+
+  const segments = [];
+  for (let i = 0; i < path.length - 1; i++) {
+    segments.push({
+      from: locations[path[i]],
+      to: locations[path[i + 1]],
+      distance: graph[path[i]][path[i + 1]],
+    });
+  }
+
+  return {
+    minCost,
+    path,
+    pathLocations: path.map((i) => locations[i]),
+    totalDistance,
+    elapsedMs,
+    segments,
+  };
+}
