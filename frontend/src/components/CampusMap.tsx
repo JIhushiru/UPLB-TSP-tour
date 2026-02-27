@@ -9,7 +9,7 @@ import { getLocationImagePath, FALLBACK_IMAGE } from "../utils/locationImages";
 const CENTER: [number, number] = [14.1590, 121.2410];
 const ZOOM = 15;
 
-function createIcon(color: string, size: number) {
+function createDotIcon(color: string, size: number) {
   return L.divIcon({
     className: "map-marker",
     html: `<div style="
@@ -24,11 +24,26 @@ function createIcon(color: string, size: number) {
   });
 }
 
-const unselectedIcon = createIcon("#9ca3af", 10);
-const selectedIcon = createIcon("#6b7280", 14);
-const startIcon = createIcon("#2563eb", 20);
-const visitedIcon = createIcon("#3b82f6", 16);
-const pendingIcon = createIcon("#6b7280", 14);
+function createNumberedIcon(color: string, size: number, label: string) {
+  return L.divIcon({
+    className: "map-marker",
+    html: `<div style="
+      width:${size}px;height:${size}px;
+      background:${color};
+      border:2px solid white;
+      border-radius:50%;
+      box-shadow:0 1px 4px rgba(0,0,0,0.4);
+      display:flex;align-items:center;justify-content:center;
+      color:white;font-size:${Math.max(size * 0.45, 9)}px;font-weight:700;
+      line-height:1;
+    ">${label}</div>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+  });
+}
+
+const unselectedIcon = createDotIcon("#9ca3af", 10);
+const selectedIcon = createDotIcon("#6b7280", 14);
 
 function arrowHead(from: [number, number], to: [number, number]) {
   const dLat = to[0] - from[0];
@@ -115,6 +130,16 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
     }
   }
 
+  // Build a map from location index to its route order (1-based), excluding the return-to-start duplicate
+  const routeOrder = new Map<number, number>();
+  if (path) {
+    for (let i = 0; i < path.length - 1; i++) {
+      if (!routeOrder.has(path[i])) {
+        routeOrder.set(path[i], i + 1);
+      }
+    }
+  }
+
   const currentLocationIndex = isAnimating && path
     ? (path[animationStep + 1] ?? path[animationStep])
     : null;
@@ -159,14 +184,17 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
             const isSelected = selectedLocations?.has(i);
             const isStart = i === startPoint && isSelected;
             const isInPath = path?.includes(i);
+            const order = routeOrder.get(i);
 
             let icon;
-            if (isStart) {
-              icon = startIcon;
-            } else if (isAnimating && isInPath) {
-              icon = reachedNodes.has(i) ? visitedIcon : pendingIcon;
-            } else if (isInPath) {
-              icon = visitedIcon;
+            if (isStart && order !== undefined) {
+              icon = createNumberedIcon("#2563eb", 24, String(order));
+            } else if (isAnimating && isInPath && order !== undefined) {
+              icon = reachedNodes.has(i)
+                ? createNumberedIcon("#3b82f6", 22, String(order))
+                : createNumberedIcon("#6b7280", 22, String(order));
+            } else if (isInPath && order !== undefined) {
+              icon = createNumberedIcon("#3b82f6", 22, String(order));
             } else if (isSelected) {
               icon = selectedIcon;
             } else {
