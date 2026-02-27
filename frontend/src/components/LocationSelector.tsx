@@ -15,7 +15,7 @@ function PinIcon({ active }: { active: boolean }) {
       strokeLinecap="round"
       strokeLinejoin="round"
       className={`shrink-0 transition-colors duration-150 ${
-        active ? "text-blue-500" : "text-muted opacity-0 group-hover:opacity-60"
+        active ? "text-blue-500" : "text-muted opacity-60 sm:opacity-0 sm:group-hover:opacity-60"
       }`}
     >
       <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
