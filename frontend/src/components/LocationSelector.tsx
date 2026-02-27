@@ -1,4 +1,4 @@
-import type { Dispatch, SetStateAction } from "react";
+import type { Dispatch, SetStateAction, MouseEvent } from "react";
 import { locations } from "../tsp/data";
 
 const MAX_SELECTION = 22;
@@ -20,7 +20,6 @@ export default function LocationSelector({
   onSolve,
   isComputing,
 }: LocationSelectorProps) {
-  const selectedArray = [...selectedLocations].sort((a, b) => a - b);
   const atLimit = selectedLocations.size >= MAX_SELECTION;
 
   function toggleLocation(index: number) {
@@ -35,6 +34,14 @@ export default function LocationSelector({
     });
   }
 
+  function handleSetStart(e: MouseEvent, index: number) {
+    e.preventDefault();
+    e.stopPropagation();
+    if (selectedLocations.has(index)) {
+      setStartPoint(index);
+    }
+  }
+
   function selectAll() {
     const all = new Set(locations.map((_, i) => i).slice(0, MAX_SELECTION));
     setSelectedLocations(all);
@@ -43,8 +50,6 @@ export default function LocationSelector({
   function deselectAll() {
     setSelectedLocations(new Set());
   }
-
-  const validStart = selectedLocations.has(startPoint);
 
   return (
     <div className="flex flex-col gap-3 bg-surface border rounded-[10px] p-6 mb-6">
@@ -79,16 +84,28 @@ export default function LocationSelector({
         </p>
       )}
 
+      {selectedLocations.size >= 1 && (
+        <p className="m-0 text-[0.75rem] text-muted">
+          Right-click a selected location to set it as the starting point.
+        </p>
+      )}
+
       <div className="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-1.5">
         {locations.map((name, index) => {
           const checked = selectedLocations.has(index);
           const disabled = !checked && atLimit;
+          const isStart = checked && index === startPoint;
           return (
             <label
               key={index}
-              className={`flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-[0.85rem] text-foreground cursor-pointer transition-colors duration-150 border border-transparent hover:bg-background min-w-0 ${
-                checked ? "bg-accent-surface border-accent font-medium" : "font-normal"
-              } ${disabled ? "opacity-40 cursor-not-allowed" : ""}`}
+              onContextMenu={(e) => handleSetStart(e, index)}
+              className={`flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-[0.85rem] text-foreground cursor-pointer transition-colors duration-150 border min-w-0 ${
+                isStart
+                  ? "bg-blue-600/15 border-blue-500 font-semibold ring-1 ring-blue-500/30"
+                  : checked
+                    ? "bg-accent-surface border-accent font-medium"
+                    : "border-transparent font-normal"
+              } ${disabled ? "opacity-40 cursor-not-allowed" : ""} hover:bg-background`}
             >
               <input
                 type="checkbox"
@@ -98,31 +115,15 @@ export default function LocationSelector({
                 className="accent-accent w-[15px] h-[15px] shrink-0 cursor-[inherit]"
               />
               <span className="truncate">{name}</span>
+              {isStart && (
+                <span className="ml-auto shrink-0 text-[0.65rem] font-semibold uppercase tracking-wide text-blue-500 bg-blue-500/10 px-1.5 py-0.5 rounded">
+                  Start
+                </span>
+              )}
             </label>
           );
         })}
       </div>
-
-      {selectedArray.length >= 2 && (
-        <>
-          <label htmlFor="start-point" className="font-semibold text-[0.9rem] text-muted">
-            Starting Location
-          </label>
-          <select
-            id="start-point"
-            value={validStart ? startPoint : selectedArray[0]}
-            onChange={(e) => setStartPoint(Number(e.target.value))}
-            disabled={isComputing}
-            className="py-2.5 px-3 border border-input rounded-md text-[0.95rem] bg-background text-foreground cursor-pointer"
-          >
-            {selectedArray.map((index) => (
-              <option key={index} value={index}>
-                {locations[index]}
-              </option>
-            ))}
-          </select>
-        </>
-      )}
 
       <button
         className="py-[0.7rem] px-5 bg-accent text-white border-none rounded-md text-base font-semibold cursor-pointer transition-colors duration-200 hover:bg-accent-hover disabled:opacity-60 disabled:cursor-not-allowed"
