@@ -1,7 +1,28 @@
-import type { Dispatch, SetStateAction, MouseEvent } from "react";
+import type { Dispatch, SetStateAction } from "react";
 import { locations } from "../tsp/data";
 
 const MAX_SELECTION = 22;
+
+function PinIcon({ active }: { active: boolean }) {
+  return (
+    <svg
+      width="14"
+      height="14"
+      viewBox="0 0 24 24"
+      fill={active ? "currentColor" : "none"}
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={`shrink-0 transition-colors duration-150 ${
+        active ? "text-blue-500" : "text-muted opacity-0 group-hover:opacity-60"
+      }`}
+    >
+      <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+      <circle cx="12" cy="10" r="3" fill={active ? "white" : "none"} stroke={active ? "white" : "currentColor"} strokeWidth="2" />
+    </svg>
+  );
+}
 
 interface LocationSelectorProps {
   selectedLocations: Set<number>;
@@ -32,14 +53,6 @@ export default function LocationSelector({
       }
       return next;
     });
-  }
-
-  function handleSetStart(e: MouseEvent, index: number) {
-    e.preventDefault();
-    e.stopPropagation();
-    if (selectedLocations.has(index)) {
-      setStartPoint(index);
-    }
   }
 
   function selectAll() {
@@ -84,43 +97,44 @@ export default function LocationSelector({
         </p>
       )}
 
-      {selectedLocations.size >= 1 && (
-        <p className="m-0 text-[0.75rem] text-muted">
-          Right-click a selected location to set it as the starting point.
-        </p>
-      )}
-
       <div className="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-1.5">
         {locations.map((name, index) => {
           const checked = selectedLocations.has(index);
           const disabled = !checked && atLimit;
           const isStart = checked && index === startPoint;
           return (
-            <label
+            <div
               key={index}
-              onContextMenu={(e) => handleSetStart(e, index)}
-              className={`flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-[0.85rem] text-foreground cursor-pointer transition-colors duration-150 border min-w-0 ${
+              className={`group flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-[0.85rem] text-foreground transition-colors duration-150 border min-w-0 ${
                 isStart
-                  ? "bg-blue-600/15 border-blue-500 font-semibold ring-1 ring-blue-500/30"
+                  ? "bg-blue-600/15 border-blue-500 font-semibold"
                   : checked
                     ? "bg-accent-surface border-accent font-medium"
                     : "border-transparent font-normal"
-              } ${disabled ? "opacity-40 cursor-not-allowed" : ""} hover:bg-background`}
+              } ${disabled ? "opacity-40" : ""} hover:bg-background`}
             >
-              <input
-                type="checkbox"
-                checked={checked}
-                disabled={disabled || isComputing}
-                onChange={() => toggleLocation(index)}
-                className="accent-accent w-[15px] h-[15px] shrink-0 cursor-[inherit]"
-              />
-              <span className="truncate">{name}</span>
-              {isStart && (
-                <span className="ml-auto shrink-0 text-[0.65rem] font-semibold uppercase tracking-wide text-blue-500 bg-blue-500/10 px-1.5 py-0.5 rounded">
-                  Start
-                </span>
+              <label className="flex items-center gap-1.5 min-w-0 flex-1 cursor-pointer">
+                <input
+                  type="checkbox"
+                  checked={checked}
+                  disabled={disabled || isComputing}
+                  onChange={() => toggleLocation(index)}
+                  className={`accent-accent w-[15px] h-[15px] shrink-0 ${disabled ? "cursor-not-allowed" : "cursor-pointer"}`}
+                />
+                <span className="truncate">{name}</span>
+              </label>
+              {checked && (
+                <button
+                  type="button"
+                  onClick={() => setStartPoint(index)}
+                  disabled={isComputing}
+                  className="ml-auto shrink-0 p-0.5 bg-transparent border-none cursor-pointer rounded hover:bg-blue-500/10 transition-colors duration-150 disabled:cursor-not-allowed"
+                  title="Set as starting point"
+                >
+                  <PinIcon active={isStart} />
+                </button>
               )}
-            </label>
+            </div>
           );
         })}
       </div>
