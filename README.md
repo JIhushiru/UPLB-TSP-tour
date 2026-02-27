@@ -7,7 +7,7 @@
 - Select up to 22 campus landmarks to include in the route
 - Choose any location as the starting point
 - Computes the shortest route visiting all selected locations and returning to the start
-- Interactive map with numbered route markers and animated journey playback
+- Interactive map with numbered route markers, road-following routes, and animated journey playback
 - Displays total distance and detailed route segments
 - Light/dark mode support
 
@@ -37,10 +37,14 @@ This approach only supported **14 fixed locations** and required re-doing the en
    ```bash
    python generate_matrix.py
    ```
-3. Paste the output into `frontend/src/tsp/data.ts`
+3. **Generate route geometries** — `generate_routes.py` pre-computes the actual road paths (coordinate-by-coordinate) for every pair of landmarks via OSRM, so the map can display road-following routes instead of straight lines
+   ```bash
+   python generate_routes.py
+   ```
+4. Paste the outputs into `frontend/src/tsp/data.ts` and `frontend/src/tsp/routes.ts`
 4. Users can **dynamically select** which locations to include — the solver extracts the relevant sub-graph at runtime
 
-This supports **27 locations**. To add more, add the landmark name to `generate_coordinates.py`, run both scripts, and update `data.ts`.
+This supports **27 locations**. To add more, add the landmark name to `generate_coordinates.py`, run all three scripts, and update `data.ts` and `routes.ts`.
 
 ## Algorithm
 
@@ -53,7 +57,7 @@ This supports **27 locations**. To add more, add the landmark name to `generate_
 ## Tech Stack
 
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS
-- **Map:** Leaflet + OpenStreetMap tiles
+- **Map:** Leaflet + OpenStreetMap tiles + OSRM road-following routes
 - **Algorithm:** Pure TypeScript (runs client-side in a Web Worker)
 - **Original Prototype:** Python (CLI-based, `finaltour.py`)
 

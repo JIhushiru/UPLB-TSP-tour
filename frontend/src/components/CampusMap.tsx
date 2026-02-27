@@ -4,6 +4,7 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { locations, coordinates } from "../tsp/data";
 import type { TSPResult } from "../tsp/types";
+import type { RouteGeometry } from "../hooks/useRouteGeometries";
 import { getLocationImagePath, FALLBACK_IMAGE } from "../utils/locationImages";
 
 const CENTER: [number, number] = [14.1590, 121.2410];
@@ -93,9 +94,11 @@ interface CampusMapProps {
   startPoint: number;
   selectedLocations: Set<number>;
   animationStep: number | null;
+  routeGeometries: RouteGeometry[] | null;
+  isLoadingRoutes: boolean;
 }
 
-export default function CampusMap({ result, startPoint, selectedLocations, animationStep }: CampusMapProps) {
+export default function CampusMap({ result, startPoint, selectedLocations, animationStep, routeGeometries }: CampusMapProps) {
   const path = result?.path;
   const mapRef = useRef(null);
   const isAnimating = animationStep !== null && animationStep !== undefined;
@@ -166,14 +169,36 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
           <FitBounds indices={visibleIndices} />
           {isAnimating && <AnimationPanner path={path!} animationStep={animationStep} />}
 
-          {routeLatLngs.length > 1 && (
-            <Polyline positions={routeLatLngs} pathOptions={lineOptions} />
+          {routeGeometries && path ? (
+            <>
+              {routeGeometries.map((segmentCoords, i) => {
+                if (i >= visibleSegments) return null;
+                return (
+                  <Polyline key={`route-seg-${i}`} positions={segmentCoords} pathOptions={lineOptions} />
+                );
+              })}
+            </>
+          ) : (
+            routeLatLngs.length > 1 && (
+              <Polyline positions={routeLatLngs} pathOptions={lineOptions} />
+            )
           )}
 
-          {path && path.map((nodeIdx, i) => {
+          {path && path.map((_, i) => {
             if (i >= visibleSegments || i >= path.length - 1) return null;
-            const from = coordinates[nodeIdx];
-            const to = coordinates[path[i + 1]];
+
+            let from: [number, number];
+            let to: [number, number];
+
+            if (routeGeometries?.[i] && routeGeometries[i].length >= 2) {
+              const geo = routeGeometries[i];
+              from = geo[geo.length - 2];
+              to = geo[geo.length - 1];
+            } else {
+              from = coordinates[path[i]];
+              to = coordinates[path[i + 1]];
+            }
+
             const triangle = arrowHead(from, to);
             return (
               <Polygon key={`arrow-${i}`} positions={triangle} pathOptions={arrowStyle} />

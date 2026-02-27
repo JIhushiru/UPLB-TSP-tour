@@ -4,6 +4,7 @@ import RouteResult from "./components/RouteResult";
 import CampusMap from "./components/CampusMap";
 import { graph, locations } from "./tsp/data";
 import type { TSPResult } from "./tsp/types";
+import { useRouteGeometries } from "./hooks/useRouteGeometries";
 import SolverWorker from "./tsp/solver.worker.js?worker";
 
 function getInitialTheme(): "light" | "dark" | null {
@@ -24,6 +25,7 @@ function App() {
   const [isAnimating, setIsAnimating] = useState(false);
   const animationTimer = useRef<number | undefined>(undefined);
   const workerRef = useRef<Worker | null>(null);
+  const { routeGeometries, isLoadingRoutes } = useRouteGeometries(result);
 
   useEffect(() => {
     if (theme) {
@@ -91,7 +93,7 @@ function App() {
   }
 
   const handleAnimate = useCallback(() => {
-    if (!result) return;
+    if (!result || isLoadingRoutes) return;
     const totalSegments = result.segments.length;
     setAnimationStep(0);
     setIsAnimating(true);
@@ -108,7 +110,7 @@ function App() {
         setAnimationStep(step);
       }
     }, 800);
-  }, [result]);
+  }, [result, isLoadingRoutes]);
 
   const effectiveTheme =
     theme ||
@@ -165,6 +167,8 @@ function App() {
           startPoint={startPoint}
           selectedLocations={selectedLocations}
           animationStep={animationStep}
+          routeGeometries={routeGeometries}
+          isLoadingRoutes={isLoadingRoutes}
         />
 
         {isComputing && (
