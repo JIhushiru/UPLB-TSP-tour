@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { MapContainer, TileLayer, Marker, Polyline, Polygon, Tooltip, useMap } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Polyline, Tooltip, useMap } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { locations, coordinates } from "../tsp/data";
@@ -45,26 +45,6 @@ function createNumberedIcon(color: string, size: number, label: string) {
 
 const unselectedIcon = createDotIcon("#9ca3af", 10);
 const selectedIcon = createDotIcon("#6b7280", 14);
-
-function arrowHead(from: [number, number], to: [number, number]) {
-  const dLat = to[0] - from[0];
-  const dLng = to[1] - from[1];
-  const segLen = Math.sqrt(dLat * dLat + dLng * dLng);
-  const angle = Math.atan2(dLat, dLng);
-
-  const offset = Math.min(0.0006, segLen * 0.3);
-  const baseLat = to[0] - Math.sin(angle) * offset;
-  const baseLng = to[1] - Math.cos(angle) * offset;
-
-  const size = 0.00035;
-  const half = Math.PI / 2;
-
-  const tip: [number, number] = [baseLat + Math.sin(angle) * size, baseLng + Math.cos(angle) * size];
-  const left: [number, number] = [baseLat + Math.sin(angle + half + 0.4) * size * 0.7, baseLng + Math.cos(angle + half + 0.4) * size * 0.7];
-  const right: [number, number] = [baseLat + Math.sin(angle - half - 0.4) * size * 0.7, baseLng + Math.cos(angle - half - 0.4) * size * 0.7];
-
-  return [tip, left, right];
-}
 
 function AnimationPanner({ path, animationStep }: { path: number[]; animationStep: number }) {
   const map = useMap();
@@ -113,13 +93,6 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
     color: "#3b82f6",
     weight: 4,
     opacity: 0.85,
-  };
-
-  const arrowStyle = {
-    color: "#2563eb",
-    fillColor: "#3b82f6",
-    fillOpacity: 1,
-    weight: 1,
   };
 
   const visibleIndices = selectedLocations && selectedLocations.size > 0
@@ -183,27 +156,6 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
               <Polyline positions={routeLatLngs} pathOptions={lineOptions} />
             )
           )}
-
-          {path && path.map((_, i) => {
-            if (i >= visibleSegments || i >= path.length - 1) return null;
-
-            let from: [number, number];
-            let to: [number, number];
-
-            if (routeGeometries?.[i] && routeGeometries[i].length >= 2) {
-              const geo = routeGeometries[i];
-              from = geo[geo.length - 2];
-              to = geo[geo.length - 1];
-            } else {
-              from = coordinates[path[i]];
-              to = coordinates[path[i + 1]];
-            }
-
-            const triangle = arrowHead(from, to);
-            return (
-              <Polygon key={`arrow-${i}`} positions={triangle} pathOptions={arrowStyle} />
-            );
-          })}
 
           {coordinates.map((pos, i) => {
             const isSelected = selectedLocations?.has(i);
