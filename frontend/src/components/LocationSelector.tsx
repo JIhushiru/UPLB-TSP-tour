@@ -91,7 +91,7 @@ export default function LocationSelector({
       </div>
 
       {selectedLocations.size >= 1 && (
-        <p className="m-0 text-[0.7rem] text-muted flex items-center gap-1">
+        <p className="m-0 text-xs text-muted flex items-center gap-1">
           <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="2" className="text-blue-500 shrink-0">
             <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
             <circle cx="12" cy="10" r="3" fill="white" stroke="white" strokeWidth="2" />

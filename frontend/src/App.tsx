@@ -118,22 +118,34 @@ function App() {
 
   return (
     <div className="max-w-[900px] mx-auto py-8 px-6 font-sans text-foreground max-[500px]:p-4">
-      <header className="flex items-center justify-center mb-8 relative">
+      <header className="flex items-center justify-center mb-10 relative">
         <div className="text-center">
-          <h1 className="text-[1.8rem] font-bold mb-1 text-heading">
+          <h1 className="text-3xl font-bold tracking-tight text-heading mb-1.5">
             UPLB Campus Tour
           </h1>
-          <p className="m-0 text-muted text-[0.95rem]">
+          <p className="m-0 text-muted text-sm tracking-wide">
             Travelling Salesman Problem &mdash; Optimal Route Finder
           </p>
         </div>
         <button
-          className="absolute right-0 top-0 bg-surface border rounded-lg py-[0.45rem] px-2.5 cursor-pointer text-xl leading-none transition-colors duration-200 hover:bg-[var(--border)]"
+          className="absolute right-0 top-0 bg-transparent border-none cursor-pointer p-1.5 text-muted opacity-60 transition-opacity duration-200 hover:opacity-100"
           onClick={toggleTheme}
           aria-label={`Switch to ${effectiveTheme === "dark" ? "light" : "dark"} mode`}
           title={`Switch to ${effectiveTheme === "dark" ? "light" : "dark"} mode`}
         >
-          {effectiveTheme === "dark" ? "\u2600\uFE0F" : "\uD83C\uDF19"}
+          {effectiveTheme === "dark" ? (
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="12" cy="12" r="5"/>
+              <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+              <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+            </svg>
+          ) : (
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+            </svg>
+          )}
         </button>
       </header>
 
@@ -157,7 +169,7 @@ function App() {
         {isComputing && (
           <div className="text-center py-8 text-muted">
             <div className="w-8 h-8 border-[3px] border-[var(--border)] border-t-accent rounded-full mx-auto mb-3 animate-spin" />
-            <p>Finding the optimal route across {selectedLocations.size} landmarks...</p>
+            <p className="text-sm">Finding the optimal route across {selectedLocations.size} landmarks...</p>
           </div>
         )}
 

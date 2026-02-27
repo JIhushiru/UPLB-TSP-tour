@@ -149,7 +149,7 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
 
   return (
     <div className="mb-6">
-      <h2 className="text-[1.1rem] mb-3 text-heading">Campus Map</h2>
+      <h2 className="text-lg font-semibold mb-3 text-heading">Campus Map</h2>
       <div className="relative">
         <MapContainer
           center={CENTER}
@@ -222,7 +222,7 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
               className="block w-full h-[100px] object-cover max-[500px]:h-[75px]"
               onError={(e) => { (e.target as HTMLImageElement).src = FALLBACK_IMAGE; }}
             />
-            <span className="block py-1.5 px-[0.7rem] text-[0.85rem] font-semibold text-center truncate">
+            <span className="block py-1.5 px-[0.7rem] text-sm font-semibold text-center truncate">
               {currentLocationName}
             </span>
           </div>
