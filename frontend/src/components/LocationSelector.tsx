@@ -67,13 +67,13 @@ export default function LocationSelector({
   return (
     <div className="flex flex-col gap-3 bg-surface border rounded-[10px] p-6 mb-6">
       <div className="flex items-center justify-between">
-        <label className="font-semibold text-[0.9rem] text-muted">
+        <label className="text-xs font-semibold uppercase tracking-wider text-muted">
           Select Locations ({selectedLocations.size}/{MAX_SELECTION})
         </label>
         <div className="flex gap-2">
           <button
             type="button"
-            className="bg-transparent border-none text-accent-foreground text-[0.8rem] font-medium py-1 px-1.5 cursor-pointer underline hover:opacity-80 disabled:opacity-50"
+            className="bg-transparent border-none text-accent-foreground text-xs font-medium py-1 px-1.5 cursor-pointer underline hover:opacity-80 disabled:opacity-50"
             onClick={selectAll}
             disabled={isComputing}
           >
@@ -81,7 +81,7 @@ export default function LocationSelector({
           </button>
           <button
             type="button"
-            className="bg-transparent border-none text-accent-foreground text-[0.8rem] font-medium py-1 px-1.5 cursor-pointer underline hover:opacity-80 disabled:opacity-50"
+            className="bg-transparent border-none text-accent-foreground text-xs font-medium py-1 px-1.5 cursor-pointer underline hover:opacity-80 disabled:opacity-50"
             onClick={deselectAll}
             disabled={isComputing}
           >
@@ -90,8 +90,18 @@ export default function LocationSelector({
         </div>
       </div>
 
+      {selectedLocations.size >= 1 && (
+        <p className="m-0 text-[0.7rem] text-muted flex items-center gap-1">
+          <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="2" className="text-blue-500 shrink-0">
+            <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+            <circle cx="12" cy="10" r="3" fill="white" stroke="white" strokeWidth="2" />
+          </svg>
+          <span>Click the pin icon to set a starting point</span>
+        </p>
+      )}
+
       {atLimit && (
-        <p className="m-0 text-[0.8rem] text-amber-500">
+        <p className="m-0 text-xs text-amber-500">
           Maximum of {MAX_SELECTION} locations reached. The TSP algorithm uses dynamic programming
           with bitmask states (2<sup>n</sup>), so computation time grows exponentially with more locations.
         </p>
@@ -105,7 +115,7 @@ export default function LocationSelector({
           return (
             <div
               key={index}
-              className={`group flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-[0.85rem] text-foreground transition-colors duration-150 border min-w-0 ${
+              className={`group flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-sm text-foreground transition-colors duration-150 border min-w-0 ${
                 isStart
                   ? "bg-blue-600/15 border-blue-500 font-semibold"
                   : checked
@@ -140,7 +150,7 @@ export default function LocationSelector({
       </div>
 
       <button
-        className="py-[0.7rem] px-5 bg-accent text-white border-none rounded-md text-base font-semibold cursor-pointer transition-colors duration-200 hover:bg-accent-hover disabled:opacity-60 disabled:cursor-not-allowed"
+        className="py-[0.7rem] px-5 bg-accent text-white border-none rounded-md text-sm font-semibold cursor-pointer transition-colors duration-200 hover:bg-accent-hover disabled:opacity-60 disabled:cursor-not-allowed"
         onClick={onSolve}
         disabled={isComputing || selectedLocations.size < 2}
       >
