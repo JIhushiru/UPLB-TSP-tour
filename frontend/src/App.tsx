@@ -124,7 +124,8 @@ function App() {
             UPLB Campus Tour
           </h1>
           <p className="m-0 text-muted text-sm tracking-wide">
-            Travelling Salesman Problem &mdash; Optimal Route Finder
+            Built with the{" "}
+            <span className="text-accent-foreground font-medium">Travelling Salesman Problem</span>
           </p>
         </div>
         <button
