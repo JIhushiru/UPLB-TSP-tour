@@ -169,6 +169,7 @@ function App() {
           animationStep={animationStep}
           routeGeometries={routeGeometries}
           isLoadingRoutes={isLoadingRoutes}
+          theme={effectiveTheme}
         />
 
         {isComputing && (

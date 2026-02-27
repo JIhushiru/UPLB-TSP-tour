@@ -69,6 +69,11 @@ function FitBounds({ indices }: { indices: number[] }) {
   return null;
 }
 
+const TILE_LIGHT = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png";
+const TILE_DARK = "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png";
+const ATTR_LIGHT = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+const ATTR_DARK = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>';
+
 interface CampusMapProps {
   result: TSPResult | null;
   startPoint: number;
@@ -76,9 +81,10 @@ interface CampusMapProps {
   animationStep: number | null;
   routeGeometries: RouteGeometry[] | null;
   isLoadingRoutes: boolean;
+  theme: "light" | "dark";
 }
 
-export default function CampusMap({ result, startPoint, selectedLocations, animationStep, routeGeometries }: CampusMapProps) {
+export default function CampusMap({ result, startPoint, selectedLocations, animationStep, routeGeometries, theme }: CampusMapProps) {
   const path = result?.path;
   const mapRef = useRef(null);
   const isAnimating = animationStep !== null && animationStep !== undefined;
@@ -135,8 +141,9 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
           scrollWheelZoom={true}
         >
           <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            key={theme}
+            attribution={theme === "dark" ? ATTR_DARK : ATTR_LIGHT}
+            url={theme === "dark" ? TILE_DARK : TILE_LIGHT}
           />
 
           <FitBounds indices={visibleIndices} />
