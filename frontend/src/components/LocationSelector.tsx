@@ -79,14 +79,14 @@ export default function LocationSelector({
         </p>
       )}
 
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(180px,1fr))] gap-1.5">
+      <div className="grid grid-cols-[repeat(auto-fill,minmax(220px,1fr))] gap-1.5">
         {locations.map((name, index) => {
           const checked = selectedLocations.has(index);
           const disabled = !checked && atLimit;
           return (
             <label
               key={index}
-              className={`flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-[0.85rem] text-foreground cursor-pointer transition-colors duration-150 border border-transparent hover:bg-background ${
+              className={`flex items-center gap-1.5 py-[0.35rem] px-2 rounded-md text-[0.85rem] text-foreground cursor-pointer transition-colors duration-150 border border-transparent hover:bg-background min-w-0 ${
                 checked ? "bg-accent-surface border-accent font-medium" : "font-normal"
               } ${disabled ? "opacity-40 cursor-not-allowed" : ""}`}
             >
@@ -95,9 +95,9 @@ export default function LocationSelector({
                 checked={checked}
                 disabled={disabled || isComputing}
                 onChange={() => toggleLocation(index)}
-                className="accent-accent w-[15px] h-[15px] cursor-[inherit]"
+                className="accent-accent w-[15px] h-[15px] shrink-0 cursor-[inherit]"
               />
-              <span>{name}</span>
+              <span className="truncate">{name}</span>
             </label>
           );
         })}
