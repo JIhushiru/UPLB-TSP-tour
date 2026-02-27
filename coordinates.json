@@ -1,0 +1,221 @@
+{
+  "landmarks": [
+    {
+      "name": "UP Gate",
+      "lat": 14.1675854,
+      "lon": 121.2430119,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "UP Gate"
+    },
+    {
+      "name": "Carabao Park",
+      "lat": 14.1668513,
+      "lon": 121.2429717,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Carabao Park"
+    },
+    {
+      "name": "Raymundo Gate",
+      "lat": 14.1677698,
+      "lon": 121.2415229,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Raymundo Gate"
+    },
+    {
+      "name": "University Library",
+      "lat": 14.1655654,
+      "lon": 121.2390043,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "University Library"
+    },
+    {
+      "name": "Oblation Park",
+      "lat": 14.165103,
+      "lon": 121.2417042,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Oblation Park"
+    },
+    {
+      "name": "Mariang Banga",
+      "lat": 14.1637596,
+      "lon": 121.2408697,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Ang Babaing May Dalang Banga"
+    },
+    {
+      "name": "DL Umali Hall",
+      "lat": 14.1639818,
+      "lon": 121.2401318,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Dioscoro L. Umali Hall"
+    },
+    {
+      "name": "Freedom Park",
+      "lat": 14.161687,
+      "lon": 121.2408855,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Freedom Park"
+    },
+    {
+      "name": "Baker Hall",
+      "lat": 14.1613905,
+      "lon": 121.2422655,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Baker Hall"
+    },
+    {
+      "name": "Carillon Tower",
+      "lat": 14.1592619,
+      "lon": 121.2423759,
+      "source": "osm",
+      "score": 0.8484848484848485,
+      "osm_match": "UPLB Carillon Tower"
+    },
+    {
+      "name": "Copeland",
+      "lat": 14.1569415,
+      "lon": 121.2425317,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Edwin B. Copeland Gym"
+    },
+    {
+      "name": "SEARCA",
+      "lat": 14.1650909,
+      "lon": 121.2401817,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "SEARCA"
+    },
+    {
+      "name": "Botanical Garden",
+      "lat": 14.1566879,
+      "lon": 121.2339894,
+      "source": "osm",
+      "score": 0.9787234042553191,
+      "osm_match": "Makiling Botanic Gardens"
+    },
+    {
+      "name": "IRRI",
+      "lat": 14.1677235,
+      "lon": 121.2542135,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "IRRI"
+    },
+    {
+      "name": "SU Building",
+      "lat": 14.163283,
+      "lon": 121.2413344,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Student Union Building"
+    },
+    {
+      "name": "College of Forestry",
+      "lat": 14.1544327,
+      "lon": 121.234541,
+      "source": "osm",
+      "score": 0.9425287356321839,
+      "osm_match": "UPLB College of Forestry and Natural Resources"
+    },
+    {
+      "name": "Physical Sciences Bldg",
+      "lat": 14.1646029,
+      "lon": 121.2419531,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Institute of Computer Science"
+    },
+    {
+      "name": "CEAT Building",
+      "lat": 14.1622711,
+      "lon": 121.2479535,
+      "source": "osm",
+      "score": 0.954954954954955,
+      "osm_match": "UPLB College of Engineering and Agro-industrial Technology"
+    },
+    {
+      "name": "CVM",
+      "lat": 14.1578525,
+      "lon": 121.2430169,
+      "source": "osm",
+      "score": 0.9230769230769231,
+      "osm_match": "UPLB College of Veterinary Medicine"
+    },
+    {
+      "name": "Athletics Oval",
+      "lat": 14.1605189,
+      "lon": 121.2428692,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "UPLB Grandstand"
+    },
+    {
+      "name": "Graduate School",
+      "lat": 14.1636926,
+      "lon": 121.2393246,
+      "source": "osm",
+      "score": 0.8571428571428571,
+      "osm_match": "UPLB Graduate School"
+    },
+    {
+      "name": "Humanities Building",
+      "lat": 14.1652379,
+      "lon": 121.2422704,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Department of Community and Environmental Resource Planning"
+    },
+    {
+      "name": "NCAS",
+      "lat": 14.1654486,
+      "lon": 121.2411899,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Department of Social Sciences"
+    },
+    {
+      "name": "Institute of Animal Science",
+      "lat": 14.1588314,
+      "lon": 121.2444778,
+      "source": "osm",
+      "score": 1.0,
+      "osm_match": "Bienvenido Maria Gonzales Animal Science Complex"
+    },
+    {
+      "name": "CEM Building",
+      "lat": 14.1671897,
+      "lon": 121.2416044,
+      "source": "osm",
+      "score": 0.9333333333333333,
+      "osm_match": "UPLB College of Economics and Management"
+    },
+    {
+      "name": "College of Human Ecology",
+      "lat": 14.1646662,
+      "lon": 121.242834,
+      "source": "osm",
+      "score": 0.9056603773584906,
+      "osm_match": "UPLB College of Human Ecology"
+    },
+    {
+      "name": "Math Building",
+      "lat": 14.16488,
+      "lon": 121.24369,
+      "source": "manual",
+      "score": 1.0,
+      "osm_match": "Math Building"
+    }
+  ],
+  "not_found": []
+}
