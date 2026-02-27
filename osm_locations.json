@@ -1,0 +1,6698 @@
+[
+  {
+    "name": "101 Botique",
+    "lat": 14.1684222,
+    "lon": 121.2440492,
+    "type": "node"
+  },
+  {
+    "name": "10664",
+    "lat": 14.1688356,
+    "lon": 121.2450525,
+    "type": "way"
+  },
+  {
+    "name": "137 Burgers",
+    "lat": 14.1690714,
+    "lon": 121.2411075,
+    "type": "node"
+  },
+  {
+    "name": "1st Floor Office of the Instruction ICropS",
+    "lat": 14.1599724,
+    "lon": 121.2446547,
+    "type": "node"
+  },
+  {
+    "name": "4 Boys House",
+    "lat": 14.1670905,
+    "lon": 121.2447671,
+    "type": "way"
+  },
+  {
+    "name": "7-Eleven",
+    "lat": 14.1692719,
+    "lon": 121.2444803,
+    "type": "way"
+  },
+  {
+    "name": "7107 Bar &  Grill",
+    "lat": 14.1695296,
+    "lon": 121.2448761,
+    "type": "node"
+  },
+  {
+    "name": "AA Mart",
+    "lat": 14.1613236,
+    "lon": 121.242873,
+    "type": "node"
+  },
+  {
+    "name": "Abelardo G. Samonte Building",
+    "lat": 14.1666054,
+    "lon": 121.2433296,
+    "type": "relation"
+  },
+  {
+    "name": "Aby & AJ Store",
+    "lat": 14.1687296,
+    "lon": 121.2412856,
+    "type": "node"
+  },
+  {
+    "name": "Acacia",
+    "lat": 14.158307,
+    "lon": 121.2389773,
+    "type": "way"
+  },
+  {
+    "name": "Ador Locksmith",
+    "lat": 14.1689397,
+    "lon": 121.2441968,
+    "type": "node"
+  },
+  {
+    "name": "ADSS Motorpool, Service Building",
+    "lat": 14.1568036,
+    "lon": 121.2459826,
+    "type": "way"
+  },
+  {
+    "name": "Advanced Animal Science Research and Training Laboratory",
+    "lat": 14.1578418,
+    "lon": 121.2441841,
+    "type": "way"
+  },
+  {
+    "name": "Agricultural and Bio-Process Division",
+    "lat": 14.1618319,
+    "lon": 121.2488482,
+    "type": "way"
+  },
+  {
+    "name": "Agricultural Education Portal",
+    "lat": 14.1665427,
+    "lon": 121.2426138,
+    "type": "way"
+  },
+  {
+    "name": "Agricultural Machinery Testing and Evaluation Center",
+    "lat": 14.1629946,
+    "lon": 121.2488091,
+    "type": "way"
+  },
+  {
+    "name": "Agricultural Mechanization Development Program",
+    "lat": 14.1622129,
+    "lon": 121.2490179,
+    "type": "way"
+  },
+  {
+    "name": "Agricultural Sciences Cluster",
+    "lat": 14.160323,
+    "lon": 121.2458471,
+    "type": "relation"
+  },
+  {
+    "name": "Agricultural Systems Cluster Lecture Hall",
+    "lat": 14.1602383,
+    "lon": 121.245711,
+    "type": "node"
+  },
+  {
+    "name": "Agricultural Training Institute-National Training Center",
+    "lat": 14.1562335,
+    "lon": 121.2419189,
+    "type": "way"
+  },
+  {
+    "name": "Aisas Park",
+    "lat": 14.1692011,
+    "lon": 121.2542553,
+    "type": "way"
+  },
+  {
+    "name": "Aling Glo's Restaurant",
+    "lat": 14.1692342,
+    "lon": 121.2442721,
+    "type": "node"
+  },
+  {
+    "name": "An Sci Lecture Hall",
+    "lat": 14.1567182,
+    "lon": 121.2436737,
+    "type": "way"
+  },
+  {
+    "name": "Andres Galvez Apartments",
+    "lat": 14.1683063,
+    "lon": 121.2419194,
+    "type": "way"
+  },
+  {
+    "name": "Andres P. Aglibut Avenue",
+    "lat": 14.1652279,
+    "lon": 121.2409883,
+    "type": "way"
+  },
+  {
+    "name": "Andres P. Aglibut Avenue",
+    "lat": 14.1637648,
+    "lon": 121.2423131,
+    "type": "way"
+  },
+  {
+    "name": "Andres P. Aglibut Avenue",
+    "lat": 14.1611971,
+    "lon": 121.2447907,
+    "type": "way"
+  },
+  {
+    "name": "Andres P. Aglibut Avenue",
+    "lat": 14.1620326,
+    "lon": 121.2442542,
+    "type": "way"
+  },
+  {
+    "name": "Andres P. Aglibut Avenue",
+    "lat": 14.1667814,
+    "lon": 121.2407736,
+    "type": "way"
+  },
+  {
+    "name": "Andres P. Aglibut Avenue",
+    "lat": 14.1628003,
+    "lon": 121.2437798,
+    "type": "way"
+  },
+  {
+    "name": "Ang Babaing May Dalang Banga",
+    "lat": 14.1637596,
+    "lon": 121.2408697,
+    "type": "node"
+  },
+  {
+    "name": "Angelica's Laundry Shop",
+    "lat": 14.1682423,
+    "lon": 121.2448261,
+    "type": "node"
+  },
+  {
+    "name": "Ani",
+    "lat": 14.1596079,
+    "lon": 121.2433702,
+    "type": "node"
+  },
+  {
+    "name": "Animal Biology Division, Institute of Biological Sciences",
+    "lat": 14.1656648,
+    "lon": 121.2409983,
+    "type": "node"
+  },
+  {
+    "name": "Animal House",
+    "lat": 14.1542586,
+    "lon": 121.2362799,
+    "type": "way"
+  },
+  {
+    "name": "Animal Products Science and Technology Division",
+    "lat": 14.1581874,
+    "lon": 121.2448997,
+    "type": "relation"
+  },
+  {
+    "name": "Animal Science Lecture Hall",
+    "lat": 14.1590292,
+    "lon": 121.2442968,
+    "type": "node"
+  },
+  {
+    "name": "Animal Science/Putho",
+    "lat": 14.1598442,
+    "lon": 121.2436343,
+    "type": "node"
+  },
+  {
+    "name": "Animal Science/Putho",
+    "lat": 14.1598585,
+    "lon": 121.2434548,
+    "type": "node"
+  },
+  {
+    "name": "Animal Science/Putho",
+    "lat": 14.1598433,
+    "lon": 121.2435933,
+    "type": "relation"
+  },
+  {
+    "name": "Ankers",
+    "lat": 14.169675,
+    "lon": 121.2443224,
+    "type": "way"
+  },
+  {
+    "name": "Anna Joven - friday",
+    "lat": 14.1585002,
+    "lon": 121.2536535,
+    "type": "node"
+  },
+  {
+    "name": "Anos",
+    "lat": 14.173906,
+    "lon": 121.2330774,
+    "type": "relation"
+  },
+  {
+    "name": "AnSci/Agronomy",
+    "lat": 14.160215,
+    "lon": 121.2446384,
+    "type": "node"
+  },
+  {
+    "name": "Apitong Street",
+    "lat": 14.1518582,
+    "lon": 121.2528719,
+    "type": "way"
+  },
+  {
+    "name": "Arable Dormitory",
+    "lat": 14.1664473,
+    "lon": 121.2380941,
+    "type": "way"
+  },
+  {
+    "name": "Arayat Street",
+    "lat": 14.1689618,
+    "lon": 121.2413624,
+    "type": "way"
+  },
+  {
+    "name": "Arayat Street",
+    "lat": 14.1691236,
+    "lon": 121.240574,
+    "type": "way"
+  },
+  {
+    "name": "Arbor Square",
+    "lat": 14.1551581,
+    "lon": 121.2356992,
+    "type": "way"
+  },
+  {
+    "name": "Archibald R. Ward",
+    "lat": 14.1573674,
+    "lon": 121.2431931,
+    "type": "way"
+  },
+  {
+    "name": "Archibald R. Ward",
+    "lat": 14.1586347,
+    "lon": 121.2423888,
+    "type": "way"
+  },
+  {
+    "name": "Archibald R. Ward",
+    "lat": 14.1583074,
+    "lon": 121.2429951,
+    "type": "way"
+  },
+  {
+    "name": "Ariel2 (Lourise) talipapa - joning friday",
+    "lat": 14.1514388,
+    "lon": 121.2523975,
+    "type": "node"
+  },
+  {
+    "name": "Arthur Fisher Wing",
+    "lat": 14.1544492,
+    "lon": 121.2352191,
+    "type": "node"
+  },
+  {
+    "name": "Arts and Crafts Lab",
+    "lat": 14.1641257,
+    "lon": 121.2430979,
+    "type": "way"
+  },
+  {
+    "name": "ASEAN Centre for Biodiversity",
+    "lat": 14.1614072,
+    "lon": 121.2378397,
+    "type": "way"
+  },
+  {
+    "name": "ATI-NTC Residence Hall",
+    "lat": 14.1563263,
+    "lon": 121.2413543,
+    "type": "way"
+  },
+  {
+    "name": "Audit Office",
+    "lat": 14.1636354,
+    "lon": 121.2422928,
+    "type": "way"
+  },
+  {
+    "name": "B-Gen & Brigen Pharmacy",
+    "lat": 14.1699185,
+    "lon": 121.2441237,
+    "type": "node"
+  },
+  {
+    "name": "Baan Thai",
+    "lat": 14.1689426,
+    "lon": 121.2446459,
+    "type": "way"
+  },
+  {
+    "name": "Babap store",
+    "lat": 14.1690957,
+    "lon": 121.2411278,
+    "type": "node"
+  },
+  {
+    "name": "Bagambula Creek",
+    "lat": 14.1501066,
+    "lon": 121.249455,
+    "type": "way"
+  },
+  {
+    "name": "Bahay ng Pahinungod",
+    "lat": 14.1597792,
+    "lon": 121.241421,
+    "type": "way"
+  },
+  {
+    "name": "Bahay ni Kuya",
+    "lat": 14.1543703,
+    "lon": 121.252735,
+    "type": "way"
+  },
+  {
+    "name": "Bahay Sisigan ni Apung Piping",
+    "lat": 14.1691514,
+    "lon": 121.2452149,
+    "type": "node"
+  },
+  {
+    "name": "Baker Hall",
+    "lat": 14.1613905,
+    "lon": 121.2422655,
+    "type": "node"
+  },
+  {
+    "name": "Baker Hall",
+    "lat": 14.1614215,
+    "lon": 121.2424934,
+    "type": "node"
+  },
+  {
+    "name": "Baker Hall",
+    "lat": 14.1614117,
+    "lon": 121.2423677,
+    "type": "relation"
+  },
+  {
+    "name": "Baker Hall Parking Area",
+    "lat": 14.1615327,
+    "lon": 121.242518,
+    "type": "way"
+  },
+  {
+    "name": "Banahaw Street",
+    "lat": 14.1699119,
+    "lon": 121.2424168,
+    "type": "way"
+  },
+  {
+    "name": "Banawe Street",
+    "lat": 14.1690341,
+    "lon": 121.2387444,
+    "type": "way"
+  },
+  {
+    "name": "Bangkal Extension",
+    "lat": 14.1701831,
+    "lon": 121.2465541,
+    "type": "way"
+  },
+  {
+    "name": "Banuyo",
+    "lat": 14.1493114,
+    "lon": 121.2351079,
+    "type": "way"
+  },
+  {
+    "name": "Barangay Burger",
+    "lat": 14.1690373,
+    "lon": 121.2442647,
+    "type": "node"
+  },
+  {
+    "name": "Barrion's Compound",
+    "lat": 14.16942,
+    "lon": 121.2389065,
+    "type": "way"
+  },
+  {
+    "name": "Basil Street",
+    "lat": 14.1684067,
+    "lon": 121.2450252,
+    "type": "way"
+  },
+  {
+    "name": "Basketball Court 1",
+    "lat": 14.1614839,
+    "lon": 121.2428373,
+    "type": "way"
+  },
+  {
+    "name": "Basketball Court 2",
+    "lat": 14.1616369,
+    "lon": 121.243077,
+    "type": "way"
+  },
+  {
+    "name": "Bathhouse",
+    "lat": 14.1623417,
+    "lon": 121.2427416,
+    "type": "way"
+  },
+  {
+    "name": "Batong Malake",
+    "lat": 14.1674204,
+    "lon": 121.2433228,
+    "type": "node"
+  },
+  {
+    "name": "Batong Malake",
+    "lat": 14.1590989,
+    "lon": 121.2302507,
+    "type": "relation"
+  },
+  {
+    "name": "Bauhinia",
+    "lat": 14.1571065,
+    "lon": 121.2551697,
+    "type": "way"
+  },
+  {
+    "name": "BDO",
+    "lat": 14.1676743,
+    "lon": 121.2437201,
+    "type": "node"
+  },
+  {
+    "name": "Beanhub",
+    "lat": 14.1690353,
+    "lon": 121.2547179,
+    "type": "node"
+  },
+  {
+    "name": "Belen store - joning friday",
+    "lat": 14.1533366,
+    "lon": 121.2486594,
+    "type": "node"
+  },
+  {
+    "name": "Bestprint Copy Center",
+    "lat": 14.16896,
+    "lon": 121.2442057,
+    "type": "node"
+  },
+  {
+    "name": "BFF Street Style",
+    "lat": 14.1695398,
+    "lon": 121.2443298,
+    "type": "node"
+  },
+  {
+    "name": "Bianca's Laundry",
+    "lat": 14.1697481,
+    "lon": 121.2439461,
+    "type": "node"
+  },
+  {
+    "name": "Bienvenido M. Gonzales Hall",
+    "lat": 14.1655169,
+    "lon": 121.2390354,
+    "type": "relation"
+  },
+  {
+    "name": "Bienvenido Maria Gonzales Animal Science Complex",
+    "lat": 14.1588314,
+    "lon": 121.2444778,
+    "type": "way"
+  },
+  {
+    "name": "Big Belly's",
+    "lat": 14.1682125,
+    "lon": 121.2425138,
+    "type": "node"
+  },
+  {
+    "name": "Big Belly's Express",
+    "lat": 14.1696668,
+    "lon": 121.2440831,
+    "type": "node"
+  },
+  {
+    "name": "Big D's",
+    "lat": 14.1689245,
+    "lon": 121.2412464,
+    "type": "node"
+  },
+  {
+    "name": "Big Star",
+    "lat": 14.1680365,
+    "lon": 121.2415258,
+    "type": "node"
+  },
+  {
+    "name": "Bioassay Laboratories",
+    "lat": 14.1645436,
+    "lon": 121.2430778,
+    "type": "way"
+  },
+  {
+    "name": "BioSci",
+    "lat": 14.1669733,
+    "lon": 121.2399398,
+    "type": "node"
+  },
+  {
+    "name": "BioSci",
+    "lat": 14.1669889,
+    "lon": 121.2399386,
+    "type": "relation"
+  },
+  {
+    "name": "BioSci Parking Lot",
+    "lat": 14.165515,
+    "lon": 121.2406931,
+    "type": "way"
+  },
+  {
+    "name": "Black And Brew Cafe",
+    "lat": 14.1675787,
+    "lon": 121.2436254,
+    "type": "node"
+  },
+  {
+    "name": "Blessie's",
+    "lat": 14.1696859,
+    "lon": 121.2447425,
+    "type": "node"
+  },
+  {
+    "name": "Boards UP",
+    "lat": 14.1696307,
+    "lon": 121.2440891,
+    "type": "node"
+  },
+  {
+    "name": "Bocobo Bridge",
+    "lat": 14.1620327,
+    "lon": 121.2442544,
+    "type": "way"
+  },
+  {
+    "name": "Bogart's Bentelog",
+    "lat": 14.1688775,
+    "lon": 121.2412511,
+    "type": "node"
+  },
+  {
+    "name": "Bonitos",
+    "lat": 14.1689596,
+    "lon": 121.2444561,
+    "type": "way"
+  },
+  {
+    "name": "Bookbound Trading",
+    "lat": 14.1686262,
+    "lon": 121.2440003,
+    "type": "node"
+  },
+  {
+    "name": "BPI",
+    "lat": 14.1676918,
+    "lon": 121.2437303,
+    "type": "node"
+  },
+  {
+    "name": "BPI",
+    "lat": 14.1690989,
+    "lon": 121.2548766,
+    "type": "node"
+  },
+  {
+    "name": "BPI",
+    "lat": 14.167683,
+    "lon": 121.2437243,
+    "type": "node"
+  },
+  {
+    "name": "Bubble G Milk Tea",
+    "lat": 14.1681975,
+    "lon": 121.244155,
+    "type": "node"
+  },
+  {
+    "name": "Bugel's",
+    "lat": 14.1696679,
+    "lon": 121.2444442,
+    "type": "node"
+  },
+  {
+    "name": "Bugong",
+    "lat": 14.16772,
+    "lon": 121.2436163,
+    "type": "way"
+  },
+  {
+    "name": "Business Development Office Building, Philippine Rice Research Institute",
+    "lat": 14.1602456,
+    "lon": 121.2478514,
+    "type": "way"
+  },
+  {
+    "name": "But First, Coffee",
+    "lat": 14.1688244,
+    "lon": 121.2439934,
+    "type": "node"
+  },
+  {
+    "name": "Cadapan Store",
+    "lat": 14.1686235,
+    "lon": 121.2446445,
+    "type": "node"
+  },
+  {
+    "name": "Cadel's Lugawan",
+    "lat": 14.1557945,
+    "lon": 121.2411353,
+    "type": "node"
+  },
+  {
+    "name": "Caf\u00e9 Buchie",
+    "lat": 14.1645485,
+    "lon": 121.2421525,
+    "type": "node"
+  },
+  {
+    "name": "Calma Dorm",
+    "lat": 14.1665915,
+    "lon": 121.2375021,
+    "type": "way"
+  },
+  {
+    "name": "Camia",
+    "lat": 14.1658094,
+    "lon": 121.2380192,
+    "type": "way"
+  },
+  {
+    "name": "Canada Rose Laundry Master",
+    "lat": 14.167003,
+    "lon": 121.2439751,
+    "type": "node"
+  },
+  {
+    "name": "Carabao Head",
+    "lat": 14.1668241,
+    "lon": 121.2429279,
+    "type": "node"
+  },
+  {
+    "name": "Carabao Head",
+    "lat": 14.1668247,
+    "lon": 121.2430289,
+    "type": "node"
+  },
+  {
+    "name": "Carabao Park",
+    "lat": 14.1668513,
+    "lon": 121.2429717,
+    "type": "way"
+  },
+  {
+    "name": "Carmensita's",
+    "lat": 14.169691,
+    "lon": 121.2437834,
+    "type": "node"
+  },
+  {
+    "name": "CAS Alumni Plaza",
+    "lat": 14.1656094,
+    "lon": 121.2411831,
+    "type": "way"
+  },
+  {
+    "name": "CAS Annex 1",
+    "lat": 14.1656344,
+    "lon": 121.2412168,
+    "type": "relation"
+  },
+  {
+    "name": "CAS Annex 2",
+    "lat": 14.1656896,
+    "lon": 121.2417777,
+    "type": "way"
+  },
+  {
+    "name": "Casa Bulgogi",
+    "lat": 14.169755,
+    "lon": 121.2442609,
+    "type": "node"
+  },
+  {
+    "name": "Casa de Felicidad",
+    "lat": 14.1676825,
+    "lon": 121.2411373,
+    "type": "way"
+  },
+  {
+    "name": "Catalan Compound",
+    "lat": 14.1660571,
+    "lon": 121.2449978,
+    "type": "way"
+  },
+  {
+    "name": "Catalina Drive",
+    "lat": 14.1595368,
+    "lon": 121.254969,
+    "type": "way"
+  },
+  {
+    "name": "CEAT B-100",
+    "lat": 14.1610634,
+    "lon": 121.2450996,
+    "type": "node"
+  },
+  {
+    "name": "CEAT Library",
+    "lat": 14.1614511,
+    "lon": 121.2476309,
+    "type": "node"
+  },
+  {
+    "name": "CEAT/Engineering",
+    "lat": 14.1609052,
+    "lon": 121.245038,
+    "type": "node"
+  },
+  {
+    "name": "CEAT/Engineering",
+    "lat": 14.160877,
+    "lon": 121.2449818,
+    "type": "node"
+  },
+  {
+    "name": "CEAT/Engineering",
+    "lat": 14.1608911,
+    "lon": 121.2450099,
+    "type": "relation"
+  },
+  {
+    "name": "Cecilia's Kitchen",
+    "lat": 14.1594303,
+    "lon": 121.2416911,
+    "type": "node"
+  },
+  {
+    "name": "Cel's Fastfood",
+    "lat": 14.1682826,
+    "lon": 121.2445704,
+    "type": "node"
+  },
+  {
+    "name": "CEM Faculty Parking Lot",
+    "lat": 14.1674113,
+    "lon": 121.2412823,
+    "type": "way"
+  },
+  {
+    "name": "CEM Library",
+    "lat": 14.167663,
+    "lon": 121.2420237,
+    "type": "way"
+  },
+  {
+    "name": "CEM Parking Lot",
+    "lat": 14.1673874,
+    "lon": 121.2419977,
+    "type": "way"
+  },
+  {
+    "name": "CFNR Biotech Laboratory",
+    "lat": 14.1544696,
+    "lon": 121.2362571,
+    "type": "way"
+  },
+  {
+    "name": "CFNR Library",
+    "lat": 14.1535665,
+    "lon": 121.2354129,
+    "type": "node"
+  },
+  {
+    "name": "Chandler Hall",
+    "lat": 14.1684694,
+    "lon": 121.2545693,
+    "type": "way"
+  },
+  {
+    "name": "Charles Fuller Baker Memorial Hall",
+    "lat": 14.1617583,
+    "lon": 121.2427684,
+    "type": "way"
+  },
+  {
+    "name": "CHE Library",
+    "lat": 14.16486,
+    "lon": 121.2422816,
+    "type": "node"
+  },
+  {
+    "name": "CHE Research and Extension Center",
+    "lat": 14.1646391,
+    "lon": 121.2427755,
+    "type": "way"
+  },
+  {
+    "name": "Cherise Apartments",
+    "lat": 14.1692736,
+    "lon": 121.2412728,
+    "type": "way"
+  },
+  {
+    "name": "Chicharap Food House",
+    "lat": 14.1693026,
+    "lon": 121.2410016,
+    "type": "node"
+  },
+  {
+    "name": "Child Development Laboratory",
+    "lat": 14.1643332,
+    "lon": 121.2432961,
+    "type": "node"
+  },
+  {
+    "name": "Chime Residence Hall",
+    "lat": 14.1664339,
+    "lon": 121.244768,
+    "type": "way"
+  },
+  {
+    "name": "Chino's",
+    "lat": 14.1688759,
+    "lon": 121.243973,
+    "type": "node"
+  },
+  {
+    "name": "Chooks to Go",
+    "lat": 14.1633805,
+    "lon": 121.2411849,
+    "type": "node"
+  },
+  {
+    "name": "Chowking",
+    "lat": 14.1677971,
+    "lon": 121.2438266,
+    "type": "node"
+  },
+  {
+    "name": "Christian School International",
+    "lat": 14.1676691,
+    "lon": 121.2400002,
+    "type": "way"
+  },
+  {
+    "name": "Chubby Habbi's",
+    "lat": 14.1684724,
+    "lon": 121.2412135,
+    "type": "node"
+  },
+  {
+    "name": "Church Among the Palms",
+    "lat": 14.1676414,
+    "lon": 121.2403619,
+    "type": "node"
+  },
+  {
+    "name": "Church in Los Ba\u00f1os Meeting Hall",
+    "lat": 14.1695432,
+    "lon": 121.2424663,
+    "type": "node"
+  },
+  {
+    "name": "Clonal Nursery",
+    "lat": 14.1546325,
+    "lon": 121.2363627,
+    "type": "way"
+  },
+  {
+    "name": "CNFR Basketball Court",
+    "lat": 14.1520894,
+    "lon": 121.2355288,
+    "type": "way"
+  },
+  {
+    "name": "Coccinia grandis",
+    "lat": 14.1640996,
+    "lon": 121.2388494,
+    "type": "node"
+  },
+  {
+    "name": "Coccinia grandis",
+    "lat": 14.1640918,
+    "lon": 121.2390996,
+    "type": "node"
+  },
+  {
+    "name": "Coccinia grandis",
+    "lat": 14.1640953,
+    "lon": 121.2386422,
+    "type": "node"
+  },
+  {
+    "name": "Coccinia grandis",
+    "lat": 14.1640976,
+    "lon": 121.238489,
+    "type": "node"
+  },
+  {
+    "name": "Coccinia grandis",
+    "lat": 14.1640964,
+    "lon": 121.2389751,
+    "type": "node"
+  },
+  {
+    "name": "Cocina Ferr\u00e1z",
+    "lat": 14.1632182,
+    "lon": 121.2415148,
+    "type": "node"
+  },
+  {
+    "name": "College",
+    "lat": 14.1674507,
+    "lon": 121.2433577,
+    "type": "node"
+  },
+  {
+    "name": "College Coop Store",
+    "lat": 14.1646098,
+    "lon": 121.2408272,
+    "type": "node"
+  },
+  {
+    "name": "College Country Club",
+    "lat": 14.1619835,
+    "lon": 121.2381711,
+    "type": "way"
+  },
+  {
+    "name": "College of Agribussiness Management",
+    "lat": 14.1668004,
+    "lon": 121.2417671,
+    "type": "way"
+  },
+  {
+    "name": "College of Agriculture",
+    "lat": 14.1665014,
+    "lon": 121.2427896,
+    "type": "node"
+  },
+  {
+    "name": "College of Development Communication Lecture Hall",
+    "lat": 14.1672769,
+    "lon": 121.242588,
+    "type": "node"
+  },
+  {
+    "name": "College of Economics and Management Function Hall",
+    "lat": 14.1670352,
+    "lon": 121.2410888,
+    "type": "node"
+  },
+  {
+    "name": "College of Economics and Management Lecture Hall",
+    "lat": 14.1672487,
+    "lon": 121.2416903,
+    "type": "node"
+  },
+  {
+    "name": "College of Engineering and Agro-Industrial Technology Building A",
+    "lat": 14.1609217,
+    "lon": 121.2453981,
+    "type": "relation"
+  },
+  {
+    "name": "College of Engineering and Agro-Industrial Technology Building B",
+    "lat": 14.1611541,
+    "lon": 121.2452712,
+    "type": "relation"
+  },
+  {
+    "name": "College of Forestry and Natural Resources Alumni Guest House",
+    "lat": 14.1518988,
+    "lon": 121.2362203,
+    "type": "way"
+  },
+  {
+    "name": "College Ville",
+    "lat": 14.1559013,
+    "lon": 121.2533578,
+    "type": "node"
+  },
+  {
+    "name": "Collegeville Subdivision",
+    "lat": 14.1557423,
+    "lon": 121.2538483,
+    "type": "way"
+  },
+  {
+    "name": "Construction of UPLB Graduate School Residence Hall",
+    "lat": 14.1652159,
+    "lon": 121.2365989,
+    "type": "way"
+  },
+  {
+    "name": "Construction of UPLB University Library and Knowledge Center",
+    "lat": 14.1629157,
+    "lon": 121.2399172,
+    "type": "way"
+  },
+  {
+    "name": "Copacabana Resto Bar",
+    "lat": 14.169235,
+    "lon": 121.244912,
+    "type": "node"
+  },
+  {
+    "name": "Copeland Heights",
+    "lat": 14.1590402,
+    "lon": 121.2374404,
+    "type": "node"
+  },
+  {
+    "name": "Copeland Heights",
+    "lat": 14.1589717,
+    "lon": 121.2374757,
+    "type": "node"
+  },
+  {
+    "name": "Copeland Heights",
+    "lat": 14.1590736,
+    "lon": 121.2385392,
+    "type": "way"
+  },
+  {
+    "name": "Copeland Heights",
+    "lat": 14.159006,
+    "lon": 121.2374377,
+    "type": "relation"
+  },
+  {
+    "name": "Cora - Joning friday",
+    "lat": 14.1520551,
+    "lon": 121.254416,
+    "type": "node"
+  },
+  {
+    "name": "Cordillera Street",
+    "lat": 14.1688778,
+    "lon": 121.2396107,
+    "type": "way"
+  },
+  {
+    "name": "CPAF",
+    "lat": 14.1600217,
+    "lon": 121.2380474,
+    "type": "node"
+  },
+  {
+    "name": "CPAF",
+    "lat": 14.160097,
+    "lon": 121.2378801,
+    "type": "node"
+  },
+  {
+    "name": "CPAF",
+    "lat": 14.1600594,
+    "lon": 121.2379529,
+    "type": "relation"
+  },
+  {
+    "name": "Cravery Pizza",
+    "lat": 14.1689246,
+    "lon": 121.2439639,
+    "type": "node"
+  },
+  {
+    "name": "Crop Protection Cluster",
+    "lat": 14.165997,
+    "lon": 121.2402479,
+    "type": "node"
+  },
+  {
+    "name": "Crop Protection Cluster Lecture Hall",
+    "lat": 14.1657511,
+    "lon": 121.2406196,
+    "type": "node"
+  },
+  {
+    "name": "CSI Gymnasium",
+    "lat": 14.1680346,
+    "lon": 121.2403367,
+    "type": "way"
+  },
+  {
+    "name": "CSI/BioSci/Humanities",
+    "lat": 14.1671303,
+    "lon": 121.2401897,
+    "type": "node"
+  },
+  {
+    "name": "CSI/BioSci/Humanities",
+    "lat": 14.1671241,
+    "lon": 121.2401931,
+    "type": "relation"
+  },
+  {
+    "name": "CSI/Humanities",
+    "lat": 14.1673357,
+    "lon": 121.2407525,
+    "type": "node"
+  },
+  {
+    "name": "CSI/Humanities",
+    "lat": 14.167347,
+    "lon": 121.2407516,
+    "type": "relation"
+  },
+  {
+    "name": "Cube's Sizzling Restobar",
+    "lat": 14.1694073,
+    "lon": 121.2448183,
+    "type": "node"
+  },
+  {
+    "name": "CVM Alumni Plaza",
+    "lat": 14.1582335,
+    "lon": 121.2429377,
+    "type": "way"
+  },
+  {
+    "name": "CVM Bike Rack",
+    "lat": 14.159079,
+    "lon": 121.2425483,
+    "type": "node"
+  },
+  {
+    "name": "CVM-IAS Communal Library and Lecture Hall",
+    "lat": 14.1575409,
+    "lon": 121.2433458,
+    "type": "relation"
+  },
+  {
+    "name": "D. L. Umali Award Plaque",
+    "lat": 14.1648841,
+    "lon": 121.239927,
+    "type": "node"
+  },
+  {
+    "name": "DA-BAR Network Headquarters/ Gender Program for Rural Development",
+    "lat": 14.1665672,
+    "lon": 121.2395932,
+    "type": "way"
+  },
+  {
+    "name": "DA-PhilRice- UPLB Seed Processing and Storage Facility",
+    "lat": 14.1602818,
+    "lon": 121.2474422,
+    "type": "way"
+  },
+  {
+    "name": "Dairy Farm Calf Barn",
+    "lat": 14.1559418,
+    "lon": 121.2483582,
+    "type": "way"
+  },
+  {
+    "name": "Dairy Processing Plant",
+    "lat": 14.1564526,
+    "lon": 121.2459033,
+    "type": "way"
+  },
+  {
+    "name": "Dairy Production Building",
+    "lat": 14.1557563,
+    "lon": 121.2487265,
+    "type": "way"
+  },
+  {
+    "name": "Dairy Training and Research Institute",
+    "lat": 14.1562496,
+    "lon": 121.2460715,
+    "type": "way"
+  },
+  {
+    "name": "Dairyville",
+    "lat": 14.158589,
+    "lon": 121.2478758,
+    "type": "way"
+  },
+  {
+    "name": "Dalambanga",
+    "lat": 14.1637341,
+    "lon": 121.2407972,
+    "type": "way"
+  },
+  {
+    "name": "Dalcielo",
+    "lat": 14.1669597,
+    "lon": 121.2438583,
+    "type": "node"
+  },
+  {
+    "name": "Dalcielo",
+    "lat": 14.1617113,
+    "lon": 121.2397379,
+    "type": "node"
+  },
+  {
+    "name": "Dancel Dormitory",
+    "lat": 14.1689781,
+    "lon": 121.2422515,
+    "type": "way"
+  },
+  {
+    "name": "Daniela",
+    "lat": 14.1688685,
+    "lon": 121.2443473,
+    "type": "node"
+  },
+  {
+    "name": "Dao sa SU",
+    "lat": 14.1629834,
+    "lon": 121.2413015,
+    "type": "node"
+  },
+  {
+    "name": "Dao Street",
+    "lat": 14.152506,
+    "lon": 121.2537415,
+    "type": "way"
+  },
+  {
+    "name": "Dapdap Street",
+    "lat": 14.152382,
+    "lon": 121.2542133,
+    "type": "way"
+  },
+  {
+    "name": "Data Street",
+    "lat": 14.1702984,
+    "lon": 121.2395895,
+    "type": "way"
+  },
+  {
+    "name": "Data Street",
+    "lat": 14.1693336,
+    "lon": 121.2377215,
+    "type": "way"
+  },
+  {
+    "name": "Dave Mark Little Store",
+    "lat": 14.1686806,
+    "lon": 121.2413002,
+    "type": "node"
+  },
+  {
+    "name": "Dean Edelwina C. Legaspi Hall",
+    "lat": 14.1648397,
+    "lon": 121.2412548,
+    "type": "way"
+  },
+  {
+    "name": "Delgado Gate",
+    "lat": 14.1631754,
+    "lon": 121.2312882,
+    "type": "node"
+  },
+  {
+    "name": "Demarses Farmville",
+    "lat": 14.1685165,
+    "lon": 121.2450903,
+    "type": "way"
+  },
+  {
+    "name": "Demarses/LB Square",
+    "lat": 14.1689774,
+    "lon": 121.2442794,
+    "type": "node"
+  },
+  {
+    "name": "Demarses/LB Square",
+    "lat": 14.1691037,
+    "lon": 121.2443753,
+    "type": "node"
+  },
+  {
+    "name": "Demarses/LB Square",
+    "lat": 14.1690415,
+    "lon": 121.2443273,
+    "type": "relation"
+  },
+  {
+    "name": "Department of Agribusiness Management",
+    "lat": 14.1672247,
+    "lon": 121.2413595,
+    "type": "way"
+  },
+  {
+    "name": "Department of Agricultural Economics",
+    "lat": 14.1671457,
+    "lon": 121.2409673,
+    "type": "way"
+  },
+  {
+    "name": "Department of Basic Veterinary Sciences",
+    "lat": 14.1582409,
+    "lon": 121.2427335,
+    "type": "way"
+  },
+  {
+    "name": "Department of Chemical Engineering",
+    "lat": 14.1615121,
+    "lon": 121.2448909,
+    "type": "way"
+  },
+  {
+    "name": "Department of Civil Engineering",
+    "lat": 14.1612377,
+    "lon": 121.2459271,
+    "type": "way"
+  },
+  {
+    "name": "Department of Community and Environmental Resource Planning",
+    "lat": 14.1652379,
+    "lon": 121.2422704,
+    "type": "node"
+  },
+  {
+    "name": "Department of Economics",
+    "lat": 14.1673106,
+    "lon": 121.2415831,
+    "type": "way"
+  },
+  {
+    "name": "Department of Forest Products and Paper Science",
+    "lat": 14.1555773,
+    "lon": 121.2345725,
+    "type": "way"
+  },
+  {
+    "name": "Department of Human and Family Development Studies",
+    "lat": 14.1639846,
+    "lon": 121.2428417,
+    "type": "way"
+  },
+  {
+    "name": "Department of Human Kinetics",
+    "lat": 14.1566921,
+    "lon": 121.2426418,
+    "type": "node"
+  },
+  {
+    "name": "Department of Humanities",
+    "lat": 14.1657687,
+    "lon": 121.2411756,
+    "type": "node"
+  },
+  {
+    "name": "Department of Industrial Engineering",
+    "lat": 14.1628546,
+    "lon": 121.2498011,
+    "type": "way"
+  },
+  {
+    "name": "Department of Military Science and Tactics",
+    "lat": 14.1606933,
+    "lon": 121.2433547,
+    "type": "way"
+  },
+  {
+    "name": "Department of Plant Pathology/Entomology",
+    "lat": 14.1663634,
+    "lon": 121.2397548,
+    "type": "way"
+  },
+  {
+    "name": "Department of Social Development Studies",
+    "lat": 14.1649904,
+    "lon": 121.2423372,
+    "type": "node"
+  },
+  {
+    "name": "Department of Social Forestry and Forest Governance",
+    "lat": 14.1536201,
+    "lon": 121.2354063,
+    "type": "way"
+  },
+  {
+    "name": "Department of Social Sciences",
+    "lat": 14.1654486,
+    "lon": 121.2411899,
+    "type": "node"
+  },
+  {
+    "name": "Department of Veterinary Paraclinical Sciences",
+    "lat": 14.1579425,
+    "lon": 121.2428779,
+    "type": "way"
+  },
+  {
+    "name": "DevCom Parking Lot",
+    "lat": 14.1665536,
+    "lon": 121.2424066,
+    "type": "way"
+  },
+  {
+    "name": "DFPPS Annex Laboratory Building",
+    "lat": 14.1556429,
+    "lon": 121.2344815,
+    "type": "node"
+  },
+  {
+    "name": "DFPPS Main Building",
+    "lat": 14.1555233,
+    "lon": 121.2346746,
+    "type": "node"
+  },
+  {
+    "name": "Dhenzmer's",
+    "lat": 14.1696506,
+    "lon": 121.2432862,
+    "type": "node"
+  },
+  {
+    "name": "Dhenzmer's Extension",
+    "lat": 14.1690989,
+    "lon": 121.2410936,
+    "type": "node"
+  },
+  {
+    "name": "Diamond Street",
+    "lat": 14.1725288,
+    "lon": 121.2427333,
+    "type": "way"
+  },
+  {
+    "name": "Dilbert Store",
+    "lat": 14.1687566,
+    "lon": 121.2413782,
+    "type": "node"
+  },
+  {
+    "name": "Diocesan Shrine of Saint Therese of the Child Jesus",
+    "lat": 14.1651883,
+    "lon": 121.2448162,
+    "type": "way"
+  },
+  {
+    "name": "Dioscoro L. Umali Hall",
+    "lat": 14.1639818,
+    "lon": 121.2401318,
+    "type": "way"
+  },
+  {
+    "name": "DMS KTV and Restaurant",
+    "lat": 14.1683327,
+    "lon": 121.2362734,
+    "type": "way"
+  },
+  {
+    "name": "DMS park",
+    "lat": 14.1681375,
+    "lon": 121.2365073,
+    "type": "way"
+  },
+  {
+    "name": "Dolores Circle",
+    "lat": 14.1678005,
+    "lon": 121.2376356,
+    "type": "way"
+  },
+  {
+    "name": "Domingo M. Lantican Avenue",
+    "lat": 14.1561747,
+    "lon": 121.2354531,
+    "type": "way"
+  },
+  {
+    "name": "Domingo M. Lantican Avenue",
+    "lat": 14.1658054,
+    "lon": 121.2385381,
+    "type": "way"
+  },
+  {
+    "name": "Domingo M. Lantican Avenue",
+    "lat": 14.1647617,
+    "lon": 121.2384804,
+    "type": "way"
+  },
+  {
+    "name": "Domingo M. Lantican Avenue",
+    "lat": 14.1642655,
+    "lon": 121.2384507,
+    "type": "way"
+  },
+  {
+    "name": "Domingo M. Lantican Avenue",
+    "lat": 14.1605912,
+    "lon": 121.2374552,
+    "type": "way"
+  },
+  {
+    "name": "DOST Project Construction",
+    "lat": 14.1568234,
+    "lon": 121.2347982,
+    "type": "way"
+  },
+  {
+    "name": "Downhill Drive",
+    "lat": 14.1659536,
+    "lon": 121.2356019,
+    "type": "way"
+  },
+  {
+    "name": "Downhill Drive",
+    "lat": 14.165499,
+    "lon": 121.235865,
+    "type": "way"
+  },
+  {
+    "name": "Doymeal's Eatshop",
+    "lat": 14.1697391,
+    "lon": 121.2439198,
+    "type": "node"
+  },
+  {
+    "name": "Doymeals Eatshop",
+    "lat": 14.1687562,
+    "lon": 121.2442527,
+    "type": "node"
+  },
+  {
+    "name": "Do\u00f1a Aurora",
+    "lat": 14.1619958,
+    "lon": 121.2320682,
+    "type": "way"
+  },
+  {
+    "name": "Do\u00f1a Aurora",
+    "lat": 14.16396,
+    "lon": 121.234359,
+    "type": "way"
+  },
+  {
+    "name": "Do\u00f1a Aurora",
+    "lat": 14.1640138,
+    "lon": 121.2341812,
+    "type": "way"
+  },
+  {
+    "name": "Do\u00f1a Aurora",
+    "lat": 14.1638439,
+    "lon": 121.2342938,
+    "type": "way"
+  },
+  {
+    "name": "Do\u00f1a Aurora",
+    "lat": 14.1636153,
+    "lon": 121.2342897,
+    "type": "way"
+  },
+  {
+    "name": "Do\u00f1a Aurora",
+    "lat": 14.1601243,
+    "lon": 121.2295798,
+    "type": "way"
+  },
+  {
+    "name": "Dragon King KTV",
+    "lat": 14.1692477,
+    "lon": 121.2449484,
+    "type": "node"
+  },
+  {
+    "name": "DRIP KOFI Los Ba\u00f1os",
+    "lat": 14.168352,
+    "lon": 121.241263,
+    "type": "node"
+  },
+  {
+    "name": "DTRI Dairy Bar",
+    "lat": 14.1562636,
+    "lon": 121.2458517,
+    "type": "node"
+  },
+  {
+    "name": "Dunkin' Donuts",
+    "lat": 14.1677544,
+    "lon": 121.2437704,
+    "type": "node"
+  },
+  {
+    "name": "DZLB Transmission House",
+    "lat": 14.1677528,
+    "lon": 121.2433279,
+    "type": "way"
+  },
+  {
+    "name": "DZLB Transmission Tower",
+    "lat": 14.1680165,
+    "lon": 121.2429562,
+    "type": "node"
+  },
+  {
+    "name": "Eatsumo Teri Haus",
+    "lat": 14.1696822,
+    "lon": 121.2443135,
+    "type": "node"
+  },
+  {
+    "name": "Econo Drugstore",
+    "lat": 14.1697089,
+    "lon": 121.2440722,
+    "type": "node"
+  },
+  {
+    "name": "Ecosystems Research and Development Bureau",
+    "lat": 14.1553023,
+    "lon": 121.2370152,
+    "type": "way"
+  },
+  {
+    "name": "Edwin B. Copeland Gym",
+    "lat": 14.1569415,
+    "lon": 121.2425317,
+    "type": "way"
+  },
+  {
+    "name": "ELBeatz Private KTV and Kinect Hub",
+    "lat": 14.1696099,
+    "lon": 121.2448621,
+    "type": "node"
+  },
+  {
+    "name": "Elbi Commons",
+    "lat": 14.1680985,
+    "lon": 121.2435607,
+    "type": "node"
+  },
+  {
+    "name": "eLBi Convenience Store",
+    "lat": 14.168398,
+    "lon": 121.2413879,
+    "type": "node"
+  },
+  {
+    "name": "Electrical Engineering Auditorium",
+    "lat": 14.1613799,
+    "lon": 121.2476793,
+    "type": "node"
+  },
+  {
+    "name": "Electrical Engineering Department",
+    "lat": 14.1614607,
+    "lon": 121.2478684,
+    "type": "relation"
+  },
+  {
+    "name": "Ellen's Fried Chicken",
+    "lat": 14.1686597,
+    "lon": 121.2446844,
+    "type": "node"
+  },
+  {
+    "name": "Elon-Elon Street",
+    "lat": 14.1696837,
+    "lon": 121.2454259,
+    "type": "way"
+  },
+  {
+    "name": "Emerald Ladies Dorm",
+    "lat": 14.1677758,
+    "lon": 121.2412441,
+    "type": "way"
+  },
+  {
+    "name": "Entablado",
+    "lat": 14.1676517,
+    "lon": 121.2439286,
+    "type": "node"
+  },
+  {
+    "name": "Entom Food House",
+    "lat": 14.1694446,
+    "lon": 121.2431958,
+    "type": "node"
+  },
+  {
+    "name": "Epay's Store",
+    "lat": 14.1684858,
+    "lon": 121.2413581,
+    "type": "node"
+  },
+  {
+    "name": "ERDB",
+    "lat": 14.1556645,
+    "lon": 121.2366554,
+    "type": "node"
+  },
+  {
+    "name": "ERDB",
+    "lat": 14.1556728,
+    "lon": 121.2366421,
+    "type": "relation"
+  },
+  {
+    "name": "ERDB Guest House",
+    "lat": 14.1496133,
+    "lon": 121.2359706,
+    "type": "way"
+  },
+  {
+    "name": "Ermaejoy Store",
+    "lat": 14.1697485,
+    "lon": 121.2440436,
+    "type": "node"
+  },
+  {
+    "name": "ES Plaza",
+    "lat": 14.1688881,
+    "lon": 121.2439337,
+    "type": "way"
+  },
+  {
+    "name": "Fabian A. Tiongson Street",
+    "lat": 14.167497,
+    "lon": 121.2418759,
+    "type": "way"
+  },
+  {
+    "name": "Fair and Square Laundry Shop",
+    "lat": 14.1692624,
+    "lon": 121.2410081,
+    "type": "node"
+  },
+  {
+    "name": "Fam",
+    "lat": 14.1697081,
+    "lon": 121.2445503,
+    "type": "way"
+  },
+  {
+    "name": "Family Circle Canteen",
+    "lat": 14.1602265,
+    "lon": 121.24077,
+    "type": "node"
+  },
+  {
+    "name": "Faustina's",
+    "lat": 14.1683393,
+    "lon": 121.2412576,
+    "type": "node"
+  },
+  {
+    "name": "Felix O. Chinte Sr.",
+    "lat": 14.1526132,
+    "lon": 121.2351003,
+    "type": "way"
+  },
+  {
+    "name": "Felix O. Chinte Sr.",
+    "lat": 14.1508959,
+    "lon": 121.235643,
+    "type": "way"
+  },
+  {
+    "name": "Felix O. Chinte Sr.",
+    "lat": 14.1517675,
+    "lon": 121.2353367,
+    "type": "way"
+  },
+  {
+    "name": "Ferd's Grill Express",
+    "lat": 14.1691999,
+    "lon": 121.2444695,
+    "type": "node"
+  },
+  {
+    "name": "Fertility Tree",
+    "lat": 14.1598162,
+    "lon": 121.2425899,
+    "type": "node"
+  },
+  {
+    "name": "Field Service Building, Philippine Rice Research Institute",
+    "lat": 14.1599662,
+    "lon": 121.2474289,
+    "type": "way"
+  },
+  {
+    "name": "Filipinas Apartments",
+    "lat": 14.169401,
+    "lon": 121.2422942,
+    "type": "way"
+  },
+  {
+    "name": "Fiorgelato",
+    "lat": 14.1684148,
+    "lon": 121.2438722,
+    "type": "node"
+  },
+  {
+    "name": "Flag of the Republic of the Philippines",
+    "lat": 14.1654219,
+    "lon": 121.2394545,
+    "type": "node"
+  },
+  {
+    "name": "Flag of University of the Philippines Los Ba\u00f1os",
+    "lat": 14.1655195,
+    "lon": 121.2394677,
+    "type": "node"
+  },
+  {
+    "name": "Flat rocks Eco-trail",
+    "lat": 14.1476125,
+    "lon": 121.230013,
+    "type": "way"
+  },
+  {
+    "name": "Florencio Tamesis Hall",
+    "lat": 14.1547288,
+    "lon": 121.2351583,
+    "type": "relation"
+  },
+  {
+    "name": "FM Sacay St.",
+    "lat": 14.1671044,
+    "lon": 121.2379813,
+    "type": "way"
+  },
+  {
+    "name": "FNP Dormitory",
+    "lat": 14.155535,
+    "lon": 121.2419877,
+    "type": "node"
+  },
+  {
+    "name": "FoodTech/Agronomy",
+    "lat": 14.1601432,
+    "lon": 121.2444066,
+    "type": "node"
+  },
+  {
+    "name": "FoReHa",
+    "lat": 14.1527581,
+    "lon": 121.2350554,
+    "type": "node"
+  },
+  {
+    "name": "Forest Products Laboratory",
+    "lat": 14.1568005,
+    "lon": 121.2354547,
+    "type": "way"
+  },
+  {
+    "name": "Forest Products Research and Development Institute",
+    "lat": 14.1569734,
+    "lon": 121.2353447,
+    "type": "way"
+  },
+  {
+    "name": "Forest Science",
+    "lat": 14.154182,
+    "lon": 121.2355887,
+    "type": "node"
+  },
+  {
+    "name": "Forest Science",
+    "lat": 14.1547361,
+    "lon": 121.2360272,
+    "type": "node"
+  },
+  {
+    "name": "Forest Science",
+    "lat": 14.154457,
+    "lon": 121.2357804,
+    "type": "relation"
+  },
+  {
+    "name": "Forestry",
+    "lat": 14.1544097,
+    "lon": 121.2356975,
+    "type": "node"
+  },
+  {
+    "name": "Forestry Library",
+    "lat": 14.153483,
+    "lon": 121.2351114,
+    "type": "node"
+  },
+  {
+    "name": "Forestry Library",
+    "lat": 14.1535811,
+    "lon": 121.2352553,
+    "type": "node"
+  },
+  {
+    "name": "Forestry Residence Hall",
+    "lat": 14.1524681,
+    "lon": 121.2349081,
+    "type": "way"
+  },
+  {
+    "name": "Former Site of MRH Unit 1",
+    "lat": 14.1610215,
+    "lon": 121.2404703,
+    "type": "node"
+  },
+  {
+    "name": "Forsythe Scherfesse Wing",
+    "lat": 14.1548393,
+    "lon": 121.2348382,
+    "type": "node"
+  },
+  {
+    "name": "Fourth",
+    "lat": 14.1714177,
+    "lon": 121.2345637,
+    "type": "way"
+  },
+  {
+    "name": "FPRDI/MNH",
+    "lat": 14.1568823,
+    "lon": 121.236215,
+    "type": "node"
+  },
+  {
+    "name": "FPRDI/MNH",
+    "lat": 14.156754,
+    "lon": 121.2358104,
+    "type": "node"
+  },
+  {
+    "name": "FPRDI/MNH",
+    "lat": 14.1568117,
+    "lon": 121.2360127,
+    "type": "relation"
+  },
+  {
+    "name": "Francisco M. Fronda Hall",
+    "lat": 14.1581678,
+    "lon": 121.2439552,
+    "type": "relation"
+  },
+  {
+    "name": "Francisco M. Sacay Building",
+    "lat": 14.1668793,
+    "lon": 121.2420682,
+    "type": "way"
+  },
+  {
+    "name": "Francisco O. Santos Hall",
+    "lat": 14.1642856,
+    "lon": 121.242014,
+    "type": "way"
+  },
+  {
+    "name": "Francisco O. Santos Street",
+    "lat": 14.1693351,
+    "lon": 121.242652,
+    "type": "way"
+  },
+  {
+    "name": "Freedom Park",
+    "lat": 14.161687,
+    "lon": 121.2408855,
+    "type": "node"
+  },
+  {
+    "name": "Fruit Crops Nursery",
+    "lat": 14.1632592,
+    "lon": 121.2441977,
+    "type": "way"
+  },
+  {
+    "name": "Fruit Orchard/ Carport",
+    "lat": 14.1617529,
+    "lon": 121.2455166,
+    "type": "way"
+  },
+  {
+    "name": "Galuz Grill",
+    "lat": 14.1693534,
+    "lon": 121.2449775,
+    "type": "node"
+  },
+  {
+    "name": "Garan Place",
+    "lat": 14.1697789,
+    "lon": 121.2445552,
+    "type": "way"
+  },
+  {
+    "name": "Generator Room",
+    "lat": 14.1658932,
+    "lon": 121.2414292,
+    "type": "way"
+  },
+  {
+    "name": "Geomatics Laboratory",
+    "lat": 14.1651577,
+    "lon": 121.2423792,
+    "type": "node"
+  },
+  {
+    "name": "George Ahern",
+    "lat": 14.1547535,
+    "lon": 121.2350045,
+    "type": "node"
+  },
+  {
+    "name": "Getulio B. Viado",
+    "lat": 14.1585847,
+    "lon": 121.2407057,
+    "type": "way"
+  },
+  {
+    "name": "Gil F. Saguiguit Hall",
+    "lat": 14.1650645,
+    "lon": 121.2422577,
+    "type": "way"
+  },
+  {
+    "name": "Gillen's Store",
+    "lat": 14.168842,
+    "lon": 121.2411503,
+    "type": "node"
+  },
+  {
+    "name": "Ginto",
+    "lat": 14.1567041,
+    "lon": 121.2541221,
+    "type": "way"
+  },
+  {
+    "name": "GK Los Ba\u00f1os Ville",
+    "lat": 14.151731,
+    "lon": 121.2484372,
+    "type": "way"
+  },
+  {
+    "name": "GK Los Ba\u00f1os Ville Chapel",
+    "lat": 14.1514046,
+    "lon": 121.2481111,
+    "type": "way"
+  },
+  {
+    "name": "Goldilock's Grove",
+    "lat": 14.1696049,
+    "lon": 121.2441154,
+    "type": "node"
+  },
+  {
+    "name": "Gonzales Compound",
+    "lat": 14.1646831,
+    "lon": 121.2454836,
+    "type": "way"
+  },
+  {
+    "name": "Gonzalo V. Garcia Hall",
+    "lat": 14.1556054,
+    "lon": 121.2465639,
+    "type": "way"
+  },
+  {
+    "name": "Governor E. R. Street",
+    "lat": 14.1515908,
+    "lon": 121.2502336,
+    "type": "way"
+  },
+  {
+    "name": "Governor F. San Luis Street",
+    "lat": 14.1593999,
+    "lon": 121.2536998,
+    "type": "way"
+  },
+  {
+    "name": "Greenhouses",
+    "lat": 14.1601594,
+    "lon": 121.2462929,
+    "type": "way"
+  },
+  {
+    "name": "Greenway Drive",
+    "lat": 14.1647945,
+    "lon": 121.2339255,
+    "type": "way"
+  },
+  {
+    "name": "Grove",
+    "lat": 14.1685527,
+    "lon": 121.2440258,
+    "type": "node"
+  },
+  {
+    "name": "Grove",
+    "lat": 14.1682315,
+    "lon": 121.2436468,
+    "type": "way"
+  },
+  {
+    "name": "Grove",
+    "lat": 14.168553,
+    "lon": 121.2440383,
+    "type": "relation"
+  },
+  {
+    "name": "Guijo",
+    "lat": 14.1588023,
+    "lon": 121.2397629,
+    "type": "way"
+  },
+  {
+    "name": "Gupit Gwapo",
+    "lat": 14.1699442,
+    "lon": 121.2439246,
+    "type": "node"
+  },
+  {
+    "name": "Hagdan ng Malayang Kamalayan",
+    "lat": 14.1649352,
+    "lon": 121.2413479,
+    "type": "node"
+  },
+  {
+    "name": "Hanarose Sizzlers",
+    "lat": 14.1685237,
+    "lon": 121.2441069,
+    "type": "node"
+  },
+  {
+    "name": "Hanbok Store",
+    "lat": 14.1688225,
+    "lon": 121.2439068,
+    "type": "node"
+  },
+  {
+    "name": "Happy Tub Laundryhaus",
+    "lat": 14.1686442,
+    "lon": 121.2441887,
+    "type": "node"
+  },
+  {
+    "name": "Haraya",
+    "lat": 14.1699763,
+    "lon": 121.2424858,
+    "type": "node"
+  },
+  {
+    "name": "Haraya",
+    "lat": 14.1700621,
+    "lon": 121.2424631,
+    "type": "way"
+  },
+  {
+    "name": "Harold Cuzner Royal Palm Avenue",
+    "lat": 14.1640235,
+    "lon": 121.2409861,
+    "type": "way"
+  },
+  {
+    "name": "Harold Cuzner Royal Palm Avenue",
+    "lat": 14.1658693,
+    "lon": 121.2423405,
+    "type": "way"
+  },
+  {
+    "name": "Harold Cuzner Royal Palm Avenue",
+    "lat": 14.1648456,
+    "lon": 121.2416541,
+    "type": "way"
+  },
+  {
+    "name": "Harold Cuzner Royal Palm Avenue",
+    "lat": 14.1641392,
+    "lon": 121.2411541,
+    "type": "way"
+  },
+  {
+    "name": "Harold Cuzner Royal Palm Avenue",
+    "lat": 14.1635753,
+    "lon": 121.240292,
+    "type": "way"
+  },
+  {
+    "name": "Harold Cuzner Royal Palm Avenue",
+    "lat": 14.1638112,
+    "lon": 121.2406931,
+    "type": "way"
+  },
+  {
+    "name": "Harold Cuzner Wing",
+    "lat": 14.1549615,
+    "lon": 121.2350394,
+    "type": "node"
+  },
+  {
+    "name": "Harrar Hall",
+    "lat": 14.1693155,
+    "lon": 121.2548342,
+    "type": "way"
+  },
+  {
+    "name": "HAS Dormitory",
+    "lat": 14.1675728,
+    "lon": 121.2442596,
+    "type": "node"
+  },
+  {
+    "name": "Havener Auditorium",
+    "lat": 14.1686967,
+    "lon": 121.2548146,
+    "type": "node"
+  },
+  {
+    "name": "Heliconia",
+    "lat": 14.1609412,
+    "lon": 121.2296428,
+    "type": "way"
+  },
+  {
+    "name": "Heneral Ulam",
+    "lat": 14.1693219,
+    "lon": 121.2410006,
+    "type": "node"
+  },
+  {
+    "name": "High Ground",
+    "lat": 14.1684499,
+    "lon": 121.2438478,
+    "type": "node"
+  },
+  {
+    "name": "Hill Drive",
+    "lat": 14.1698096,
+    "lon": 121.2323482,
+    "type": "way"
+  },
+  {
+    "name": "Hillside",
+    "lat": 14.1700245,
+    "lon": 121.2348468,
+    "type": "way"
+  },
+  {
+    "name": "Hillside Village",
+    "lat": 14.1632888,
+    "lon": 121.2545772,
+    "type": "way"
+  },
+  {
+    "name": "Holland Tulips Cafe",
+    "lat": 14.1684064,
+    "lon": 121.2393803,
+    "type": "node"
+  },
+  {
+    "name": "Holland Tulips Dormitory",
+    "lat": 14.1682492,
+    "lon": 121.2393593,
+    "type": "way"
+  },
+  {
+    "name": "Hortorium",
+    "lat": 14.1651078,
+    "lon": 121.2381544,
+    "type": "way"
+  },
+  {
+    "name": "Housing and Land Grant Offices Parking Lot",
+    "lat": 14.1667647,
+    "lon": 121.2421593,
+    "type": "way"
+  },
+  {
+    "name": "Hugh Curran Courtyard",
+    "lat": 14.154626,
+    "lon": 121.2351762,
+    "type": "node"
+  },
+  {
+    "name": "Hybrid Building, Philippine Rice Research Institute",
+    "lat": 14.1606067,
+    "lon": 121.2470958,
+    "type": "way"
+  },
+  {
+    "name": "Hydraulics Laboratory Building 1",
+    "lat": 14.1613625,
+    "lon": 121.2456751,
+    "type": "way"
+  },
+  {
+    "name": "Hydraulics Laboratory Building 2",
+    "lat": 14.1614874,
+    "lon": 121.2459037,
+    "type": "way"
+  },
+  {
+    "name": "Ice Cream ni Tita Lucy",
+    "lat": 14.1524922,
+    "lon": 121.2541612,
+    "type": "node"
+  },
+  {
+    "name": "ICropS Abaca Germplasm",
+    "lat": 14.1584995,
+    "lon": 121.2361171,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Abaca Germplasm",
+    "lat": 14.1565481,
+    "lon": 121.237011,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Asi (Nemesio B. Mendiola Hall)",
+    "lat": 14.1597858,
+    "lon": 121.2448048,
+    "type": "way"
+  },
+  {
+    "name": "ICropS B.I.G.",
+    "lat": 14.1608324,
+    "lon": 121.2461093,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Coconut Tissue Culture Laboratory",
+    "lat": 14.1598684,
+    "lon": 121.2460714,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Fruit Crops Division",
+    "lat": 14.1632592,
+    "lon": 121.243781,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Fruit Crops Nursery",
+    "lat": 14.1632347,
+    "lon": 121.2441999,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Fruit Orchard Field Facility",
+    "lat": 14.1630846,
+    "lon": 121.2462636,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Headhouse",
+    "lat": 14.1606077,
+    "lon": 121.2464939,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Headhouse (Screenhouse)",
+    "lat": 14.1607208,
+    "lon": 121.2466755,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Headhouse Demonstration area 1",
+    "lat": 14.1605737,
+    "lon": 121.2462536,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Headhouse Demonstration Area 2",
+    "lat": 14.1603676,
+    "lon": 121.246392,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Headhouse Old Greenhouse 1",
+    "lat": 14.1606814,
+    "lon": 121.2461965,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Headhouse Old Greenhouse 2",
+    "lat": 14.1604677,
+    "lon": 121.2463204,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Instruction Demonstation Area PhilRice",
+    "lat": 14.1610934,
+    "lon": 121.2473903,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Instruction Demonstration Area ASH",
+    "lat": 14.1598959,
+    "lon": 121.2455331,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Instruction Demonstration Area Rice",
+    "lat": 14.1610037,
+    "lon": 121.2468782,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Jamboree Fruit Crops",
+    "lat": 14.1563893,
+    "lon": 121.2309883,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Jardin de Hierbas",
+    "lat": 14.1596645,
+    "lon": 121.245255,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Landscaping Building 1",
+    "lat": 14.1640807,
+    "lon": 121.2437459,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Landscaping Building 2",
+    "lat": 14.1639168,
+    "lon": 121.2434303,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Landscaping Equipment Yard",
+    "lat": 14.1641707,
+    "lon": 121.2439354,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Landscaping Greenhouse",
+    "lat": 14.1638982,
+    "lon": 121.2439118,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Lanzones Area",
+    "lat": 14.1631612,
+    "lon": 121.244879,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Orchard 1",
+    "lat": 14.1629134,
+    "lon": 121.2469507,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Orchard 2",
+    "lat": 14.1618286,
+    "lon": 121.2460545,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Orchid Laboratory",
+    "lat": 14.163338,
+    "lon": 121.2428771,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Orchid Nursery",
+    "lat": 14.1631199,
+    "lon": 121.2432228,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Ornamental Crops Nursery",
+    "lat": 14.1639982,
+    "lon": 121.2436677,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Plantation Crops Nursery",
+    "lat": 14.1592971,
+    "lon": 121.245736,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Plantation Crops Shedhouse",
+    "lat": 14.1594207,
+    "lon": 121.2458241,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Root Crops Division",
+    "lat": 14.1631703,
+    "lon": 121.243752,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Tissue Culture Greenhouse",
+    "lat": 14.1596824,
+    "lon": 121.2456543,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Tissue Culture Greenhouse Shed",
+    "lat": 14.1595512,
+    "lon": 121.245776,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Tissue Culture Laboratory",
+    "lat": 14.1597681,
+    "lon": 121.2459476,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Tool Room",
+    "lat": 14.1600041,
+    "lon": 121.2461438,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Tool Room Screenhouse",
+    "lat": 14.1601521,
+    "lon": 121.2461857,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Toolroom Garden",
+    "lat": 14.1601205,
+    "lon": 121.2461459,
+    "type": "way"
+  },
+  {
+    "name": "ICropS Vegetable demonstration area",
+    "lat": 14.1639595,
+    "lon": 121.2492513,
+    "type": "way"
+  },
+  {
+    "name": "ICS Library",
+    "lat": 14.1646662,
+    "lon": 121.2422645,
+    "type": "node"
+  },
+  {
+    "name": "iCustomize",
+    "lat": 14.1697488,
+    "lon": 121.2444795,
+    "type": "node"
+  },
+  {
+    "name": "Ilag Compound",
+    "lat": 14.166642,
+    "lon": 121.2445447,
+    "type": "way"
+  },
+  {
+    "name": "Ilao - friday",
+    "lat": 14.1516691,
+    "lon": 121.2487109,
+    "type": "node"
+  },
+  {
+    "name": "Immaculate Conception Parish",
+    "lat": 14.1788764,
+    "lon": 121.2302146,
+    "type": "relation"
+  },
+  {
+    "name": "Inclineville",
+    "lat": 14.1643574,
+    "lon": 121.2329496,
+    "type": "way"
+  },
+  {
+    "name": "Infinitea Vega Arcade - UPLB",
+    "lat": 14.1681033,
+    "lon": 121.2434835,
+    "type": "node"
+  },
+  {
+    "name": "Infirmary",
+    "lat": 14.1620914,
+    "lon": 121.2388429,
+    "type": "node"
+  },
+  {
+    "name": "Infirmary",
+    "lat": 14.1621055,
+    "lon": 121.2389323,
+    "type": "node"
+  },
+  {
+    "name": "InfoBucks",
+    "lat": 14.1690579,
+    "lon": 121.2444326,
+    "type": "node"
+  },
+  {
+    "name": "infusion",
+    "lat": 14.1690337,
+    "lon": 121.2421878,
+    "type": "node"
+  },
+  {
+    "name": "Innovative Engineering Materials Laboratory",
+    "lat": 14.1613827,
+    "lon": 121.245979,
+    "type": "node"
+  },
+  {
+    "name": "Insectory Building",
+    "lat": 14.1544322,
+    "lon": 121.236383,
+    "type": "way"
+  },
+  {
+    "name": "Insight Computers",
+    "lat": 14.1685737,
+    "lon": 121.2437764,
+    "type": "node"
+  },
+  {
+    "name": "Institute of Biological Sciences",
+    "lat": 14.1663419,
+    "lon": 121.2402759,
+    "type": "node"
+  },
+  {
+    "name": "Institute of Biological Sciences",
+    "lat": 14.1663304,
+    "lon": 121.2395551,
+    "type": "way"
+  },
+  {
+    "name": "Institute of Biological Sciences Lecture Hall",
+    "lat": 14.1661801,
+    "lon": 121.2407044,
+    "type": "node"
+  },
+  {
+    "name": "Institute of Chemistry",
+    "lat": 14.1640555,
+    "lon": 121.2420492,
+    "type": "node"
+  },
+  {
+    "name": "Institute of Computer Science",
+    "lat": 14.1646029,
+    "lon": 121.2419531,
+    "type": "node"
+  },
+  {
+    "name": "Institute of Computer Science Lecture Hall",
+    "lat": 14.1643627,
+    "lon": 121.2421507,
+    "type": "node"
+  },
+  {
+    "name": "Institute of Cooperatives and Bio-Enterprise Development",
+    "lat": 14.1675058,
+    "lon": 121.2422447,
+    "type": "way"
+  },
+  {
+    "name": "Institute of Food Science and Technology",
+    "lat": 14.1602867,
+    "lon": 121.2441302,
+    "type": "way"
+  },
+  {
+    "name": "Institute of Human Nutrition",
+    "lat": 14.16422,
+    "lon": 121.2427026,
+    "type": "way"
+  },
+  {
+    "name": "Institute of Physics",
+    "lat": 14.1644569,
+    "lon": 121.241758,
+    "type": "node"
+  },
+  {
+    "name": "Institute of Renewable and Natural Resources",
+    "lat": 14.1544003,
+    "lon": 121.2360219,
+    "type": "way"
+  },
+  {
+    "name": "Institute of Statistics",
+    "lat": 14.1646687,
+    "lon": 121.2421039,
+    "type": "node"
+  },
+  {
+    "name": "Instrumentation Section",
+    "lat": 14.1622834,
+    "lon": 121.2494156,
+    "type": "way"
+  },
+  {
+    "name": "International House Residence Hall",
+    "lat": 14.1634763,
+    "lon": 121.2391303,
+    "type": "way"
+  },
+  {
+    "name": "International Rice Research Institute",
+    "lat": 14.1532124,
+    "lon": 121.2628873,
+    "type": "relation"
+  },
+  {
+    "name": "Internet @ Demarses",
+    "lat": 14.1682143,
+    "lon": 121.2447659,
+    "type": "node"
+  },
+  {
+    "name": "IPB Road",
+    "lat": 14.1660797,
+    "lon": 121.2551306,
+    "type": "way"
+  },
+  {
+    "name": "Ipil-Ipil",
+    "lat": 14.157654,
+    "lon": 121.2380123,
+    "type": "way"
+  },
+  {
+    "name": "Ipil-Ipil Street",
+    "lat": 14.1522826,
+    "lon": 121.2532664,
+    "type": "way"
+  },
+  {
+    "name": "Ipil-Ipil Street",
+    "lat": 14.1516618,
+    "lon": 121.2539524,
+    "type": "way"
+  },
+  {
+    "name": "IRRI",
+    "lat": 14.1677235,
+    "lon": 121.2542135,
+    "type": "node"
+  },
+  {
+    "name": "IRRI Bookstore & Souvenir Shop",
+    "lat": 14.1690781,
+    "lon": 121.2547774,
+    "type": "node"
+  },
+  {
+    "name": "IRRI Cafeteria",
+    "lat": 14.1692902,
+    "lon": 121.2549699,
+    "type": "node"
+  },
+  {
+    "name": "IRRI Director General's Home",
+    "lat": 14.1585861,
+    "lon": 121.2326326,
+    "type": "way"
+  },
+  {
+    "name": "IRRI Events and Visitors Office",
+    "lat": 14.1686661,
+    "lon": 121.2549826,
+    "type": "node"
+  },
+  {
+    "name": "IRRI Fitness Club",
+    "lat": 14.1698025,
+    "lon": 121.2547285,
+    "type": "node"
+  },
+  {
+    "name": "IRRI Football Field",
+    "lat": 14.1689238,
+    "lon": 121.253939,
+    "type": "way"
+  },
+  {
+    "name": "IRRI Housing",
+    "lat": 14.1618486,
+    "lon": 121.2353732,
+    "type": "node"
+  },
+  {
+    "name": "IRRI Library",
+    "lat": 14.1683447,
+    "lon": 121.2543232,
+    "type": "node"
+  },
+  {
+    "name": "IRRI Staff Housing",
+    "lat": 14.1594181,
+    "lon": 121.2331523,
+    "type": "way"
+  },
+  {
+    "name": "IRRI Staff Housing Guesthouse",
+    "lat": 14.1590249,
+    "lon": 121.2333026,
+    "type": "way"
+  },
+  {
+    "name": "IRRI Staff Housing Swimming Pool",
+    "lat": 14.1594991,
+    "lon": 121.2330499,
+    "type": "way"
+  },
+  {
+    "name": "ISH 16",
+    "lat": 14.1599948,
+    "lon": 121.2340672,
+    "type": "way"
+  },
+  {
+    "name": "Iskulmeyts",
+    "lat": 14.1679799,
+    "lon": 121.2415395,
+    "type": "node"
+  },
+  {
+    "name": "J. Deanon Bike Rental",
+    "lat": 14.1678797,
+    "lon": 121.2412438,
+    "type": "node"
+  },
+  {
+    "name": "Jamboree",
+    "lat": 14.1567301,
+    "lon": 121.2287186,
+    "type": "node"
+  },
+  {
+    "name": "Jamboree Road",
+    "lat": 14.1608558,
+    "lon": 121.2283594,
+    "type": "way"
+  },
+  {
+    "name": "Japanese Garden",
+    "lat": 14.1633442,
+    "lon": 121.2398736,
+    "type": "way"
+  },
+  {
+    "name": "Jarine - friday",
+    "lat": 14.1523696,
+    "lon": 121.2532069,
+    "type": "node"
+  },
+  {
+    "name": "Jasmin",
+    "lat": 14.1630355,
+    "lon": 121.2319424,
+    "type": "way"
+  },
+  {
+    "name": "JD Apartments",
+    "lat": 14.1692254,
+    "lon": 121.2433324,
+    "type": "way"
+  },
+  {
+    "name": "Jelmer's Studio",
+    "lat": 14.1676155,
+    "lon": 121.2438891,
+    "type": "node"
+  },
+  {
+    "name": "Jerico's Bakery",
+    "lat": 14.1692847,
+    "lon": 121.2442595,
+    "type": "node"
+  },
+  {
+    "name": "Jhe School Supplies Store",
+    "lat": 14.1689097,
+    "lon": 121.241138,
+    "type": "node"
+  },
+  {
+    "name": "Jhon Astro Salon by Grace",
+    "lat": 14.1693902,
+    "lon": 121.2442231,
+    "type": "node"
+  },
+  {
+    "name": "Joanalisa's Apartment",
+    "lat": 14.1695613,
+    "lon": 121.2456605,
+    "type": "way"
+  },
+  {
+    "name": "Jollibee",
+    "lat": 14.1680706,
+    "lon": 121.244046,
+    "type": "way"
+  },
+  {
+    "name": "Jose B. Juliano Avenue",
+    "lat": 14.1628222,
+    "lon": 121.2397337,
+    "type": "way"
+  },
+  {
+    "name": "Jose B. Juliano Avenue",
+    "lat": 14.1599297,
+    "lon": 121.2417349,
+    "type": "way"
+  },
+  {
+    "name": "Jose B. Juliano Avenue",
+    "lat": 14.1612309,
+    "lon": 121.2411142,
+    "type": "way"
+  },
+  {
+    "name": "Jose B. Juliano Avenue",
+    "lat": 14.1609403,
+    "lon": 121.2412573,
+    "type": "way"
+  },
+  {
+    "name": "Jose B. Juliano Avenue",
+    "lat": 14.1589291,
+    "lon": 121.2422191,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.1647686,
+    "lon": 121.2371125,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.1650321,
+    "lon": 121.2370351,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.163296,
+    "lon": 121.23642,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.1619562,
+    "lon": 121.2355508,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.159103,
+    "lon": 121.231934,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.1652901,
+    "lon": 121.2372616,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.1652991,
+    "lon": 121.236958,
+    "type": "way"
+  },
+  {
+    "name": "Jose D. Drilon Jr.",
+    "lat": 14.1617217,
+    "lon": 121.2348679,
+    "type": "way"
+  },
+  {
+    "name": "Jose M. Capinpin Street",
+    "lat": 14.1663156,
+    "lon": 121.2420799,
+    "type": "way"
+  },
+  {
+    "name": "Jose R. Velasco Avenue",
+    "lat": 14.1672062,
+    "lon": 121.2407718,
+    "type": "way"
+  },
+  {
+    "name": "Jose R. Velasco Avenue",
+    "lat": 14.1636482,
+    "lon": 121.2327511,
+    "type": "way"
+  },
+  {
+    "name": "Jose R. Velasco Avenue",
+    "lat": 14.1652685,
+    "lon": 121.2363728,
+    "type": "way"
+  },
+  {
+    "name": "Jose R. Velasco Avenue",
+    "lat": 14.1674859,
+    "lon": 121.2431639,
+    "type": "way"
+  },
+  {
+    "name": "Joseph C. Madamba",
+    "lat": 14.1566222,
+    "lon": 121.2431778,
+    "type": "way"
+  },
+  {
+    "name": "Josie2 - friday",
+    "lat": 14.1543855,
+    "lon": 121.2496854,
+    "type": "node"
+  },
+  {
+    "name": "JRE CELLPHONE REPAIR SHOP",
+    "lat": 14.1507595,
+    "lon": 121.2520006,
+    "type": "node"
+  },
+  {
+    "name": "JRL Bookstore",
+    "lat": 14.165736,
+    "lon": 121.2449815,
+    "type": "node"
+  },
+  {
+    "name": "Juan V. Pancho",
+    "lat": 14.1603926,
+    "lon": 121.2390858,
+    "type": "way"
+  },
+  {
+    "name": "Kamagong Street",
+    "lat": 14.1519255,
+    "lon": 121.2546765,
+    "type": "way"
+  },
+  {
+    "name": "Kanjanabhisek Memorial Pavilion",
+    "lat": 14.1633102,
+    "lon": 121.2400443,
+    "type": "way"
+  },
+  {
+    "name": "Kapok Tree",
+    "lat": 14.1638973,
+    "lon": 121.2412548,
+    "type": "node"
+  },
+  {
+    "name": "Kari's Garden",
+    "lat": 14.1690128,
+    "lon": 121.2546027,
+    "type": "way"
+  },
+  {
+    "name": "Karne Frio",
+    "lat": 14.1690169,
+    "lon": 121.2439292,
+    "type": "node"
+  },
+  {
+    "name": "Kaye's Gallery",
+    "lat": 14.1687907,
+    "lon": 121.2439381,
+    "type": "node"
+  },
+  {
+    "name": "Ken's",
+    "lat": 14.1687408,
+    "lon": 121.2444925,
+    "type": "way"
+  },
+  {
+    "name": "Khush Hall",
+    "lat": 14.1698121,
+    "lon": 121.2546562,
+    "type": "way"
+  },
+  {
+    "name": "Kilometer 65",
+    "lat": 14.1568204,
+    "lon": 121.2282688,
+    "type": "node"
+  },
+  {
+    "name": "Kim Bop",
+    "lat": 14.1697984,
+    "lon": 121.2443441,
+    "type": "node"
+  },
+  {
+    "name": "Kinalas Garden",
+    "lat": 14.168483,
+    "lon": 121.2445298,
+    "type": "node"
+  },
+  {
+    "name": "Klik SIlog",
+    "lat": 14.1685367,
+    "lon": 121.2444689,
+    "type": "node"
+  },
+  {
+    "name": "koinoniadotcom",
+    "lat": 14.1688798,
+    "lon": 121.2441629,
+    "type": "node"
+  },
+  {
+    "name": "KumPARES",
+    "lat": 14.1696359,
+    "lon": 121.2446187,
+    "type": "node"
+  },
+  {
+    "name": "KW&E",
+    "lat": 14.1695543,
+    "lon": 121.2441435,
+    "type": "node"
+  },
+  {
+    "name": "La Ni\u00f1a Bea Canteen",
+    "lat": 14.1685032,
+    "lon": 121.2413511,
+    "type": "node"
+  },
+  {
+    "name": "La Ville",
+    "lat": 14.1655942,
+    "lon": 121.2445663,
+    "type": "way"
+  },
+  {
+    "name": "La Ville Canteen",
+    "lat": 14.165611,
+    "lon": 121.2446186,
+    "type": "node"
+  },
+  {
+    "name": "LAG20",
+    "lat": 14.1634849,
+    "lon": 121.2403626,
+    "type": "node"
+  },
+  {
+    "name": "LAG21",
+    "lat": 14.1595603,
+    "lon": 121.2423832,
+    "type": "node"
+  },
+  {
+    "name": "LAG3189",
+    "lat": 14.1613276,
+    "lon": 121.2424828,
+    "type": "node"
+  },
+  {
+    "name": "LAG3192",
+    "lat": 14.1643997,
+    "lon": 121.2415682,
+    "type": "node"
+  },
+  {
+    "name": "Laguna Volcanic Field",
+    "lat": 14.1146361,
+    "lon": 121.2777591,
+    "type": "relation"
+  },
+  {
+    "name": "Land and Water Resources Division",
+    "lat": 14.1635914,
+    "lon": 121.250675,
+    "type": "relation"
+  },
+  {
+    "name": "Land Grant Management Office",
+    "lat": 14.1669054,
+    "lon": 121.2421206,
+    "type": "node"
+  },
+  {
+    "name": "Landbank",
+    "lat": 14.1671067,
+    "lon": 121.2438285,
+    "type": "node"
+  },
+  {
+    "name": "Laundry Best",
+    "lat": 14.1695012,
+    "lon": 121.2441667,
+    "type": "node"
+  },
+  {
+    "name": "LB Square",
+    "lat": 14.1694901,
+    "lon": 121.2447347,
+    "type": "way"
+  },
+  {
+    "name": "LB Square Parkway",
+    "lat": 14.1697012,
+    "lon": 121.2446196,
+    "type": "way"
+  },
+  {
+    "name": "LDB",
+    "lat": 14.16535,
+    "lon": 121.2446319,
+    "type": "way"
+  },
+  {
+    "name": "Le Soleil",
+    "lat": 14.1656809,
+    "lon": 121.2447786,
+    "type": "way"
+  },
+  {
+    "name": "Learning Laboratory for Agroforestry",
+    "lat": 14.1527364,
+    "lon": 121.2382248,
+    "type": "way"
+  },
+  {
+    "name": "Lemon Grass Street",
+    "lat": 14.1687892,
+    "lon": 121.2452918,
+    "type": "way"
+  },
+  {
+    "name": "Lemon Grass Street",
+    "lat": 14.1682706,
+    "lon": 121.2455096,
+    "type": "way"
+  },
+  {
+    "name": "Leo's Photo",
+    "lat": 14.1688537,
+    "lon": 121.2441457,
+    "type": "node"
+  },
+  {
+    "name": "Leon G. Gonzales Wing",
+    "lat": 14.1598505,
+    "lon": 121.2443755,
+    "type": "node"
+  },
+  {
+    "name": "LifeBox",
+    "lat": 14.1675459,
+    "lon": 121.2436904,
+    "type": "node"
+  },
+  {
+    "name": "Likha",
+    "lat": 14.1615917,
+    "lon": 121.239229,
+    "type": "node"
+  },
+  {
+    "name": "Lil' Orbits Mini Donuts",
+    "lat": 14.1688419,
+    "lon": 121.2438854,
+    "type": "node"
+  },
+  {
+    "name": "LITE Program",
+    "lat": 14.1649553,
+    "lon": 121.2411861,
+    "type": "node"
+  },
+  {
+    "name": "Little Kids Mini Store",
+    "lat": 14.1686451,
+    "lon": 121.2440146,
+    "type": "node"
+  },
+  {
+    "name": "Lobby",
+    "lat": 14.1607711,
+    "lon": 121.2401773,
+    "type": "way"
+  },
+  {
+    "name": "Local Government Academy Training Center",
+    "lat": 14.1632501,
+    "lon": 121.2360312,
+    "type": "way"
+  },
+  {
+    "name": "London Terrace Dormitory",
+    "lat": 14.1694439,
+    "lon": 121.2397864,
+    "type": "way"
+  },
+  {
+    "name": "Lopez Avenue",
+    "lat": 14.1725,
+    "lon": 121.2433872,
+    "type": "way"
+  },
+  {
+    "name": "Lopez Avenue",
+    "lat": 14.1675467,
+    "lon": 121.2433577,
+    "type": "way"
+  },
+  {
+    "name": "Lopez-Arguelles Village",
+    "lat": 14.1543356,
+    "lon": 121.2522046,
+    "type": "way"
+  },
+  {
+    "name": "Lord Rich Snack & Food Haus",
+    "lat": 14.1687153,
+    "lon": 121.2412889,
+    "type": "node"
+  },
+  {
+    "name": "Los Ba\u00f1os Islamic Center",
+    "lat": 14.1699519,
+    "lon": 121.2420694,
+    "type": "relation"
+  },
+  {
+    "name": "Lower ACCI Dorm",
+    "lat": 14.1627593,
+    "lon": 121.2402622,
+    "type": "way"
+  },
+  {
+    "name": "LRC Learning Hub",
+    "lat": 14.1630697,
+    "lon": 121.2414876,
+    "type": "node"
+  },
+  {
+    "name": "Luntian Forest Park",
+    "lat": 14.1663283,
+    "lon": 121.2415969,
+    "type": "way"
+  },
+  {
+    "name": "Luz U. O\u00f1ate Street",
+    "lat": 14.1641259,
+    "lon": 121.2435104,
+    "type": "way"
+  },
+  {
+    "name": "Luz U. O\u00f1ate Street",
+    "lat": 14.1646601,
+    "lon": 121.2445774,
+    "type": "way"
+  },
+  {
+    "name": "Lyanna & Luis General Merchandise",
+    "lat": 14.1697813,
+    "lon": 121.2440287,
+    "type": "node"
+  },
+  {
+    "name": "Maahas",
+    "lat": 14.1719181,
+    "lon": 121.2579084,
+    "type": "relation"
+  },
+  {
+    "name": "Maahas Road",
+    "lat": 14.1721589,
+    "lon": 121.2536553,
+    "type": "way"
+  },
+  {
+    "name": "Main Library Extension",
+    "lat": 14.1652938,
+    "lon": 121.2390642,
+    "type": "relation"
+  },
+  {
+    "name": "Main Library/Faculty Village",
+    "lat": 14.165498,
+    "lon": 121.2385508,
+    "type": "node"
+  },
+  {
+    "name": "Main Library/Faculty Village",
+    "lat": 14.1654236,
+    "lon": 121.2385843,
+    "type": "node"
+  },
+  {
+    "name": "Main Library/Faculty Village",
+    "lat": 14.1654608,
+    "lon": 121.2385604,
+    "type": "relation"
+  },
+  {
+    "name": "Makiling Botanic Gardens",
+    "lat": 14.1566879,
+    "lon": 121.2339894,
+    "type": "node"
+  },
+  {
+    "name": "Makiling Botanic Gardens",
+    "lat": 14.1558111,
+    "lon": 121.2351684,
+    "type": "node"
+  },
+  {
+    "name": "Makiling Botanic Gardens",
+    "lat": 14.1557987,
+    "lon": 121.2351837,
+    "type": "relation"
+  },
+  {
+    "name": "Makiling Botanical Gardens Bus Parking",
+    "lat": 14.1561299,
+    "lon": 121.2355237,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Center for Mountain Ecosystems",
+    "lat": 14.1517086,
+    "lon": 121.2336538,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Heights Housing",
+    "lat": 14.1510038,
+    "lon": 121.2364673,
+    "type": "way"
+  },
+  {
+    "name": "Makiling National Scout Reservation",
+    "lat": 14.1600409,
+    "lon": 121.2263648,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Organics",
+    "lat": 14.1689162,
+    "lon": 121.2418239,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Residence Hall",
+    "lat": 14.1518292,
+    "lon": 121.2350842,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Road",
+    "lat": 14.1539399,
+    "lon": 121.2354145,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Road",
+    "lat": 14.1558133,
+    "lon": 121.2364303,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Road",
+    "lat": 14.1514217,
+    "lon": 121.2338022,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Road",
+    "lat": 14.1523757,
+    "lon": 121.2343949,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Street",
+    "lat": 14.1706291,
+    "lon": 121.2374939,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Tennis Club",
+    "lat": 14.1525032,
+    "lon": 121.2368343,
+    "type": "way"
+  },
+  {
+    "name": "Makiling Traverse",
+    "lat": 14.1302136,
+    "lon": 121.1997265,
+    "type": "relation"
+  },
+  {
+    "name": "Maligaya Drive",
+    "lat": 14.1585797,
+    "lon": 121.254789,
+    "type": "way"
+  },
+  {
+    "name": "Man and His Beast of Burden",
+    "lat": 14.1668123,
+    "lon": 121.2429712,
+    "type": "node"
+  },
+  {
+    "name": "Mangoville",
+    "lat": 14.1692957,
+    "lon": 121.2457596,
+    "type": "way"
+  },
+  {
+    "name": "Manuel L. Roxas",
+    "lat": 14.1592049,
+    "lon": 121.2429846,
+    "type": "way"
+  },
+  {
+    "name": "Manuel L. Roxas",
+    "lat": 14.1585563,
+    "lon": 121.2414978,
+    "type": "way"
+  },
+  {
+    "name": "Manuel L. Roxas",
+    "lat": 14.1573538,
+    "lon": 121.2401832,
+    "type": "way"
+  },
+  {
+    "name": "Maquiling School",
+    "lat": 14.1658894,
+    "lon": 121.2441851,
+    "type": "node"
+  },
+  {
+    "name": "Maquiling School",
+    "lat": 14.1658877,
+    "lon": 121.2441891,
+    "type": "relation"
+  },
+  {
+    "name": "MaReHa",
+    "lat": 14.1519177,
+    "lon": 121.2353384,
+    "type": "node"
+  },
+  {
+    "name": "MaReHa",
+    "lat": 14.1519554,
+    "lon": 121.2352993,
+    "type": "relation"
+  },
+  {
+    "name": "Maria Makiling Trail Station 1",
+    "lat": 14.15132,
+    "lon": 121.233701,
+    "type": "node"
+  },
+  {
+    "name": "Maria Makiling Trail Station 2",
+    "lat": 14.1480594,
+    "lon": 121.2318266,
+    "type": "node"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1560066,
+    "lon": 121.2457429,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1606743,
+    "lon": 121.2430246,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1633451,
+    "lon": 121.2407637,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1627976,
+    "lon": 121.2412157,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1627923,
+    "lon": 121.2412084,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1573356,
+    "lon": 121.2449589,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1620653,
+    "lon": 121.2419142,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1585812,
+    "lon": 121.2442572,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1596936,
+    "lon": 121.2436454,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1575354,
+    "lon": 121.2448518,
+    "type": "way"
+  },
+  {
+    "name": "Mariano M. Mondo\u00f1edo Avenue",
+    "lat": 14.1571642,
+    "lon": 121.2450504,
+    "type": "way"
+  },
+  {
+    "name": "Mariposa",
+    "lat": 14.1579568,
+    "lon": 121.2540184,
+    "type": "way"
+  },
+  {
+    "name": "Mariposa",
+    "lat": 14.1568849,
+    "lon": 121.2547729,
+    "type": "way"
+  },
+  {
+    "name": "Mark & trix(Zenaida store)- joning friday",
+    "lat": 14.1515663,
+    "lon": 121.2522272,
+    "type": "node"
+  },
+  {
+    "name": "Markiling Peak 2 Trail",
+    "lat": 14.1512218,
+    "lon": 121.2336917,
+    "type": "node"
+  },
+  {
+    "name": "Marosavel Apartments",
+    "lat": 14.1691784,
+    "lon": 121.2377917,
+    "type": "way"
+  },
+  {
+    "name": "Marsman Drysdale Travel",
+    "lat": 14.1691563,
+    "lon": 121.2548367,
+    "type": "node"
+  },
+  {
+    "name": "Martin R. Reyes",
+    "lat": 14.1550079,
+    "lon": 121.2353944,
+    "type": "way"
+  },
+  {
+    "name": "Marya Fountain",
+    "lat": 14.159441,
+    "lon": 121.243149,
+    "type": "node"
+  },
+  {
+    "name": "Marymount Village",
+    "lat": 14.1722826,
+    "lon": 121.2354376,
+    "type": "way"
+  },
+  {
+    "name": "Math Building/St. Therese",
+    "lat": 14.1650748,
+    "lon": 121.244529,
+    "type": "node"
+  },
+  {
+    "name": "Math Building/St. Therese",
+    "lat": 14.1650861,
+    "lon": 121.2446069,
+    "type": "node"
+  },
+  {
+    "name": "Math Building/St. Therese",
+    "lat": 14.1650822,
+    "lon": 121.244586,
+    "type": "relation"
+  },
+  {
+    "name": "Mathematics Building Lecture Hall",
+    "lat": 14.1645205,
+    "lon": 121.2439593,
+    "type": "way"
+  },
+  {
+    "name": "Mathematics Building Parking Lot",
+    "lat": 14.1646639,
+    "lon": 121.2445862,
+    "type": "way"
+  },
+  {
+    "name": "Maulauen River",
+    "lat": 14.1684951,
+    "lon": 121.2507274,
+    "type": "way"
+  },
+  {
+    "name": "Mauricio Oteyza",
+    "lat": 14.1560875,
+    "lon": 121.2348655,
+    "type": "way"
+  },
+  {
+    "name": "Mauricio Oteyza",
+    "lat": 14.1561174,
+    "lon": 121.2338754,
+    "type": "way"
+  },
+  {
+    "name": "Mauricio Oteyza",
+    "lat": 14.1553704,
+    "lon": 121.2340603,
+    "type": "way"
+  },
+  {
+    "name": "Mauricio Oteyza",
+    "lat": 14.1564111,
+    "lon": 121.2344228,
+    "type": "way"
+  },
+  {
+    "name": "Mavina Apartment",
+    "lat": 14.1697976,
+    "lon": 121.2388181,
+    "type": "way"
+  },
+  {
+    "name": "MBG Pavilion",
+    "lat": 14.1572216,
+    "lon": 121.2341013,
+    "type": "way"
+  },
+  {
+    "name": "McDonald's",
+    "lat": 14.1675784,
+    "lon": 121.2436248,
+    "type": "node"
+  },
+  {
+    "name": "MCME",
+    "lat": 14.1516795,
+    "lon": 121.2338884,
+    "type": "node"
+  },
+  {
+    "name": "MCME",
+    "lat": 14.1516783,
+    "lon": 121.2339013,
+    "type": "relation"
+  },
+  {
+    "name": "Medical Arts Building",
+    "lat": 14.1624417,
+    "lon": 121.2385706,
+    "type": "way"
+  },
+  {
+    "name": "Melanio A. Gapud",
+    "lat": 14.1654344,
+    "lon": 121.2375203,
+    "type": "way"
+  },
+  {
+    "name": "Melville Canteen",
+    "lat": 14.1680066,
+    "lon": 121.2415367,
+    "type": "node"
+  },
+  {
+    "name": "Men's Dorm",
+    "lat": 14.1612352,
+    "lon": 121.24092,
+    "type": "node"
+  },
+  {
+    "name": "Men's Dorm",
+    "lat": 14.1612576,
+    "lon": 121.2408918,
+    "type": "node"
+  },
+  {
+    "name": "Men's Dorm Driveway",
+    "lat": 14.1612309,
+    "lon": 121.2410624,
+    "type": "way"
+  },
+  {
+    "name": "Men's Residence Hall",
+    "lat": 14.1610445,
+    "lon": 121.2406353,
+    "type": "way"
+  },
+  {
+    "name": "Meralco Sibol School",
+    "lat": 14.15242,
+    "lon": 121.2486917,
+    "type": "way"
+  },
+  {
+    "name": "Metikuloso Carwash",
+    "lat": 14.1542048,
+    "lon": 121.2522897,
+    "type": "node"
+  },
+  {
+    "name": "Metikuloso Carwash",
+    "lat": 14.1542021,
+    "lon": 121.2523143,
+    "type": "way"
+  },
+  {
+    "name": "Mhel's Proven",
+    "lat": 14.1689497,
+    "lon": 121.2411064,
+    "type": "node"
+  },
+  {
+    "name": "Micha's",
+    "lat": 14.1688281,
+    "lon": 121.2443152,
+    "type": "node"
+  },
+  {
+    "name": "Miked Internet",
+    "lat": 14.1686858,
+    "lon": 121.2440537,
+    "type": "node"
+  },
+  {
+    "name": "Milka Krem",
+    "lat": 14.1621266,
+    "lon": 121.2423045,
+    "type": "way"
+  },
+  {
+    "name": "Milky Way Street",
+    "lat": 14.1541674,
+    "lon": 121.2519982,
+    "type": "way"
+  },
+  {
+    "name": "Mineski Infinity",
+    "lat": 14.1693784,
+    "lon": 121.2444694,
+    "type": "way"
+  },
+  {
+    "name": "Mini Moo Ice Cream",
+    "lat": 14.1697588,
+    "lon": 121.2439723,
+    "type": "node"
+  },
+  {
+    "name": "Mint Street",
+    "lat": 14.1685383,
+    "lon": 121.2446063,
+    "type": "way"
+  },
+  {
+    "name": "Mint Street",
+    "lat": 14.1680085,
+    "lon": 121.2447467,
+    "type": "way"
+  },
+  {
+    "name": "Minute Burger",
+    "lat": 14.169524,
+    "lon": 121.2441595,
+    "type": "node"
+  },
+  {
+    "name": "Mizpeh",
+    "lat": 14.1614039,
+    "lon": 121.2429879,
+    "type": "node"
+  },
+  {
+    "name": "Mizpeh",
+    "lat": 14.169878,
+    "lon": 121.2442915,
+    "type": "way"
+  },
+  {
+    "name": "MJ & TJ's Store",
+    "lat": 14.1690299,
+    "lon": 121.241094,
+    "type": "node"
+  },
+  {
+    "name": "Moises Apartments",
+    "lat": 14.1694862,
+    "lon": 121.2414744,
+    "type": "way"
+  },
+  {
+    "name": "Molave Street",
+    "lat": 14.1513357,
+    "lon": 121.2535149,
+    "type": "way"
+  },
+  {
+    "name": "Molawin Biopark",
+    "lat": 14.1630306,
+    "lon": 121.2456169,
+    "type": "way"
+  },
+  {
+    "name": "Molawin Creek",
+    "lat": 14.1654232,
+    "lon": 121.2476978,
+    "type": "way"
+  },
+  {
+    "name": "Molawin Creek",
+    "lat": 14.1632097,
+    "lon": 121.242261,
+    "type": "way"
+  },
+  {
+    "name": "Molawin River",
+    "lat": 14.1475764,
+    "lon": 121.2252277,
+    "type": "way"
+  },
+  {
+    "name": "Molawin River",
+    "lat": 14.1509203,
+    "lon": 121.2272714,
+    "type": "way"
+  },
+  {
+    "name": "Molawin River Natural Pool",
+    "lat": 14.1569533,
+    "lon": 121.2332823,
+    "type": "node"
+  },
+  {
+    "name": "Mommy Ludy's Cuisine",
+    "lat": 14.1694818,
+    "lon": 121.244798,
+    "type": "node"
+  },
+  {
+    "name": "Momzie's Enterprises",
+    "lat": 14.1658849,
+    "lon": 121.2443409,
+    "type": "node"
+  },
+  {
+    "name": "Moonleaf",
+    "lat": 14.1684762,
+    "lon": 121.2440733,
+    "type": "node"
+  },
+  {
+    "name": "Morning Star Montessori School, Inc.",
+    "lat": 14.1533091,
+    "lon": 121.2521427,
+    "type": "way"
+  },
+  {
+    "name": "Mount Makiling Forest Reserve",
+    "lat": 14.1380119,
+    "lon": 121.2119919,
+    "type": "way"
+  },
+  {
+    "name": "Mount Pulong Malake",
+    "lat": 14.1598854,
+    "lon": 121.2518044,
+    "type": "node"
+  },
+  {
+    "name": "Move Your Body",
+    "lat": 14.1694318,
+    "lon": 121.2442007,
+    "type": "node"
+  },
+  {
+    "name": "Mr. Liempo",
+    "lat": 14.1697659,
+    "lon": 121.2440366,
+    "type": "node"
+  },
+  {
+    "name": "MS Swaminathan Hall",
+    "lat": 14.1695719,
+    "lon": 121.2539955,
+    "type": "way"
+  },
+  {
+    "name": "Mt. Banawe Store",
+    "lat": 14.1693919,
+    "lon": 121.2395385,
+    "type": "node"
+  },
+  {
+    "name": "N. G. Apartments",
+    "lat": 14.1657287,
+    "lon": 121.2453578,
+    "type": "way"
+  },
+  {
+    "name": "Nanay Toyang store (parducho) - joning friday",
+    "lat": 14.1517095,
+    "lon": 121.2520708,
+    "type": "node"
+  },
+  {
+    "name": "Nang Bob's",
+    "lat": 14.168336,
+    "lon": 121.2440545,
+    "type": "node"
+  },
+  {
+    "name": "Nanot's",
+    "lat": 14.168493,
+    "lon": 121.243803,
+    "type": "node"
+  },
+  {
+    "name": "Narra Bridge",
+    "lat": 14.1642304,
+    "lon": 121.2387846,
+    "type": "node"
+  },
+  {
+    "name": "Narra Bridge",
+    "lat": 14.1641439,
+    "lon": 121.238989,
+    "type": "node"
+  },
+  {
+    "name": "National Agrometeorology Station",
+    "lat": 14.1646361,
+    "lon": 121.2500771,
+    "type": "way"
+  },
+  {
+    "name": "Navarro Apartments",
+    "lat": 14.1683503,
+    "lon": 121.237823,
+    "type": "way"
+  },
+  {
+    "name": "Nelia T. Gonzales Hall",
+    "lat": 14.162863,
+    "lon": 121.2389347,
+    "type": "way"
+  },
+  {
+    "name": "New CAP Sanctuary",
+    "lat": 14.1675909,
+    "lon": 121.2405792,
+    "type": "way"
+  },
+  {
+    "name": "New Dormitory Residence Hall",
+    "lat": 14.1556482,
+    "lon": 121.2409975,
+    "type": "way"
+  },
+  {
+    "name": "New FoReHa",
+    "lat": 14.1523148,
+    "lon": 121.2342491,
+    "type": "node"
+  },
+  {
+    "name": "New FoReHa",
+    "lat": 14.1523166,
+    "lon": 121.2342457,
+    "type": "relation"
+  },
+  {
+    "name": "New Forestry Residence Hall",
+    "lat": 14.1521193,
+    "lon": 121.2343585,
+    "type": "relation"
+  },
+  {
+    "name": "New Mathematics Building",
+    "lat": 14.1648003,
+    "lon": 121.2436001,
+    "type": "relation"
+  },
+  {
+    "name": "Nicdao Grill & Restobar",
+    "lat": 14.1689085,
+    "lon": 121.2414124,
+    "type": "way"
+  },
+  {
+    "name": "Nicolas L. Galvez Wing",
+    "lat": 14.1596446,
+    "lon": 121.2448816,
+    "type": "node"
+  },
+  {
+    "name": "Nina Virgin Band Rehearsal Studio",
+    "lat": 14.1696415,
+    "lon": 121.244518,
+    "type": "node"
+  },
+  {
+    "name": "Noime (Veronica store) - joning friday",
+    "lat": 14.1534278,
+    "lon": 121.2479917,
+    "type": "node"
+  },
+  {
+    "name": "Normie store - joning friday",
+    "lat": 14.1513981,
+    "lon": 121.2517042,
+    "type": "node"
+  },
+  {
+    "name": "Obdulia F. Sison Hall",
+    "lat": 14.1592274,
+    "lon": 121.2415706,
+    "type": "relation"
+  },
+  {
+    "name": "Oblation Park",
+    "lat": 14.165103,
+    "lon": 121.2417042,
+    "type": "way"
+  },
+  {
+    "name": "Office of the College Secretary",
+    "lat": 14.1650527,
+    "lon": 121.2420986,
+    "type": "node"
+  },
+  {
+    "name": "Office of the College Secretary - CEAT",
+    "lat": 14.1615766,
+    "lon": 121.2479375,
+    "type": "node"
+  },
+  {
+    "name": "Office of the University Registrar",
+    "lat": 14.1654719,
+    "lon": 121.2414047,
+    "type": "node"
+  },
+  {
+    "name": "Office of the Vice Chancellor for Student Affairs",
+    "lat": 14.163123,
+    "lon": 121.2415379,
+    "type": "node"
+  },
+  {
+    "name": "Old Basketry Building",
+    "lat": 14.1560287,
+    "lon": 121.2346209,
+    "type": "way"
+  },
+  {
+    "name": "Old Rural High School Building",
+    "lat": 14.1649673,
+    "lon": 121.2441019,
+    "type": "relation"
+  },
+  {
+    "name": "One Providence",
+    "lat": 14.169339,
+    "lon": 121.2401928,
+    "type": "way"
+  },
+  {
+    "name": "One Sapphire Place",
+    "lat": 14.1699183,
+    "lon": 121.240485,
+    "type": "way"
+  },
+  {
+    "name": "One Silangan Place",
+    "lat": 14.1672346,
+    "lon": 121.243932,
+    "type": "way"
+  },
+  {
+    "name": "Onyx Street",
+    "lat": 14.1703797,
+    "lon": 121.239422,
+    "type": "way"
+  },
+  {
+    "name": "Oregano Street",
+    "lat": 14.1691379,
+    "lon": 121.2453994,
+    "type": "way"
+  },
+  {
+    "name": "Oregano Street",
+    "lat": 14.1689208,
+    "lon": 121.2448859,
+    "type": "way"
+  },
+  {
+    "name": "Oregano Street",
+    "lat": 14.1688824,
+    "lon": 121.244446,
+    "type": "way"
+  },
+  {
+    "name": "Oro Optical",
+    "lat": 14.1699239,
+    "lon": 121.2439276,
+    "type": "node"
+  },
+  {
+    "name": "Others",
+    "lat": 14.1688266,
+    "lon": 121.2415369,
+    "type": "node"
+  },
+  {
+    "name": "OVC for Research and Extension",
+    "lat": 14.1669683,
+    "lon": 121.2404024,
+    "type": "way"
+  },
+  {
+    "name": "Paciano Rizal Elementary School",
+    "lat": 14.1522774,
+    "lon": 121.2510228,
+    "type": "way"
+  },
+  {
+    "name": "Palm Drive",
+    "lat": 14.166904,
+    "lon": 121.236128,
+    "type": "way"
+  },
+  {
+    "name": "Paponei's",
+    "lat": 14.1677019,
+    "lon": 121.2437551,
+    "type": "node"
+  },
+  {
+    "name": "Paponei's Beads & Crafts",
+    "lat": 14.1686672,
+    "lon": 121.2440289,
+    "type": "node"
+  },
+  {
+    "name": "Parasite Collection",
+    "lat": 14.1574331,
+    "lon": 121.2427773,
+    "type": "way"
+  },
+  {
+    "name": "Patahian ni Lucy",
+    "lat": 14.1524503,
+    "lon": 121.2541275,
+    "type": "node"
+  },
+  {
+    "name": "PC Pro",
+    "lat": 14.1685323,
+    "lon": 121.2438455,
+    "type": "node"
+  },
+  {
+    "name": "PCC @ UPLB Dairy Center",
+    "lat": 14.1587088,
+    "lon": 121.2446666,
+    "type": "node"
+  },
+  {
+    "name": "Peach Hauz Dorm",
+    "lat": 14.1693176,
+    "lon": 121.2414335,
+    "type": "node"
+  },
+  {
+    "name": "Pearl Shire Apartments",
+    "lat": 14.169345,
+    "lon": 121.2379885,
+    "type": "way"
+  },
+  {
+    "name": "Pearl Street",
+    "lat": 14.1704004,
+    "lon": 121.2415436,
+    "type": "way"
+  },
+  {
+    "name": "Pedro R. Sandoval Avenue",
+    "lat": 14.1653739,
+    "lon": 121.2413693,
+    "type": "way"
+  },
+  {
+    "name": "Pedro R. Sandoval Avenue",
+    "lat": 14.1657179,
+    "lon": 121.2426362,
+    "type": "way"
+  },
+  {
+    "name": "Pedro R. Sandoval Avenue",
+    "lat": 14.16548,
+    "lon": 121.2396378,
+    "type": "way"
+  },
+  {
+    "name": "Pedro R. Sandoval Avenue",
+    "lat": 14.1658562,
+    "lon": 121.2390284,
+    "type": "way"
+  },
+  {
+    "name": "Pedro R. Sandoval Avenue",
+    "lat": 14.1653626,
+    "lon": 121.2403378,
+    "type": "way"
+  },
+  {
+    "name": "Pedro R. Sandoval Avenue",
+    "lat": 14.1660763,
+    "lon": 121.2435861,
+    "type": "way"
+  },
+  {
+    "name": "Pedro R. Sandoval Avenue",
+    "lat": 14.1655925,
+    "lon": 121.2420875,
+    "type": "way"
+  },
+  {
+    "name": "Pegaraw",
+    "lat": 14.165452,
+    "lon": 121.2395949,
+    "type": "node"
+  },
+  {
+    "name": "Petron",
+    "lat": 14.1617224,
+    "lon": 121.2458991,
+    "type": "way"
+  },
+  {
+    "name": "Philip - friday",
+    "lat": 14.153346,
+    "lon": 121.2490399,
+    "type": "node"
+  },
+  {
+    "name": "Philippine Agricultural Scientist",
+    "lat": 14.1638696,
+    "lon": 121.239408,
+    "type": "way"
+  },
+  {
+    "name": "Philippine Carabao Center",
+    "lat": 14.1545696,
+    "lon": 121.2453834,
+    "type": "node"
+  },
+  {
+    "name": "Philippine Carabao Center",
+    "lat": 14.1587564,
+    "lon": 121.244665,
+    "type": "way"
+  },
+  {
+    "name": "Philippine Rice Research Institute - Los Ba\u00f1os",
+    "lat": 14.1606978,
+    "lon": 121.2473495,
+    "type": "way"
+  },
+  {
+    "name": "Philippine Tropical Forest Science Center",
+    "lat": 14.1515638,
+    "lon": 121.2342297,
+    "type": "way"
+  },
+  {
+    "name": "PhilRice Rice Drying",
+    "lat": 14.1599008,
+    "lon": 121.2462461,
+    "type": "way"
+  },
+  {
+    "name": "Phuong",
+    "lat": 14.169679,
+    "lon": 121.2437474,
+    "type": "node"
+  },
+  {
+    "name": "Physci Parking 1",
+    "lat": 14.1648478,
+    "lon": 121.2424645,
+    "type": "way"
+  },
+  {
+    "name": "PhySci/Humanities",
+    "lat": 14.1638784,
+    "lon": 121.2413639,
+    "type": "node"
+  },
+  {
+    "name": "PhySci/Humanities",
+    "lat": 14.163791,
+    "lon": 121.2415592,
+    "type": "node"
+  },
+  {
+    "name": "PhySci/PNB",
+    "lat": 14.1636436,
+    "lon": 121.2425354,
+    "type": "node"
+  },
+  {
+    "name": "PhySci/PNB",
+    "lat": 14.163712,
+    "lon": 121.2423962,
+    "type": "node"
+  },
+  {
+    "name": "PhySci/PNB",
+    "lat": 14.1636778,
+    "lon": 121.2424663,
+    "type": "relation"
+  },
+  {
+    "name": "PhySci/Post Office",
+    "lat": 14.1634401,
+    "lon": 121.2435869,
+    "type": "node"
+  },
+  {
+    "name": "PhySci/Post Office",
+    "lat": 14.1634825,
+    "lon": 121.2437598,
+    "type": "node"
+  },
+  {
+    "name": "PhySci/Post Office",
+    "lat": 14.1634489,
+    "lon": 121.2436733,
+    "type": "relation"
+  },
+  {
+    "name": "Physical Sciences Lecture Hall A",
+    "lat": 14.1642749,
+    "lon": 121.2421177,
+    "type": "node"
+  },
+  {
+    "name": "Physical Sciences Lecture Hall B",
+    "lat": 14.1644589,
+    "lon": 121.2420648,
+    "type": "node"
+  },
+  {
+    "name": "Pilak",
+    "lat": 14.1552693,
+    "lon": 121.2524987,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.1608325,
+    "lon": 121.2457574,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.1611574,
+    "lon": 121.2464099,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.1713521,
+    "lon": 121.258499,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.1601866,
+    "lon": 121.2444195,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.1642903,
+    "lon": 121.2503695,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.167583,
+    "lon": 121.2543844,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.1677367,
+    "lon": 121.2545598,
+    "type": "way"
+  },
+  {
+    "name": "Pili Drive",
+    "lat": 14.1612477,
+    "lon": 121.2465718,
+    "type": "way"
+  },
+  {
+    "name": "Pilot Food Processing Plant",
+    "lat": 14.1606442,
+    "lon": 121.2439609,
+    "type": "way"
+  },
+  {
+    "name": "Pink Building",
+    "lat": 14.1684379,
+    "lon": 121.2438621,
+    "type": "way"
+  },
+  {
+    "name": "Pizza Hut",
+    "lat": 14.1684994,
+    "lon": 121.2440877,
+    "type": "node"
+  },
+  {
+    "name": "Pizza Pop",
+    "lat": 14.1685455,
+    "lon": 121.2439541,
+    "type": "node"
+  },
+  {
+    "name": "PJ & CJ Store",
+    "lat": 14.1686975,
+    "lon": 121.2412967,
+    "type": "node"
+  },
+  {
+    "name": "Playground",
+    "lat": 14.1597546,
+    "lon": 121.2337165,
+    "type": "way"
+  },
+  {
+    "name": "Pleasant Village",
+    "lat": 14.158558,
+    "lon": 121.2557637,
+    "type": "way"
+  },
+  {
+    "name": "PNB",
+    "lat": 14.1678058,
+    "lon": 121.2438674,
+    "type": "node"
+  },
+  {
+    "name": "PNB",
+    "lat": 14.163492,
+    "lon": 121.242328,
+    "type": "node"
+  },
+  {
+    "name": "PNB",
+    "lat": 14.163508,
+    "lon": 121.2423361,
+    "type": "way"
+  },
+  {
+    "name": "PNR South Long Haul",
+    "lat": 14.1661021,
+    "lon": 121.2190886,
+    "type": "way"
+  },
+  {
+    "name": "PNR South Main Line",
+    "lat": 14.1676307,
+    "lon": 121.2542802,
+    "type": "way"
+  },
+  {
+    "name": "PNR South Main Line: Legazpi \u2192 Manila",
+    "lat": 13.8763656,
+    "lon": 122.3634672,
+    "type": "relation"
+  },
+  {
+    "name": "PNR South Main Line: Manila \u2192 Legazpi",
+    "lat": 13.87635,
+    "lon": 122.363485,
+    "type": "relation"
+  },
+  {
+    "name": "Poinsettia",
+    "lat": 14.1606891,
+    "lon": 121.2314155,
+    "type": "way"
+  },
+  {
+    "name": "police outpost",
+    "lat": 14.1692365,
+    "lon": 121.2443955,
+    "type": "node"
+  },
+  {
+    "name": "Pook ng Bilangguang Kampo sa Los Ba\u00f1os",
+    "lat": 14.1617565,
+    "lon": 121.2424732,
+    "type": "node"
+  },
+  {
+    "name": "Postharvest Horticulture Training and Research Center",
+    "lat": 14.1611482,
+    "lon": 121.2442599,
+    "type": "way"
+  },
+  {
+    "name": "Poulpharm",
+    "lat": 14.1684876,
+    "lon": 121.245041,
+    "type": "node"
+  },
+  {
+    "name": "Poultry Husbandry Portal",
+    "lat": 14.1590455,
+    "lon": 121.2436545,
+    "type": "way"
+  },
+  {
+    "name": "PPMSO/CPDO and SPMO Buildings",
+    "lat": 14.1621736,
+    "lon": 121.2452875,
+    "type": "way"
+  },
+  {
+    "name": "Productivity Caf\u00e9",
+    "lat": 14.1696098,
+    "lon": 121.2440945,
+    "type": "node"
+  },
+  {
+    "name": "Prologue Computer Center",
+    "lat": 14.1676241,
+    "lon": 121.2436964,
+    "type": "node"
+  },
+  {
+    "name": "PUJ: Calamba \u2192 UP Los Ba\u00f1os",
+    "lat": 14.1866812,
+    "lon": 121.2000306,
+    "type": "relation"
+  },
+  {
+    "name": "PUJ: Forestry \u2192 UP Los Ba\u00f1os",
+    "lat": 14.15806,
+    "lon": 121.2369363,
+    "type": "relation"
+  },
+  {
+    "name": "PUJ: UP Los Ba\u00f1os Kaliwa",
+    "lat": 14.1639051,
+    "lon": 121.2418205,
+    "type": "relation"
+  },
+  {
+    "name": "PUJ: UP Los Ba\u00f1os Kanan",
+    "lat": 14.1639051,
+    "lon": 121.2418205,
+    "type": "relation"
+  },
+  {
+    "name": "PUJ: UP Los Ba\u00f1os \u2192 Calamba",
+    "lat": 14.1825536,
+    "lon": 121.2031766,
+    "type": "relation"
+  },
+  {
+    "name": "PUJ: UP Los Ba\u00f1os \u2192 Forestry",
+    "lat": 14.1577759,
+    "lon": 121.2363809,
+    "type": "relation"
+  },
+  {
+    "name": "Pulog Street",
+    "lat": 14.1701483,
+    "lon": 121.2378519,
+    "type": "way"
+  },
+  {
+    "name": "Pulp and Paper Research and Training Center",
+    "lat": 14.1572464,
+    "lon": 121.2357455,
+    "type": "way"
+  },
+  {
+    "name": "Purple Velvet Food House",
+    "lat": 14.1690583,
+    "lon": 121.2412653,
+    "type": "node"
+  },
+  {
+    "name": "Putho Tuntungin",
+    "lat": 14.1514804,
+    "lon": 121.2524347,
+    "type": "node"
+  },
+  {
+    "name": "Putho Tuntungin",
+    "lat": 14.1530042,
+    "lon": 121.2498281,
+    "type": "relation"
+  },
+  {
+    "name": "Putho Tuntungin Barangay Hall",
+    "lat": 14.1520018,
+    "lon": 121.2520883,
+    "type": "way"
+  },
+  {
+    "name": "Putho Tuntungin Reservoir",
+    "lat": 14.1498005,
+    "lon": 121.2435462,
+    "type": "way"
+  },
+  {
+    "name": "Quasha Gate",
+    "lat": 14.1566923,
+    "lon": 121.2296272,
+    "type": "node"
+  },
+  {
+    "name": "R. M. Cadapan's Canteen",
+    "lat": 14.1686891,
+    "lon": 121.2411263,
+    "type": "way"
+  },
+  {
+    "name": "Radyo DZLB",
+    "lat": 14.166884,
+    "lon": 121.2423601,
+    "type": "node"
+  },
+  {
+    "name": "Raid at Los Ba\u00f1os",
+    "lat": 14.1619756,
+    "lon": 121.2430446,
+    "type": "node"
+  },
+  {
+    "name": "Rambutan St.",
+    "lat": 14.1670954,
+    "lon": 121.237985,
+    "type": "way"
+  },
+  {
+    "name": "Rambutan Street",
+    "lat": 14.1617837,
+    "lon": 121.2459584,
+    "type": "way"
+  },
+  {
+    "name": "Ramil - friday",
+    "lat": 14.1596071,
+    "lon": 121.25425,
+    "type": "node"
+  },
+  {
+    "name": "Rand computer center",
+    "lat": 14.165915,
+    "lon": 121.2445,
+    "type": "node"
+  },
+  {
+    "name": "Rand Computer Shop",
+    "lat": 14.1659245,
+    "lon": 121.2443381,
+    "type": "node"
+  },
+  {
+    "name": "Rand Internet Cafe",
+    "lat": 14.1679494,
+    "lon": 121.2434493,
+    "type": "node"
+  },
+  {
+    "name": "RAV Sizzlers",
+    "lat": 14.1687694,
+    "lon": 121.2448127,
+    "type": "way"
+  },
+  {
+    "name": "Raymundo",
+    "lat": 14.1684251,
+    "lon": 121.2420954,
+    "type": "way"
+  },
+  {
+    "name": "Raymundo Gate",
+    "lat": 14.1677698,
+    "lon": 121.2415229,
+    "type": "node"
+  },
+  {
+    "name": "Raymundo Gate",
+    "lat": 14.1677242,
+    "lon": 121.2416532,
+    "type": "node"
+  },
+  {
+    "name": "Raymundo Gate",
+    "lat": 14.1676533,
+    "lon": 121.241397,
+    "type": "node"
+  },
+  {
+    "name": "Raymundo Street",
+    "lat": 14.1684528,
+    "lon": 121.2417293,
+    "type": "way"
+  },
+  {
+    "name": "Regional Training Center on Food and Nutrition Planning",
+    "lat": 14.155551,
+    "lon": 121.2420646,
+    "type": "way"
+  },
+  {
+    "name": "Residencia Juannata",
+    "lat": 14.1695661,
+    "lon": 121.2439315,
+    "type": "way"
+  },
+  {
+    "name": "Residencia Teresita Dormitory",
+    "lat": 14.1688392,
+    "lon": 121.2430503,
+    "type": "way"
+  },
+  {
+    "name": "Riceworld",
+    "lat": 14.168444,
+    "lon": 121.254548,
+    "type": "node"
+  },
+  {
+    "name": "Rigor's Ladies Dormitory",
+    "lat": 14.1679749,
+    "lon": 121.2446456,
+    "type": "way"
+  },
+  {
+    "name": "RMB store",
+    "lat": 14.1689967,
+    "lon": 121.2443049,
+    "type": "node"
+  },
+  {
+    "name": "RMS Copy Center",
+    "lat": 14.1696147,
+    "lon": 121.2443087,
+    "type": "node"
+  },
+  {
+    "name": "Romeo C. Espino Street",
+    "lat": 14.1611962,
+    "lon": 121.2418518,
+    "type": "way"
+  },
+  {
+    "name": "Romulo A. Del Castillo Hall",
+    "lat": 14.1516866,
+    "lon": 121.2336897,
+    "type": "way"
+  },
+  {
+    "name": "Rosal",
+    "lat": 14.165704,
+    "lon": 121.2374842,
+    "type": "way"
+  },
+  {
+    "name": "Rosario T. Cortes",
+    "lat": 14.1507522,
+    "lon": 121.2359816,
+    "type": "way"
+  },
+  {
+    "name": "Rosemary Street",
+    "lat": 14.168057,
+    "lon": 121.245806,
+    "type": "way"
+  },
+  {
+    "name": "Rosemary Street",
+    "lat": 14.1678724,
+    "lon": 121.2452312,
+    "type": "way"
+  },
+  {
+    "name": "ROTC Barracks",
+    "lat": 14.1609402,
+    "lon": 121.2431696,
+    "type": "way"
+  },
+  {
+    "name": "Row Street",
+    "lat": 14.1605169,
+    "lon": 121.2341429,
+    "type": "way"
+  },
+  {
+    "name": "Ruby Street",
+    "lat": 14.1696112,
+    "lon": 121.2411237,
+    "type": "way"
+  },
+  {
+    "name": "Ruby Street",
+    "lat": 14.1677311,
+    "lon": 121.241536,
+    "type": "way"
+  },
+  {
+    "name": "Rural Economic Development and Renewable Energy Cente",
+    "lat": 14.166108,
+    "lon": 121.2421279,
+    "type": "way"
+  },
+  {
+    "name": "RUSS Dormitory",
+    "lat": 14.1694589,
+    "lon": 121.2381887,
+    "type": "way"
+  },
+  {
+    "name": "Sacay Grand Villas",
+    "lat": 14.1673582,
+    "lon": 121.2378945,
+    "type": "way"
+  },
+  {
+    "name": "Sacay/UPCO",
+    "lat": 14.1665156,
+    "lon": 121.2387514,
+    "type": "node"
+  },
+  {
+    "name": "Sacay/UPCO",
+    "lat": 14.1662999,
+    "lon": 121.23857,
+    "type": "node"
+  },
+  {
+    "name": "Sacay/UPCO",
+    "lat": 14.1664094,
+    "lon": 121.238653,
+    "type": "relation"
+  },
+  {
+    "name": "Saint Therese of the Child Jesus Parish",
+    "lat": 14.1533203,
+    "lon": 121.2336672,
+    "type": "relation"
+  },
+  {
+    "name": "Sam B. Durham",
+    "lat": 14.1584815,
+    "lon": 121.2437444,
+    "type": "way"
+  },
+  {
+    "name": "Sam F. Trelease and Emma Sarepta Yule Mini-Park",
+    "lat": 14.1638544,
+    "lon": 121.2419709,
+    "type": "way"
+  },
+  {
+    "name": "Sampaguita",
+    "lat": 14.1635478,
+    "lon": 121.2332844,
+    "type": "way"
+  },
+  {
+    "name": "Sampaguita",
+    "lat": 14.1631067,
+    "lon": 121.2328138,
+    "type": "way"
+  },
+  {
+    "name": "San Antonio",
+    "lat": 14.1742393,
+    "lon": 121.2472846,
+    "type": "relation"
+  },
+  {
+    "name": "San Antonio de Padua Parish",
+    "lat": 14.1719181,
+    "lon": 121.250845,
+    "type": "relation"
+  },
+  {
+    "name": "Santa Fe Subdivision",
+    "lat": 14.1706211,
+    "lon": 121.2454747,
+    "type": "relation"
+  },
+  {
+    "name": "Santan",
+    "lat": 14.1603252,
+    "lon": 121.2302102,
+    "type": "way"
+  },
+  {
+    "name": "Sapphire Street",
+    "lat": 14.1698177,
+    "lon": 121.2401952,
+    "type": "way"
+  },
+  {
+    "name": "Scholar's Dormitory UPLB",
+    "lat": 14.1599833,
+    "lon": 121.240546,
+    "type": "way"
+  },
+  {
+    "name": "SEARCA",
+    "lat": 14.1650909,
+    "lon": 121.2401817,
+    "type": "node"
+  },
+  {
+    "name": "SEARCA Canteen",
+    "lat": 14.1649426,
+    "lon": 121.2400086,
+    "type": "node"
+  },
+  {
+    "name": "SEARCA Copeland Apartments",
+    "lat": 14.1584483,
+    "lon": 121.2374912,
+    "type": "way"
+  },
+  {
+    "name": "SEARCA Dormitory",
+    "lat": 14.1616931,
+    "lon": 121.2393934,
+    "type": "way"
+  },
+  {
+    "name": "SEARCA Executive House No. 6",
+    "lat": 14.1601621,
+    "lon": 121.2303119,
+    "type": "way"
+  },
+  {
+    "name": "SEARCA Guesthouse",
+    "lat": 14.1602882,
+    "lon": 121.2285374,
+    "type": "way"
+  },
+  {
+    "name": "SEARCA Residence Hotel",
+    "lat": 14.1616058,
+    "lon": 121.2394341,
+    "type": "way"
+  },
+  {
+    "name": "SEARCA Rubber Area Apartments",
+    "lat": 14.1515872,
+    "lon": 121.2345944,
+    "type": "way"
+  },
+  {
+    "name": "SEARCA Umali Auditorium",
+    "lat": 14.1649941,
+    "lon": 121.2397423,
+    "type": "node"
+  },
+  {
+    "name": "Senior's Social Garden",
+    "lat": 14.1626671,
+    "lon": 121.24381,
+    "type": "node"
+  },
+  {
+    "name": "Senior's Social Garden",
+    "lat": 14.1626702,
+    "lon": 121.2438536,
+    "type": "node"
+  },
+  {
+    "name": "Senior's Social Garden",
+    "lat": 14.1626686,
+    "lon": 121.2438318,
+    "type": "relation"
+  },
+  {
+    "name": "Seniors' Social Garden",
+    "lat": 14.1625024,
+    "lon": 121.2436882,
+    "type": "way"
+  },
+  {
+    "name": "Seniors' Social Garden Parking",
+    "lat": 14.1626651,
+    "lon": 121.2435967,
+    "type": "way"
+  },
+  {
+    "name": "Seoul Kitchen",
+    "lat": 14.1690764,
+    "lon": 121.2416741,
+    "type": "way"
+  },
+  {
+    "name": "Serendipitea",
+    "lat": 14.1696513,
+    "lon": 121.2442872,
+    "type": "node"
+  },
+  {
+    "name": "Sider's Store",
+    "lat": 14.1653238,
+    "lon": 121.2470045,
+    "type": "node"
+  },
+  {
+    "name": "Sierra Madre Extension",
+    "lat": 14.1686532,
+    "lon": 121.2373726,
+    "type": "way"
+  },
+  {
+    "name": "Sierra Madre Extension",
+    "lat": 14.1677569,
+    "lon": 121.2368999,
+    "type": "way"
+  },
+  {
+    "name": "Sierra Madre Extension",
+    "lat": 14.1676292,
+    "lon": 121.2368914,
+    "type": "way"
+  },
+  {
+    "name": "Sierra Madre Extension",
+    "lat": 14.1673077,
+    "lon": 121.2373391,
+    "type": "way"
+  },
+  {
+    "name": "Sierra Madre Extension",
+    "lat": 14.1672262,
+    "lon": 121.2371174,
+    "type": "way"
+  },
+  {
+    "name": "Sierra Madre Street",
+    "lat": 14.1693414,
+    "lon": 121.2384847,
+    "type": "way"
+  },
+  {
+    "name": "Silver Pulp",
+    "lat": 14.1685431,
+    "lon": 121.2441277,
+    "type": "node"
+  },
+  {
+    "name": "Silverio M. Cendana Building",
+    "lat": 14.1666158,
+    "lon": 121.2402368,
+    "type": "way"
+  },
+  {
+    "name": "Silverio's Compound",
+    "lat": 14.1698132,
+    "lon": 121.2418439,
+    "type": "way"
+  },
+  {
+    "name": "Siomai Co.",
+    "lat": 14.169907,
+    "lon": 121.2439416,
+    "type": "node"
+  },
+  {
+    "name": "Siomai Foodhaus",
+    "lat": 14.1687142,
+    "lon": 121.2442307,
+    "type": "node"
+  },
+  {
+    "name": "Sitio Riverside",
+    "lat": 14.1654421,
+    "lon": 121.2481693,
+    "type": "way"
+  },
+  {
+    "name": "Six twenty five store",
+    "lat": 14.169015,
+    "lon": 121.2411252,
+    "type": "node"
+  },
+  {
+    "name": "Sizzlers",
+    "lat": 14.16959,
+    "lon": 121.2436512,
+    "type": "node"
+  },
+  {
+    "name": "Sizzlers Take-Out Counter",
+    "lat": 14.1688228,
+    "lon": 121.244126,
+    "type": "node"
+  },
+  {
+    "name": "Sizzling & Combo Food Haus",
+    "lat": 14.1520406,
+    "lon": 121.2350804,
+    "type": "node"
+  },
+  {
+    "name": "SMB Copy Shop Center",
+    "lat": 14.1693616,
+    "lon": 121.2442304,
+    "type": "node"
+  },
+  {
+    "name": "SNODLOB UPLB - Jubileeville",
+    "lat": 14.1660291,
+    "lon": 121.2438659,
+    "type": "node"
+  },
+  {
+    "name": "Southeast Asian Regional Center for Graduate Study and Research in Agriculture",
+    "lat": 14.1649987,
+    "lon": 121.2401328,
+    "type": "way"
+  },
+  {
+    "name": "St. Therese Ladies' Dorm",
+    "lat": 14.1648072,
+    "lon": 121.2453424,
+    "type": "way"
+  },
+  {
+    "name": "Stable",
+    "lat": 14.1697322,
+    "lon": 121.2446153,
+    "type": "way"
+  },
+  {
+    "name": "Star Commercial Lane",
+    "lat": 14.1695175,
+    "lon": 121.2444309,
+    "type": "way"
+  },
+  {
+    "name": "Starbucks",
+    "lat": 14.1678799,
+    "lon": 121.2435006,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200826",
+    "lat": 14.1530132,
+    "lon": 121.2473986,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200827",
+    "lat": 14.1529096,
+    "lon": 121.2476343,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200828",
+    "lat": 14.1532281,
+    "lon": 121.2500575,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200829",
+    "lat": 14.1533511,
+    "lon": 121.2492899,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200830",
+    "lat": 14.1533679,
+    "lon": 121.2489321,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200831",
+    "lat": 14.1536916,
+    "lon": 121.2505747,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200832",
+    "lat": 14.1504672,
+    "lon": 121.2537362,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200834",
+    "lat": 14.1486287,
+    "lon": 121.2526847,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200868",
+    "lat": 14.1598184,
+    "lon": 121.2544293,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200869",
+    "lat": 14.1575434,
+    "lon": 121.2529902,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200870",
+    "lat": 14.1548045,
+    "lon": 121.2500696,
+    "type": "node"
+  },
+  {
+    "name": "STCS0200871",
+    "lat": 14.1542575,
+    "lon": 121.2492862,
+    "type": "node"
+  },
+  {
+    "name": "Student Union Building",
+    "lat": 14.163283,
+    "lon": 121.2413344,
+    "type": "way"
+  },
+  {
+    "name": "Student Union Canteen",
+    "lat": 14.1633913,
+    "lon": 121.2412801,
+    "type": "node"
+  },
+  {
+    "name": "Student's Dorm",
+    "lat": 14.1669194,
+    "lon": 121.2442524,
+    "type": "way"
+  },
+  {
+    "name": "SU",
+    "lat": 14.1628195,
+    "lon": 121.2413417,
+    "type": "node"
+  },
+  {
+    "name": "SU",
+    "lat": 14.1628594,
+    "lon": 121.2411294,
+    "type": "node"
+  },
+  {
+    "name": "SU Amphitheater",
+    "lat": 14.1631238,
+    "lon": 121.2411956,
+    "type": "way"
+  },
+  {
+    "name": "SU Parking Lot",
+    "lat": 14.1621519,
+    "lon": 121.2419353,
+    "type": "way"
+  },
+  {
+    "name": "SU Sunken Garden",
+    "lat": 14.1627195,
+    "lon": 121.2416616,
+    "type": "way"
+  },
+  {
+    "name": "Summit Avenue",
+    "lat": 14.1702122,
+    "lon": 121.2322189,
+    "type": "way"
+  },
+  {
+    "name": "Super Cup",
+    "lat": 14.1680239,
+    "lon": 121.2413825,
+    "type": "node"
+  },
+  {
+    "name": "Super Cup",
+    "lat": 14.1689063,
+    "lon": 121.2441767,
+    "type": "node"
+  },
+  {
+    "name": "Supply and Property Management Office",
+    "lat": 14.1620408,
+    "lon": 121.2456952,
+    "type": "way"
+  },
+  {
+    "name": "Sweet Cravings",
+    "lat": 14.1585082,
+    "lon": 121.2429083,
+    "type": "node"
+  },
+  {
+    "name": "Swine Husbandry",
+    "lat": 14.158062,
+    "lon": 121.2442402,
+    "type": "way"
+  },
+  {
+    "name": "Tabemashou",
+    "lat": 14.1696058,
+    "lon": 121.2445564,
+    "type": "node"
+  },
+  {
+    "name": "Tamesis Hall",
+    "lat": 14.1552239,
+    "lon": 121.2349496,
+    "type": "node"
+  },
+  {
+    "name": "Tamesis Hall",
+    "lat": 14.1552379,
+    "lon": 121.2349638,
+    "type": "relation"
+  },
+  {
+    "name": "Tamesis Tree",
+    "lat": 14.156681,
+    "lon": 121.2359534,
+    "type": "node"
+  },
+  {
+    "name": "Technology Hub and One Stop Shop",
+    "lat": 14.1618842,
+    "lon": 121.2424537,
+    "type": "way"
+  },
+  {
+    "name": "Tennis Court 1",
+    "lat": 14.1610688,
+    "lon": 121.2429827,
+    "type": "way"
+  },
+  {
+    "name": "Tennis Court 2",
+    "lat": 14.161145,
+    "lon": 121.2431069,
+    "type": "way"
+  },
+  {
+    "name": "Tennis Court 3",
+    "lat": 14.1613692,
+    "lon": 121.2431832,
+    "type": "way"
+  },
+  {
+    "name": "Tennis Court 4",
+    "lat": 14.1614447,
+    "lon": 121.2433018,
+    "type": "way"
+  },
+  {
+    "name": "Tennis Court 5",
+    "lat": 14.1615143,
+    "lon": 121.2434114,
+    "type": "way"
+  },
+  {
+    "name": "Tess & Ylloy's Canteen",
+    "lat": 14.1684301,
+    "lon": 121.2413832,
+    "type": "node"
+  },
+  {
+    "name": "Tess & Ylloy's Canteen",
+    "lat": 14.167956,
+    "lon": 121.2415411,
+    "type": "node"
+  },
+  {
+    "name": "The Chimney",
+    "lat": 14.1662223,
+    "lon": 121.2414817,
+    "type": "way"
+  },
+  {
+    "name": "The Giving Caf\u00e9",
+    "lat": 14.1632733,
+    "lon": 121.2414336,
+    "type": "node"
+  },
+  {
+    "name": "The LEADS Center",
+    "lat": 14.1509547,
+    "lon": 121.2479408,
+    "type": "way"
+  },
+  {
+    "name": "The Learning Place",
+    "lat": 14.1664204,
+    "lon": 121.2370429,
+    "type": "way"
+  },
+  {
+    "name": "The Ruby Place",
+    "lat": 14.1684467,
+    "lon": 121.2412044,
+    "type": "way"
+  },
+  {
+    "name": "Ticket Booth",
+    "lat": 14.1562671,
+    "lon": 121.2343567,
+    "type": "way"
+  },
+  {
+    "name": "Timugan",
+    "lat": 14.1704581,
+    "lon": 121.2225794,
+    "type": "relation"
+  },
+  {
+    "name": "Tissue Culture",
+    "lat": 14.1597589,
+    "lon": 121.2459314,
+    "type": "node"
+  },
+  {
+    "name": "Tita Norms Special Bulalo",
+    "lat": 14.1696704,
+    "lon": 121.2447168,
+    "type": "node"
+  },
+  {
+    "name": "Tofi's Food Corner",
+    "lat": 14.1688706,
+    "lon": 121.2411451,
+    "type": "node"
+  },
+  {
+    "name": "Toilets for Men Only",
+    "lat": 14.1597843,
+    "lon": 121.2442407,
+    "type": "node"
+  },
+  {
+    "name": "Torii",
+    "lat": 14.1632935,
+    "lon": 121.2398207,
+    "type": "node"
+  },
+  {
+    "name": "Toyota Environment Education Theater",
+    "lat": 14.1563097,
+    "lon": 121.2343527,
+    "type": "node"
+  },
+  {
+    "name": "TREES Guesthouse 1",
+    "lat": 14.1542396,
+    "lon": 121.2378246,
+    "type": "way"
+  },
+  {
+    "name": "TREES Guesthouse 2",
+    "lat": 14.1537157,
+    "lon": 121.237837,
+    "type": "way"
+  },
+  {
+    "name": "TREES Hostel",
+    "lat": 14.1516822,
+    "lon": 121.2334525,
+    "type": "way"
+  },
+  {
+    "name": "Trese Siyete",
+    "lat": 14.168883,
+    "lon": 121.2417218,
+    "type": "node"
+  },
+  {
+    "name": "Tresto",
+    "lat": 14.1699196,
+    "lon": 121.242935,
+    "type": "way"
+  },
+  {
+    "name": "Trix and Trish Gift Shop",
+    "lat": 14.165846,
+    "lon": 121.2443542,
+    "type": "node"
+  },
+  {
+    "name": "Tropic Bowls",
+    "lat": 14.1684507,
+    "lon": 121.2412253,
+    "type": "node"
+  },
+  {
+    "name": "Tuntungin Putho Pedicab Operators and Drivers Association",
+    "lat": 14.1522985,
+    "lon": 121.2515317,
+    "type": "way"
+  },
+  {
+    "name": "Tuntungin-Putho Integrated National High School",
+    "lat": 14.1519482,
+    "lon": 121.2525771,
+    "type": "way"
+  },
+  {
+    "name": "Turks",
+    "lat": 14.1676585,
+    "lon": 121.2438172,
+    "type": "node"
+  },
+  {
+    "name": "Uela's Boutique",
+    "lat": 14.1686295,
+    "lon": 121.2437079,
+    "type": "node"
+  },
+  {
+    "name": "ULKC Activity Deck",
+    "lat": 14.1628214,
+    "lon": 121.239571,
+    "type": "way"
+  },
+  {
+    "name": "Umali Pump Station",
+    "lat": 14.1689499,
+    "lon": 121.2402067,
+    "type": "way"
+  },
+  {
+    "name": "Umali Subdivision",
+    "lat": 14.1715918,
+    "lon": 121.2397687,
+    "type": "way"
+  },
+  {
+    "name": "Umali/SU",
+    "lat": 14.1636534,
+    "lon": 121.2400171,
+    "type": "node"
+  },
+  {
+    "name": "Umali/SU",
+    "lat": 14.1637471,
+    "lon": 121.2399205,
+    "type": "node"
+  },
+  {
+    "name": "Uncle Jet's Burger Joint",
+    "lat": 14.1687729,
+    "lon": 121.2414313,
+    "type": "node"
+  },
+  {
+    "name": "Uncle John's",
+    "lat": 14.1681188,
+    "lon": 121.2435654,
+    "type": "node"
+  },
+  {
+    "name": "Unit 1",
+    "lat": 14.1604838,
+    "lon": 121.2403511,
+    "type": "way"
+  },
+  {
+    "name": "Unit 2",
+    "lat": 14.1606081,
+    "lon": 121.2408193,
+    "type": "way"
+  },
+  {
+    "name": "Unit 2",
+    "lat": 14.1609543,
+    "lon": 121.2400286,
+    "type": "way"
+  },
+  {
+    "name": "Unit 3",
+    "lat": 14.1607421,
+    "lon": 121.2410809,
+    "type": "way"
+  },
+  {
+    "name": "Unit 3",
+    "lat": 14.1604809,
+    "lon": 121.240111,
+    "type": "way"
+  },
+  {
+    "name": "Unit 4",
+    "lat": 14.1613597,
+    "lon": 121.2402005,
+    "type": "way"
+  },
+  {
+    "name": "Unit 4",
+    "lat": 14.1608845,
+    "lon": 121.2398765,
+    "type": "way"
+  },
+  {
+    "name": "Unit 5",
+    "lat": 14.1615183,
+    "lon": 121.2405872,
+    "type": "way"
+  },
+  {
+    "name": "Unit A",
+    "lat": 14.1564641,
+    "lon": 121.24138,
+    "type": "way"
+  },
+  {
+    "name": "Unit B",
+    "lat": 14.1563797,
+    "lon": 121.2412401,
+    "type": "way"
+  },
+  {
+    "name": "University Bookstore",
+    "lat": 14.1635591,
+    "lon": 121.241767,
+    "type": "node"
+  },
+  {
+    "name": "University Cafeteria",
+    "lat": 14.163538,
+    "lon": 121.2417067,
+    "type": "node"
+  },
+  {
+    "name": "University Housing Office",
+    "lat": 14.1591601,
+    "lon": 121.2417889,
+    "type": "node"
+  },
+  {
+    "name": "University Library",
+    "lat": 14.1655654,
+    "lon": 121.2390043,
+    "type": "node"
+  },
+  {
+    "name": "University Library and Knowledge Center",
+    "lat": 14.1629169,
+    "lon": 121.2398501,
+    "type": "way"
+  },
+  {
+    "name": "University of the Philippines Los Ba\u00f1os",
+    "lat": 14.1604892,
+    "lon": 121.2438882,
+    "type": "way"
+  },
+  {
+    "name": "University of the Philippines Los Ba\u00f1os College of Arts and Sciences",
+    "lat": 14.1616424,
+    "lon": 121.2419496,
+    "type": "relation"
+  },
+  {
+    "name": "University Police Force",
+    "lat": 14.163458,
+    "lon": 121.2426083,
+    "type": "way"
+  },
+  {
+    "name": "UP ADS Tambayan",
+    "lat": 14.1669725,
+    "lon": 121.2425245,
+    "type": "node"
+  },
+  {
+    "name": "UP CombroadSoc Tambayan",
+    "lat": 14.1669236,
+    "lon": 121.242547,
+    "type": "node"
+  },
+  {
+    "name": "UP Diliman\u2013UP Los Ba\u00f1os",
+    "lat": 14.4111716,
+    "lon": 121.1383995,
+    "type": "relation"
+  },
+  {
+    "name": "UP Diliman\u2013UP Los Ba\u00f1os",
+    "lat": 14.4111032,
+    "lon": 121.1385784,
+    "type": "relation"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.1675854,
+    "lon": 121.2430119,
+    "type": "node"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.1669953,
+    "lon": 121.2437073,
+    "type": "node"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.1675438,
+    "lon": 121.2429887,
+    "type": "node"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.1676036,
+    "lon": 121.2430325,
+    "type": "node"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.167002,
+    "lon": 121.2436556,
+    "type": "node"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.1670243,
+    "lon": 121.243722,
+    "type": "node"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.1675945,
+    "lon": 121.2430222,
+    "type": "relation"
+  },
+  {
+    "name": "UP Gate",
+    "lat": 14.166993,
+    "lon": 121.2437009,
+    "type": "relation"
+  },
+  {
+    "name": "UP Presidential Guest House",
+    "lat": 14.1622141,
+    "lon": 121.2392482,
+    "type": "way"
+  },
+  {
+    "name": "UP-Cornell Housing",
+    "lat": 14.161764,
+    "lon": 121.2315617,
+    "type": "way"
+  },
+  {
+    "name": "Upbeat Merchandise",
+    "lat": 14.1682306,
+    "lon": 121.2414689,
+    "type": "node"
+  },
+  {
+    "name": "UPCA Class 1958 Gazebo",
+    "lat": 14.1594555,
+    "lon": 121.2428071,
+    "type": "way"
+  },
+  {
+    "name": "UPCA Pumphouse 5",
+    "lat": 14.1593803,
+    "lon": 121.2450256,
+    "type": "way"
+  },
+  {
+    "name": "UPCO Housing",
+    "lat": 14.1644943,
+    "lon": 121.2347705,
+    "type": "node"
+  },
+  {
+    "name": "UPCO Pump Station",
+    "lat": 14.1646445,
+    "lon": 121.234658,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Academic Heritage Tower",
+    "lat": 14.1662767,
+    "lon": 121.2426524,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Alumni Plaza",
+    "lat": 14.1595761,
+    "lon": 121.2430834,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Babaylan",
+    "lat": 14.1646426,
+    "lon": 121.2411241,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Baseball Field",
+    "lat": 14.1581924,
+    "lon": 121.2417671,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Baseball Infield",
+    "lat": 14.1582101,
+    "lon": 121.2417755,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Campus Map Board",
+    "lat": 14.1668377,
+    "lon": 121.2436914,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Carillon Tower",
+    "lat": 14.1592619,
+    "lon": 121.2423759,
+    "type": "way"
+  },
+  {
+    "name": "UPLB CEM Alumni Gazebo",
+    "lat": 14.1666403,
+    "lon": 121.2410236,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Centennial Tree Park",
+    "lat": 14.1629856,
+    "lon": 121.2391192,
+    "type": "way"
+  },
+  {
+    "name": "UPLB CFNR Alumni Forest and Nature Park",
+    "lat": 14.1520023,
+    "lon": 121.2363621,
+    "type": "way"
+  },
+  {
+    "name": "UPLB CFNR Football Field",
+    "lat": 14.1523843,
+    "lon": 121.2361193,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Agriculture and Food Science",
+    "lat": 14.1665942,
+    "lon": 121.2433259,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Arts and Sciences",
+    "lat": 14.1653644,
+    "lon": 121.2409367,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Development Communication",
+    "lat": 14.1670465,
+    "lon": 121.2425832,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Development Communication",
+    "lat": 14.1670443,
+    "lon": 121.2425826,
+    "type": "relation"
+  },
+  {
+    "name": "UPLB College of Economics and Management",
+    "lat": 14.1671897,
+    "lon": 121.2416044,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Economics and Management",
+    "lat": 14.1670148,
+    "lon": 121.2415286,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Engineering and Agro-industrial Technology",
+    "lat": 14.1622711,
+    "lon": 121.2479535,
+    "type": "relation"
+  },
+  {
+    "name": "UPLB College of Forestry and Natural Resources",
+    "lat": 14.1544327,
+    "lon": 121.234541,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Human Ecology",
+    "lat": 14.1646662,
+    "lon": 121.242834,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Public Affairs and Development",
+    "lat": 14.1603097,
+    "lon": 121.2376092,
+    "type": "relation"
+  },
+  {
+    "name": "UPLB College of Veterinary Medicine",
+    "lat": 14.1578525,
+    "lon": 121.2430169,
+    "type": "way"
+  },
+  {
+    "name": "UPLB College of Veterinary Medicine Administration Building",
+    "lat": 14.1587699,
+    "lon": 121.2428332,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Community Center",
+    "lat": 14.1646521,
+    "lon": 121.2408299,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Credit and Development Cooperative",
+    "lat": 14.1672537,
+    "lon": 121.2380256,
+    "type": "way"
+  },
+  {
+    "name": "UPLB DevComSoc Tambayan",
+    "lat": 14.1669649,
+    "lon": 121.2425732,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Digital Innovation Center",
+    "lat": 14.1668299,
+    "lon": 121.2433623,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Executive Guesthouse",
+    "lat": 14.1618894,
+    "lon": 121.2318317,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Executive House",
+    "lat": 14.1595025,
+    "lon": 121.2290894,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Experimental Farm",
+    "lat": 14.166161,
+    "lon": 121.2514903,
+    "type": "relation"
+  },
+  {
+    "name": "UPLB Faculty Village",
+    "lat": 14.165888,
+    "lon": 121.2376863,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Foundation, Inc.",
+    "lat": 14.1635583,
+    "lon": 121.2418533,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Freedom Park",
+    "lat": 14.1612808,
+    "lon": 121.241725,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Gate",
+    "lat": 14.1675537,
+    "lon": 121.2434292,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Gender Center",
+    "lat": 14.1637651,
+    "lon": 121.2394009,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Gender Center",
+    "lat": 14.1637686,
+    "lon": 121.2394014,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Graduate School",
+    "lat": 14.1636926,
+    "lon": 121.2393246,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Graduate School International Student and Cultural Center",
+    "lat": 14.163822,
+    "lon": 121.2390147,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Grandstand",
+    "lat": 14.1605189,
+    "lon": 121.2428692,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Museum of Natural History",
+    "lat": 14.1560104,
+    "lon": 121.2364671,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Oblation",
+    "lat": 14.1650027,
+    "lon": 121.2415518,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Office of Alumni Relations",
+    "lat": 14.1628601,
+    "lon": 121.2388325,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Office of International Linkages",
+    "lat": 14.1632658,
+    "lon": 121.2394704,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Perspective",
+    "lat": 14.1632556,
+    "lon": 121.2413121,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Phil-LiDAR 1",
+    "lat": 14.1646845,
+    "lon": 121.2428086,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Post Office",
+    "lat": 14.1635259,
+    "lon": 121.2420782,
+    "type": "way"
+  },
+  {
+    "name": "UPLB School of Environmental Science and Management",
+    "lat": 14.1662458,
+    "lon": 121.2415181,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Sculpture Garden",
+    "lat": 14.1592854,
+    "lon": 121.2435799,
+    "type": "node"
+  },
+  {
+    "name": "UPLB Sewage Treatment Plant",
+    "lat": 14.1621628,
+    "lon": 121.2448311,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Softball Field",
+    "lat": 14.1574562,
+    "lon": 121.2417779,
+    "type": "way"
+  },
+  {
+    "name": "UPLB Softball Infield",
+    "lat": 14.157399,
+    "lon": 121.2417579,
+    "type": "way"
+  },
+  {
+    "name": "UPLB University Health Service",
+    "lat": 14.1626594,
+    "lon": 121.2383833,
+    "type": "way"
+  },
+  {
+    "name": "UPLB University Health Service Main Building",
+    "lat": 14.1625243,
+    "lon": 121.238346,
+    "type": "way"
+  },
+  {
+    "name": "UPLB University Student Council",
+    "lat": 14.1632115,
+    "lon": 121.2413596,
+    "type": "node"
+  },
+  {
+    "name": "UPLB-EDC Binhi Biodiversity Park",
+    "lat": 14.1544231,
+    "lon": 121.236677,
+    "type": "way"
+  },
+  {
+    "name": "UPLB-EDC Ninhi Biodiversity Park",
+    "lat": 14.1557826,
+    "lon": 121.2370491,
+    "type": "way"
+  },
+  {
+    "name": "UPLBFI Building",
+    "lat": 14.163557,
+    "lon": 121.2417641,
+    "type": "way"
+  },
+  {
+    "name": "UPOU Guesthouse",
+    "lat": 14.1607901,
+    "lon": 121.2384439,
+    "type": "way"
+  },
+  {
+    "name": "Valente E. Villegas Hall",
+    "lat": 14.1587256,
+    "lon": 121.2435514,
+    "type": "way"
+  },
+  {
+    "name": "Valentin Sajor",
+    "lat": 14.1514456,
+    "lon": 121.2346313,
+    "type": "way"
+  },
+  {
+    "name": "Valentin Sajor",
+    "lat": 14.1520925,
+    "lon": 121.2362841,
+    "type": "way"
+  },
+  {
+    "name": "Valentin Sajor",
+    "lat": 14.1531466,
+    "lon": 121.237587,
+    "type": "way"
+  },
+  {
+    "name": "Valentin Sajor",
+    "lat": 14.151693,
+    "lon": 121.2354694,
+    "type": "way"
+  },
+  {
+    "name": "Valentino G. Arga\u00f1osa",
+    "lat": 14.1571388,
+    "lon": 121.2478087,
+    "type": "way"
+  },
+  {
+    "name": "Valeriano C. Calma Hall",
+    "lat": 14.160323,
+    "lon": 121.2458471,
+    "type": "way"
+  },
+  {
+    "name": "Valeriano C. Calma Hall",
+    "lat": 14.1603249,
+    "lon": 121.2458492,
+    "type": "way"
+  },
+  {
+    "name": "Vargas Hall",
+    "lat": 14.1594419,
+    "lon": 121.2281048,
+    "type": "way"
+  },
+  {
+    "name": "Vat Cave",
+    "lat": 14.1700684,
+    "lon": 121.2431689,
+    "type": "way"
+  },
+  {
+    "name": "VCMTC Dormitory",
+    "lat": 14.1685823,
+    "lon": 121.2426602,
+    "type": "node"
+  },
+  {
+    "name": "Vega",
+    "lat": 14.1683007,
+    "lon": 121.243925,
+    "type": "node"
+  },
+  {
+    "name": "Vega",
+    "lat": 14.1681386,
+    "lon": 121.2437439,
+    "type": "node"
+  },
+  {
+    "name": "Vega",
+    "lat": 14.1682212,
+    "lon": 121.2438345,
+    "type": "relation"
+  },
+  {
+    "name": "Vega Arcade",
+    "lat": 14.1678972,
+    "lon": 121.2434738,
+    "type": "way"
+  },
+  {
+    "name": "Vega Centre",
+    "lat": 14.1676418,
+    "lon": 121.2437777,
+    "type": "way"
+  },
+  {
+    "name": "Vega Pump Station",
+    "lat": 14.1680159,
+    "lon": 121.2460102,
+    "type": "way"
+  },
+  {
+    "name": "Velasco Compound",
+    "lat": 14.16774,
+    "lon": 121.2411097,
+    "type": "way"
+  },
+  {
+    "name": "Venus Street",
+    "lat": 14.1542821,
+    "lon": 121.2516378,
+    "type": "way"
+  },
+  {
+    "name": "Verbum House",
+    "lat": 14.1656361,
+    "lon": 121.2451251,
+    "type": "way"
+  },
+  {
+    "name": "Veterinary Medicine Residence Hall",
+    "lat": 14.1606851,
+    "lon": 121.2401201,
+    "type": "way"
+  },
+  {
+    "name": "Veterinary Pathology Resource Facility",
+    "lat": 14.1571218,
+    "lon": 121.2430971,
+    "type": "way"
+  },
+  {
+    "name": "Vhec Store",
+    "lat": 14.1697969,
+    "lon": 121.2440199,
+    "type": "node"
+  },
+  {
+    "name": "VHEC's store",
+    "lat": 14.1698314,
+    "lon": 121.2440609,
+    "type": "node"
+  },
+  {
+    "name": "Vhec's store 2",
+    "lat": 14.1698796,
+    "lon": 121.2440357,
+    "type": "node"
+  },
+  {
+    "name": "Vicente M. Dawis Street",
+    "lat": 14.1637607,
+    "lon": 121.2442183,
+    "type": "way"
+  },
+  {
+    "name": "Victoria M. Ela Avenue",
+    "lat": 14.165769,
+    "lon": 121.2441583,
+    "type": "way"
+  },
+  {
+    "name": "Victory Los Ba\u00f1os",
+    "lat": 14.1675615,
+    "lon": 121.2436703,
+    "type": "node"
+  },
+  {
+    "name": "Villa Carangal",
+    "lat": 14.1501022,
+    "lon": 121.2515929,
+    "type": "way"
+  },
+  {
+    "name": "Villegas Compound",
+    "lat": 14.1656949,
+    "lon": 121.245164,
+    "type": "way"
+  },
+  {
+    "name": "Vimarie Food House",
+    "lat": 14.1697035,
+    "lon": 121.2438128,
+    "type": "node"
+  },
+  {
+    "name": "Vraja Cuisine - Vegetarian and Vegan Cafe",
+    "lat": 14.1598557,
+    "lon": 121.2432051,
+    "type": "way"
+  },
+  {
+    "name": "Waling-waling",
+    "lat": 14.1576981,
+    "lon": 121.2550006,
+    "type": "way"
+  },
+  {
+    "name": "Wantoks Place",
+    "lat": 14.1685014,
+    "lon": 121.2439079,
+    "type": "node"
+  },
+  {
+    "name": "Watsons",
+    "lat": 14.1680371,
+    "lon": 121.2435152,
+    "type": "node"
+  },
+  {
+    "name": "Wave 1 dot 4",
+    "lat": 14.168788,
+    "lon": 121.2444557,
+    "type": "node"
+  },
+  {
+    "name": "We Deliver",
+    "lat": 14.1679237,
+    "lon": 121.2418315,
+    "type": "node"
+  },
+  {
+    "name": "Westbrook Residences",
+    "lat": 14.1677238,
+    "lon": 121.2387392,
+    "type": "way"
+  },
+  {
+    "name": "White House Apartments",
+    "lat": 14.1693414,
+    "lon": 121.2407749,
+    "type": "way"
+  },
+  {
+    "name": "Wi-Net",
+    "lat": 14.1697121,
+    "lon": 121.2438432,
+    "type": "node"
+  },
+  {
+    "name": "Wing A",
+    "lat": 14.1639888,
+    "lon": 121.2419126,
+    "type": "node"
+  },
+  {
+    "name": "Wisma Gloria-Shalom",
+    "lat": 14.1692679,
+    "lon": 121.2420227,
+    "type": "way"
+  },
+  {
+    "name": "Wok to Box UPLB",
+    "lat": 14.1678855,
+    "lon": 121.2417337,
+    "type": "node"
+  },
+  {
+    "name": "Women's Dorm",
+    "lat": 14.1622631,
+    "lon": 121.2404666,
+    "type": "node"
+  },
+  {
+    "name": "Women's Residence Hall",
+    "lat": 14.1621796,
+    "lon": 121.2402194,
+    "type": "way"
+  },
+  {
+    "name": "Yigo's Dough Box",
+    "lat": 14.1676609,
+    "lon": 121.2440208,
+    "type": "way"
+  },
+  {
+    "name": "YMCA",
+    "lat": 14.1609739,
+    "lon": 121.2414561,
+    "type": "node"
+  },
+  {
+    "name": "YMCA Plaza",
+    "lat": 14.1602515,
+    "lon": 121.2413366,
+    "type": "way"
+  },
+  {
+    "name": "YMCA UPLB",
+    "lat": 14.1601627,
+    "lon": 121.2410618,
+    "type": "way"
+  },
+  {
+    "name": "Yuhyang Presbyterian Church",
+    "lat": 14.164046,
+    "lon": 121.2325288,
+    "type": "node"
+  },
+  {
+    "name": "Zagu",
+    "lat": 14.1692107,
+    "lon": 121.2442806,
+    "type": "node"
+  },
+  {
+    "name": "Zark's Burgers",
+    "lat": 14.1680796,
+    "lon": 121.2435413,
+    "type": "node"
+  },
+  {
+    "name": "Zeark's",
+    "lat": 14.1698239,
+    "lon": 121.2436568,
+    "type": "node"
+  },
+  {
+    "name": "Zeny May",
+    "lat": 14.1698666,
+    "lon": 121.243843,
+    "type": "node"
+  },
+  {
+    "name": "Zoller Cuisine",
+    "lat": 14.1679184,
+    "lon": 121.2415507,
+    "type": "node"
+  }
+]

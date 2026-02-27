@@ -61,6 +61,7 @@ LANDMARKS = [
 
 # Alternate names to try when fuzzy matching (checked alongside the main name)
 ALTERNATE_NAMES = {
+    "Freedom Park":           ["UPLB Freedom Park"],
     "Mariang Banga":          ["Ang Babaing May Dalang Banga"],
     "DL Umali Hall":          ["D.L. Umali Hall", "Umali Hall", "Dioscoro L. Umali Hall"],
     "Copeland":               ["Edwin B. Copeland Gym"],
@@ -84,6 +85,7 @@ ALTERNATE_NAMES = {
 # Use these when OSM data is inaccurate for a landmark.
 # Format: "Landmark Name": (latitude, longitude)
 MANUAL_OVERRIDES = {
+    "Freedom Park": (14.16128, 121.24173),
     "Math Building": (14.16488, 121.24369),
 }
 

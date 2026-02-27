@@ -58,9 +58,9 @@
     },
     {
       "name": "Freedom Park",
-      "lat": 14.161687,
-      "lon": 121.2408855,
-      "source": "osm",
+      "lat": 14.16128,
+      "lon": 121.24173,
+      "source": "manual",
       "score": 1.0,
       "osm_match": "Freedom Park"
     },
