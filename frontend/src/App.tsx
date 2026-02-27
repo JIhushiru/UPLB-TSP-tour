@@ -180,6 +180,18 @@ function App() {
           isAnimating={isAnimating}
         />
       </main>
+
+      <footer className="mt-10 pt-4 border-t text-center text-xs text-muted">
+        Built by{" "}
+        <a
+          href="https://jhraportfolio.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-accent-foreground font-medium hover:underline"
+        >
+          JHRA
+        </a>
+      </footer>
     </div>
   );
 }
