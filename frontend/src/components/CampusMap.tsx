@@ -18,7 +18,7 @@ function createDotIcon(color: string, size: number) {
       background:${color};
       border:2px solid white;
       border-radius:50%;
-      box-shadow:0 1px 4px rgba(0,0,0,0.4);
+      box-shadow:0 2px 6px rgba(0,0,0,0.3);
     "></div>`,
     iconSize: [size, size],
     iconAnchor: [size / 2, size / 2],
@@ -31,12 +31,12 @@ function createNumberedIcon(color: string, size: number, label: string) {
     html: `<div style="
       width:${size}px;height:${size}px;
       background:${color};
-      border:2px solid white;
+      border:2.5px solid white;
       border-radius:50%;
-      box-shadow:0 1px 4px rgba(0,0,0,0.4);
+      box-shadow:0 2px 8px rgba(0,0,0,0.35);
       display:flex;align-items:center;justify-content:center;
-      color:white;font-size:${Math.max(size * 0.45, 9)}px;font-weight:700;
-      line-height:1;
+      color:white;font-size:${Math.max(size * 0.42, 9)}px;font-weight:800;
+      line-height:1;font-family:Inter,system-ui,sans-serif;
     ">${label}</div>`,
     iconSize: [size, size],
     iconAnchor: [size / 2, size / 2],
@@ -112,7 +112,6 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
     }
   }
 
-  // Build a map from location index to its route order (1-based), excluding the return-to-start duplicate
   const routeOrder = new Map<number, number>();
   if (path) {
     for (let i = 0; i < path.length - 1; i++) {
@@ -130,13 +129,23 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
     : null;
 
   return (
-    <div className="mb-6">
-      <h2 className="text-lg font-semibold mb-3 text-heading">Campus Map</h2>
-      <div className="relative">
+    <section>
+      <div className="flex items-center gap-3 mb-3">
+        <div className="w-8 h-8 rounded-xl bg-blue-500/10 flex items-center justify-center shrink-0">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21" />
+            <line x1="9" y1="3" x2="9" y2="18" />
+            <line x1="15" y1="6" x2="15" y2="21" />
+          </svg>
+        </div>
+        <h2 className="text-sm font-bold text-heading m-0">Campus Map</h2>
+      </div>
+
+      <div className="relative rounded-2xl overflow-hidden shadow-card-lg border">
         <MapContainer
           center={CENTER}
           zoom={ZOOM}
-          className="w-full h-[600px] rounded-[10px] border z-0 max-[500px]:h-[400px]"
+          className="w-full h-[600px] z-0 max-[500px]:h-[400px]"
           ref={mapRef}
           scrollWheelZoom={true}
         >
@@ -172,13 +181,13 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
 
             let icon;
             if (isStart && order !== undefined) {
-              icon = createNumberedIcon("#2563eb", 24, String(order));
+              icon = createNumberedIcon("#2563eb", 26, String(order));
             } else if (isAnimating && isInPath && order !== undefined) {
               icon = reachedNodes.has(i)
-                ? createNumberedIcon("#3b82f6", 22, String(order))
-                : createNumberedIcon("#6b7280", 22, String(order));
+                ? createNumberedIcon("#3b82f6", 24, String(order))
+                : createNumberedIcon("#6b7280", 24, String(order));
             } else if (isInPath && order !== undefined) {
-              icon = createNumberedIcon("#3b82f6", 22, String(order));
+              icon = createNumberedIcon("#3b82f6", 24, String(order));
             } else if (isSelected) {
               icon = selectedIcon;
             } else {
@@ -195,23 +204,29 @@ export default function CampusMap({ result, startPoint, selectedLocations, anima
           })}
         </MapContainer>
 
+        {/* Animation overlay card */}
         {isAnimating && currentLocationName && (
           <div
-            className="absolute top-3 right-3 z-[1000] bg-black/75 text-white rounded-[10px] overflow-hidden pointer-events-none animate-fadeIn shadow-[0_4px_12px_rgba(0,0,0,0.3)] max-w-[170px] max-[500px]:max-w-[130px]"
+            className="absolute top-4 right-4 z-[1000] bg-surface/90 backdrop-blur-md text-foreground rounded-2xl overflow-hidden pointer-events-none animate-fadeIn shadow-card-xl border max-w-[180px] max-[500px]:max-w-[140px] max-[500px]:top-3 max-[500px]:right-3"
             key={currentLocationIndex}
           >
             <img
               src={getLocationImagePath(currentLocationIndex!)}
               alt={currentLocationName}
-              className="block w-full h-[100px] object-cover max-[500px]:h-[75px]"
+              className="block w-full h-[110px] object-cover max-[500px]:h-[80px]"
               onError={(e) => { (e.target as HTMLImageElement).src = FALLBACK_IMAGE; }}
             />
-            <span className="block py-1.5 px-[0.7rem] text-sm font-semibold text-center truncate">
-              {currentLocationName}
-            </span>
+            <div className="py-2 px-3">
+              <span className="block text-xs font-bold text-heading truncate">
+                {currentLocationName}
+              </span>
+              <span className="block text-[10px] text-muted mt-0.5">
+                Stop {(animationStep ?? 0) + 2} of {path?.length}
+              </span>
+            </div>
           </div>
         )}
       </div>
-    </div>
+    </section>
   );
 }

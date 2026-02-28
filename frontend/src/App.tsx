@@ -119,25 +119,38 @@ function App() {
       : "light");
 
   return (
-    <div className="max-w-[900px] mx-auto py-8 px-6 font-sans text-foreground max-[500px]:p-4">
-      <header className="flex items-center justify-center mb-10 relative">
-        <div className="text-center">
-          <h1 className="text-3xl font-bold tracking-tight text-heading mb-1.5">
+    <div className="max-w-[960px] mx-auto py-10 px-6 font-sans text-foreground max-[500px]:py-6 max-[500px]:px-4">
+      {/* Hero Header */}
+      <header className="relative mb-10 max-[500px]:mb-8">
+        <div
+          className="rounded-2xl border p-8 max-[500px]:p-5 text-center"
+          style={{ background: 'var(--hero-gradient)', borderColor: 'var(--hero-border)' }}
+        >
+          <div className="inline-flex items-center gap-1.5 bg-accent/10 text-accent-foreground text-xs font-semibold tracking-wider uppercase px-3 py-1 rounded-full mb-4">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" />
+              <circle cx="12" cy="10" r="3" />
+            </svg>
+            Campus Navigation
+          </div>
+          <h1 className="text-4xl max-[500px]:text-2xl font-extrabold tracking-tight text-heading mb-2 leading-tight">
             UPLB Campus Tour
           </h1>
-          <p className="m-0 text-muted text-sm tracking-wide">
-            Built with the{" "}
-            <span className="text-accent-foreground font-medium">Travelling Salesman Problem</span>
+          <p className="m-0 text-muted text-sm max-w-md mx-auto leading-relaxed">
+            Find the shortest walking route between campus landmarks using the{" "}
+            <span className="text-accent-foreground font-semibold">Travelling Salesman Problem</span>{" "}
+            algorithm
           </p>
         </div>
+
         <button
-          className="absolute right-0 top-0 bg-transparent border-none cursor-pointer p-1.5 text-muted opacity-60 transition-opacity duration-200 hover:opacity-100"
+          className="absolute right-3 top-3 max-[500px]:right-2 max-[500px]:top-2 w-9 h-9 flex items-center justify-center rounded-xl bg-surface/80 backdrop-blur border text-muted transition-all duration-200 hover:text-heading hover:shadow-card-lg hover:scale-105 cursor-pointer"
           onClick={toggleTheme}
           aria-label={`Switch to ${effectiveTheme === "dark" ? "light" : "dark"} mode`}
           title={`Switch to ${effectiveTheme === "dark" ? "light" : "dark"} mode`}
         >
           {effectiveTheme === "dark" ? (
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <circle cx="12" cy="12" r="5"/>
               <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
               <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
@@ -145,14 +158,14 @@ function App() {
               <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
             </svg>
           ) : (
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
             </svg>
           )}
         </button>
       </header>
 
-      <main>
+      <main className="flex flex-col gap-8 max-[500px]:gap-6">
         <LocationSelector
           selectedLocations={selectedLocations}
           setSelectedLocations={setSelectedLocations}
@@ -173,9 +186,17 @@ function App() {
         />
 
         {isComputing && (
-          <div className="text-center py-8 text-muted">
-            <div className="w-8 h-8 border-[3px] border-[var(--border)] border-t-accent rounded-full mx-auto mb-3 animate-spin" />
-            <p className="text-sm">Finding the optimal route across {selectedLocations.size} landmarks...</p>
+          <div className="text-center py-10">
+            <div className="inline-flex flex-col items-center gap-4">
+              <div className="relative w-10 h-10">
+                <div className="absolute inset-0 rounded-full border-[3px] border-accent/20" />
+                <div className="absolute inset-0 rounded-full border-[3px] border-transparent border-t-accent animate-spin" />
+              </div>
+              <div>
+                <p className="text-sm font-medium text-heading m-0 mb-1">Computing optimal route</p>
+                <p className="text-xs text-muted m-0">Analyzing {selectedLocations.size} landmarks...</p>
+              </div>
+            </div>
           </div>
         )}
 
@@ -187,16 +208,18 @@ function App() {
         />
       </main>
 
-      <footer className="mt-10 pt-4 border-t text-center text-xs text-muted">
-        Built by{" "}
-        <a
-          href="https://jhraportfolio.vercel.app/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-accent-foreground font-medium hover:underline"
-        >
-          JHRA
-        </a>
+      <footer className="mt-12 pt-6 border-t text-center">
+        <p className="text-xs text-muted m-0">
+          Built by{" "}
+          <a
+            href="https://jhraportfolio.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-accent-foreground font-semibold hover:underline transition-colors duration-200"
+          >
+            JHRA
+          </a>
+        </p>
       </footer>
     </div>
   );
